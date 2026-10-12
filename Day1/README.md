@@ -31,7 +31,7 @@ output/clean/  pokemon_clean_<time>.csv       cleaned, de-duplicated records
 The list `POKEMON` deliberately has a repeated name (duplicate test) and a fake name
 (404 failure test). Edit it to fetch any Pokemon you like.
 
-## Interview explanation
+## Summary
 A small ETL pipeline: extract from a REST API with retries, keep the raw response, transform
 (flatten nested JSON, validate, convert units, de-duplicate), load to CSV. Bad records are
 quarantined with a reason instead of crashing the run.
