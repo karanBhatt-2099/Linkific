@@ -62,6 +62,3 @@ python main.py run-all                           # the whole pipeline
 from storage.database import query
 print(query("SELECT category, ROUND(AVG(price_gbp),2) avg_price FROM books GROUP BY category"))
 ```
-
-## Ethics
-Read `ETHICAL_SCRAPING_CHECKLIST.md`. All requests go through `PoliteSession`, which checks robots.txt, rate-limits, retries politely, and sends an identifying User-Agent. **Set your real contact email in `config.USER_AGENT`.** All default targets are sites built for scraping practice.
