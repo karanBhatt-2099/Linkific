@@ -1,7 +1,3 @@
-# NumPy Day Task
-
-A beginner-friendly walkthrough of NumPy arrays, vectorization, statistics and performance.
-Everything (examples, benchmarks, projects) lives in one notebook: `numpy_operations.ipynb`.
 
 ## Folder contents
 ```
