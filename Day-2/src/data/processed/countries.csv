@@ -1,0 +1,2 @@
+name,capital,region,population,area,languages,currencies
+Canada,Ottawa,Americas,41798407,0,"[{'bcp47': 'en', 'iso639_1': 'en', 'iso639_2b': 'eng', 'iso639_2t': 'eng', 'iso639_3': 'eng', 'name': 'English', 'native_name': 'English'}, {'bcp47': 'fr', 'iso639_1': 'fr', 'iso639_2b': 'fre', 'iso639_2t': 'fra', 'iso639_3': 'fra', 'name': 'French', 'native_name': 'français'}]","[{'code': 'CAD', 'name': 'Canadian dollar', 'symbol': '$'}]"
