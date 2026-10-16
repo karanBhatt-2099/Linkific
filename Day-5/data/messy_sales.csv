@@ -1,0 +1,63 @@
+Order ID, Customer Name ,Product,Quantity,Price,Order Date,Region
+1001,  alice ,Mouse,3,25.0,2024-01-01,North
+1002,dave  ,PHONE,4,999.0,2024-01-04,East
+1003,dave  ,Phone,4,599.0,2024-01-07,North
+1004,Charlie,Mouse,,399.0,2024-01-10,West
+1005,Charlie,tablet,5,599.0,2024-01-13,West
+1006,Eve,Phone,3,$599,2024-01-16,North
+1007,  alice ,Mouse,1,999.0,2024-01-19,West
+1008,dave  ,Phone,4,599.0,2024-01-22,East
+1009,BOB,Laptop,3,999.0,not a date,West
+1010,  alice ,tablet,4,599.0,2024-01-28,North
+1011,Charlie,PHONE,,399.0,2024-01-31,North
+1012,Eve,Laptop,3,399.0,2024-02-03,East
+1013,dave  ,tablet,1,399.0,2024-02-06,North
+1014,dave  ,Laptop,3,599.0,2024-02-09,South
+1015,dave  ,PHONE,4,25.0,2024-02-12,West
+1016,dave  ,tablet,2,999.0,2024-02-15,North
+1017,Charlie,Phone,4,599.0,2024-02-18,West
+1018,  alice ,Phone,1,999.0,2024-02-21,North
+1019,Eve,tablet,2,599.0,2024-02-24,North
+1020,Charlie,PHONE,3,25.0,2024-02-27,East
+1021,Charlie,Mouse,5,599.0,2024-03-01,West
+1022,BOB,tablet,2,25.0,2024-03-04,North
+1023,  alice ,Laptop,2,599.0,2024-03-07,South
+1024,Eve,Mouse,3,399.0,2024-03-10,
+1025,dave  ,PHONE,5,599.0,2024-03-13,
+1026,dave  ,PHONE,,599.0,2024-03-16,East
+1027,Charlie,Laptop,1,25.0,2024-03-19,East
+1028,Eve,Phone,2,25.0,2024-03-22,South
+1029,Charlie,PHONE,5,599.0,2024-03-25,West
+1030,Charlie,Mouse,1,25.0,2024-03-28,East
+1031,Charlie,tablet,5,$599,2024-03-31,South
+1032,BOB,Mouse,2,399.0,2024-04-03,North
+1033,  alice ,Mouse,5,25.0,2024-04-06,North
+1034,Charlie,Phone,2,599.0,2024-04-09,
+1035,Eve,Mouse,3,399.0,2024-04-12,East
+1036,  alice ,Phone,4,599.0,2024-04-15,East
+1037,Eve,Phone,1,999.0,2024-04-18,East
+1038,Eve,PHONE,3,999.0,2024-04-21,West
+1039,BOB,PHONE,3,599.0,2024-04-24,North
+1040,dave  ,Laptop,4,25.0,2024-04-27,North
+1041,  alice ,Mouse,5,999.0,2024-04-30,South
+1042,dave  ,Laptop,4,599.0,2024-05-03,East
+1043,dave  ,Mouse,3,399.0,2024-05-06,West
+1044,BOB,Laptop,3,999.0,2024-05-09,East
+1045,  alice ,PHONE,3,399.0,2024-05-12,East
+1046,Eve,PHONE,5,599.0,2024-05-15,
+1047,Charlie,PHONE,2,25.0,2024-05-18,North
+1048,Eve,PHONE,1,399.0,2024-05-21,East
+1049,dave  ,tablet,2,399.0,2024-05-24,East
+1050,dave  ,PHONE,1,999.0,2024-05-27,East
+1051,dave  ,Phone,1,599.0,2024-05-30,
+1052,  alice ,PHONE,1,25.0,2024-06-02,South
+1053,BOB,tablet,4,999.0,2024-06-05,
+1054,Charlie,tablet,4,25.0,2024-06-08,South
+1055,Charlie,tablet,4,599.0,2024-06-11,East
+1056,  alice ,tablet,3,399.0,2024-06-14,East
+1057,Charlie,Laptop,4,399.0,2024-06-17,
+1058,  alice ,Laptop,1,599.0,2024-06-20,East
+1059,dave  ,Phone,5,599.0,2024-06-23,South
+1060,dave  ,Laptop,3,399.0,2024-06-26,North
+1003,dave  ,Phone,4,599.0,2024-01-07,North
+1008,dave  ,Phone,4,599.0,2024-01-22,East
