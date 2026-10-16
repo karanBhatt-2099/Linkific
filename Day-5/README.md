@@ -134,10 +134,3 @@ ts["value"].rolling(3).mean()                 # moving average
 ts["value"].pct_change()                      # growth rate
 ```
 
-## Common mistakes to avoid
-
-1. `and` / `or` instead of `&` / `|` in filters (and forgetting parentheses).
-2. Not assigning the result back (`df.drop_duplicates()` alone changes nothing).
-3. Forgetting `errors="coerce"` when converting messy text to numbers or dates.
-4. Using `inplace=True` or chained assignment (`df[df.a > 1]["b"] = 0`). Use `df.loc[df.a > 1, "b"] = 0`.
-5. Merging on columns with different spellings or spaces. Clean them first.
