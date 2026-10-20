@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Product A,Tech,250
+2,Product B,Tech,120
+3,Product C,Tech,80
+4,Product D,Home,60
+5,Product E,Home,45
+6,Product F,Home,30
+7,Product G,Toys,25
+8,Product H,Toys,15
+9,Product I,Food,10
+10,Product J,Food,5

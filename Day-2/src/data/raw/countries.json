@@ -1,0 +1,11 @@
+[
+  {
+    "name":"Canada",
+    "capital":"Ottawa",
+    "region":"Americas",
+    "population":41798407,
+    "area":0,
+    "languages":"[{'bcp47': 'en', 'iso639_1': 'en', 'iso639_2b': 'eng', 'iso639_2t': 'eng', 'iso639_3': 'eng', 'name': 'English', 'native_name': 'English'}, {'bcp47': 'fr', 'iso639_1': 'fr', 'iso639_2b': 'fre', 'iso639_2t': 'fra', 'iso639_3': 'fra', 'name': 'French', 'native_name': 'fran\u00e7ais'}]",
+    "currencies":"[{'code': 'CAD', 'name': 'Canadian dollar', 'symbol': '$'}]"
+  }
+]

@@ -1,0 +1,91 @@
+name,stars,forks,language,owner,created_at,url
+tensorflow/tensorflow,200899,79236,C++,tensorflow,2015-11-07T01:19:20Z,https://github.com/tensorflow/tensorflow
+f/prompts.chat,172792,22155,HTML,f,2022-12-05T13:54:13Z,https://github.com/f/prompts.chat
+huggingface/transformers,167628,34856,Python,huggingface,2018-10-29T13:56:00Z,https://github.com/huggingface/transformers
+rasbt/LLMs-from-scratch,106461,16382,Jupyter Notebook,rasbt,2023-07-23T18:15:57Z,https://github.com/rasbt/LLMs-from-scratch
+pytorch/pytorch,104764,32223,Python,pytorch,2016-08-13T05:26:41Z,https://github.com/pytorch/pytorch
+microsoft/ML-For-Beginners,91448,22605,Jupyter Notebook,microsoft,2021-03-03T01:34:05Z,https://github.com/microsoft/ML-For-Beginners
+Developer-Y/cs-video-courses,83663,11488,,Developer-Y,2016-10-21T17:02:11Z,https://github.com/Developer-Y/cs-video-courses
+mlabonne/llm-course,83541,9727,,mlabonne,2023-06-17T22:16:25Z,https://github.com/mlabonne/llm-course
+d2l-ai/d2l-zh,81632,12422,Python,d2l-ai,2017-08-23T04:40:24Z,https://github.com/d2l-ai/d2l-zh
+netdata/netdata,80914,6662,Go,netdata,2013-06-17T18:39:10Z,https://github.com/netdata/netdata
+tesseract-ocr/tesseract,76961,10832,C++,tesseract-ocr,2014-08-12T18:04:59Z,https://github.com/tesseract-ocr/tesseract
+binhnguyennus/awesome-scalability,74686,7170,,binhnguyennus,2017-12-27T03:46:40Z,https://github.com/binhnguyennus/awesome-scalability
+openbq-org/OpenBB,74182,7668,Python,openbq-org,2020-12-20T10:46:38Z,https://github.com/openbq-org/OpenBB
+microsoft/AI-For-Beginners,69728,13518,Jupyter Notebook,microsoft,2021-03-03T16:27:36Z,https://github.com/microsoft/AI-For-Beginners
+rohitg00/ai-engineering-from-scratch,68338,11965,Python,rohitg00,2026-03-18T18:38:02Z,https://github.com/rohitg00/ai-engineering-from-scratch
+scikit-learn/scikit-learn,67572,27517,Python,scikit-learn,2010-08-17T09:43:38Z,https://github.com/scikit-learn/scikit-learn
+labmlai/annotated_deep_learning_paper_implementations,67549,6755,Python,labmlai,2020-08-25T02:29:34Z,https://github.com/labmlai/annotated_deep_learning_paper_implementations
+keras-team/keras,64369,19794,Python,keras-team,2015-03-28T00:35:42Z,https://github.com/keras-team/keras
+ultralytics/ultralytics,62453,11852,Python,ultralytics,2022-09-11T16:39:45Z,https://github.com/ultralytics/ultralytics
+pathwaycom/llm-app,58795,1504,Jupyter Notebook,pathwaycom,2023-07-19T08:43:37Z,https://github.com/pathwaycom/llm-app
+deepfakes/faceswap,57575,13449,Python,deepfakes,2017-12-19T09:44:13Z,https://github.com/deepfakes/faceswap
+ageitgey/face_recognition,56816,13677,Python,ageitgey,2017-03-03T21:52:39Z,https://github.com/ageitgey/face_recognition
+Avik-Jain/100-Days-Of-ML-Code,51918,11639,,Avik-Jain,2018-07-05T09:11:43Z,https://github.com/Avik-Jain/100-Days-Of-ML-Code
+roboflow/supervision,51184,4873,Python,roboflow,2022-11-28T14:08:44Z,https://github.com/roboflow/supervision
+GokuMohandas/Made-With-ML,49731,7805,Jupyter Notebook,GokuMohandas,2018-11-05T03:44:27Z,https://github.com/GokuMohandas/Made-With-ML
+microsoft/qlib,49329,7785,Python,microsoft,2020-08-14T06:46:00Z,https://github.com/microsoft/qlib
+JuliaLang/julia,49207,5980,Julia,JuliaLang,2011-04-21T07:01:50Z,https://github.com/JuliaLang/julia
+apache/airflow,47159,18016,Python,apache,2015-04-13T18:04:58Z,https://github.com/apache/airflow
+paperless-ngx/paperless-ngx,46598,3224,Python,paperless-ngx,2022-02-12T21:56:52Z,https://github.com/paperless-ngx/paperless-ngx
+streamlit/streamlit,45968,4423,Python,streamlit,2019-08-24T00:14:52Z,https://github.com/streamlit/streamlit
+ray-project/ray,44019,8139,Python,ray-project,2016-10-25T19:38:30Z,https://github.com/ray-project/ray
+gradio-app/gradio,43745,3623,Python,gradio-app,2018-12-19T08:24:04Z,https://github.com/gradio-app/gradio
+aymericdamien/TensorFlow-Examples,43740,14624,Jupyter Notebook,aymericdamien,2015-11-11T14:21:19Z,https://github.com/aymericdamien/TensorFlow-Examples
+deepspeedai/DeepSpeed,43225,5037,Python,deepspeedai,2020-01-23T18:35:18Z,https://github.com/deepspeedai/DeepSpeed
+photoprism/photoprism,40292,2331,Go,photoprism,2018-01-27T12:00:15Z,https://github.com/photoprism/photoprism
+google-research/google-research,38905,8480,Jupyter Notebook,google-research,2018-10-04T18:42:48Z,https://github.com/google-research/google-research
+patchy631/ai-engineering-hub,38299,6305,Jupyter Notebook,patchy631,2024-10-21T10:43:24Z,https://github.com/patchy631/ai-engineering-hub
+fengdu78/Coursera-ML-AndrewNg-Notes,37948,11182,HTML,fengdu78,2017-11-04T10:04:08Z,https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+LAION-AI/Open-Assistant,37373,3272,Python,LAION-AI,2022-12-13T05:24:17Z,https://github.com/LAION-AI/Open-Assistant
+ItzCrazyKns/Vane,37287,4149,TypeScript,ItzCrazyKns,2024-04-09T10:51:32Z,https://github.com/ItzCrazyKns/Vane
+google-ai-edge/mediapipe,37257,6187,C++,google-ai-edge,2019-06-13T19:16:41Z,https://github.com/google-ai-edge/mediapipe
+ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,37241,7502,,ashishpatel26,2021-01-02T12:08:37Z,https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+qdrant/qdrant,35054,2739,Rust,qdrant,2020-05-30T21:37:01Z,https://github.com/qdrant/qdrant
+TheAlgorithms/C-Plus-Plus,34767,7882,C++,TheAlgorithms,2016-07-16T10:19:45Z,https://github.com/TheAlgorithms/C-Plus-Plus
+BVLC/caffe,34550,18401,C++,BVLC,2013-09-12T18:39:48Z,https://github.com/BVLC/caffe
+CMU-Perceptual-Computing-Lab/openpose,34498,8039,C++,CMU-Perceptual-Computing-Lab,2017-04-24T14:06:31Z,https://github.com/CMU-Perceptual-Computing-Lab/openpose
+openai/CLIP,34453,4058,Jupyter Notebook,openai,2020-12-16T11:24:42Z,https://github.com/openai/CLIP
+explosion/spaCy,33953,4731,Python,explosion,2014-07-03T15:15:40Z,https://github.com/explosion/spaCy
+lutzroeder/netron,33565,3188,JavaScript,lutzroeder,2010-12-26T12:53:43Z,https://github.com/lutzroeder/netron
+eriklindernoren/ML-From-Scratch,32983,5490,Python,eriklindernoren,2017-02-05T12:11:23Z,https://github.com/eriklindernoren/ML-From-Scratch
+Fincept-Corporation/FinceptTerminal,32435,4595,C++,Fincept-Corporation,2024-08-29T14:38:08Z,https://github.com/Fincept-Corporation/FinceptTerminal
+Lightning-AI/pytorch-lightning,31401,3822,Python,Lightning-AI,2019-03-31T00:45:57Z,https://github.com/Lightning-AI/pytorch-lightning
+AMAI-GmbH/AI-Expert-Roadmap,31290,2587,JavaScript,AMAI-GmbH,2020-10-24T21:49:40Z,https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+iperov/DeepFaceLive,31017,1367,Python,iperov,2020-12-15T12:19:22Z,https://github.com/iperov/DeepFaceLive
+eugeneyan/applied-ml,30540,4023,,eugeneyan,2020-07-04T18:57:47Z,https://github.com/eugeneyan/applied-ml
+academic/awesome-datascience,30139,6663,,academic,2014-07-05T07:07:43Z,https://github.com/academic/awesome-datascience
+JaidedAI/EasyOCR,30067,3614,Python,JaidedAI,2020-03-14T11:46:39Z,https://github.com/JaidedAI/EasyOCR
+modular/modular,29943,3202,Mojo,modular,2023-04-28T22:17:24Z,https://github.com/modular/modular
+nautechsystems/nautilus_trader,29914,3995,Rust,nautechsystems,2018-06-25T06:26:16Z,https://github.com/nautechsystems/nautilus_trader
+NirDiamant/RAG_Techniques,29835,3649,Jupyter Notebook,NirDiamant,2024-07-13T16:08:36Z,https://github.com/NirDiamant/RAG_Techniques
+d2l-ai/d2l-en,29819,5147,Python,d2l-ai,2018-10-09T01:04:37Z,https://github.com/d2l-ai/d2l-en
+donnemartin/data-science-ipython-notebooks,29360,8007,Python,donnemartin,2015-01-23T19:38:29Z,https://github.com/donnemartin/data-science-ipython-notebooks
+ChristosChristofidis/awesome-deep-learning,29038,6347,,ChristosChristofidis,2015-01-02T19:28:35Z,https://github.com/ChristosChristofidis/awesome-deep-learning
+harvard-edge/cs249r_book,28969,3641,Python,harvard-edge,2023-09-06T19:31:06Z,https://github.com/harvard-edge/cs249r_book
+ZuzooVn/machine-learning-for-software-engineers,28871,6145,,ZuzooVn,2016-10-09T21:20:25Z,https://github.com/ZuzooVn/machine-learning-for-software-engineers
+dmlc/xgboost,28855,8938,C++,dmlc,2014-02-06T17:28:03Z,https://github.com/dmlc/xgboost
+srbhr/Resume-Matcher,28653,5069,Python,srbhr,2020-04-08T03:26:49Z,https://github.com/srbhr/Resume-Matcher
+mlflow/mlflow,28363,6446,Python,mlflow,2018-06-05T16:05:58Z,https://github.com/mlflow/mlflow
+fastai/fastai,28223,7642,Jupyter Notebook,fastai,2017-09-09T17:43:36Z,https://github.com/fastai/fastai
+mozilla/DeepSpeech,26770,4074,C++,mozilla,2016-06-02T15:04:53Z,https://github.com/mozilla/DeepSpeech
+terryum/awesome-deep-learning-papers,26195,4406,TeX,terryum,2016-06-03T06:48:30Z,https://github.com/terryum/awesome-deep-learning-papers
+datawhalechina/pumpkin-book,26121,4787,,datawhalechina,2018-12-22T05:05:24Z,https://github.com/datawhalechina/pumpkin-book
+shap/shap,25809,3772,Jupyter Notebook,shap,2016-11-22T19:17:08Z,https://github.com/shap/shap
+ageron/handson-ml,25603,12700,Jupyter Notebook,ageron,2016-02-16T19:48:39Z,https://github.com/ageron/handson-ml
+mxgmn/WaveFunctionCollapse,25394,1365,C#,mxgmn,2016-09-30T11:53:17Z,https://github.com/mxgmn/WaveFunctionCollapse
+fastai/fastbook,25379,9481,Jupyter Notebook,fastai,2020-02-28T19:26:47Z,https://github.com/fastai/fastbook
+trekhleb/homemade-machine-learning,24819,4182,Jupyter Notebook,trekhleb,2018-11-01T04:34:19Z,https://github.com/trekhleb/homemade-machine-learning
+NirDiamant/GenAI_Agents,24567,4142,Jupyter Notebook,NirDiamant,2024-09-09T20:10:19Z,https://github.com/NirDiamant/GenAI_Agents
+PaddlePaddle/Paddle,24121,6020,C++,PaddlePaddle,2016-08-15T06:59:08Z,https://github.com/PaddlePaddle/Paddle
+AccumulateMore/CV,23994,2661,Jupyter Notebook,AccumulateMore,2022-03-31T13:19:32Z,https://github.com/AccumulateMore/CV
+lukasmasuch/best-of-ml-python,23844,3146,,lukasmasuch,2020-11-29T19:41:36Z,https://github.com/lukasmasuch/best-of-ml-python
+serengil/deepface,23540,3186,Python,serengil,2020-02-08T20:42:28Z,https://github.com/serengil/deepface
+spmallick/learnopencv,23190,11653,Jupyter Notebook,spmallick,2015-02-17T08:00:51Z,https://github.com/spmallick/learnopencv
+marimo-team/marimo,23138,1330,Python,marimo-team,2023-08-14T18:56:20Z,https://github.com/marimo-team/marimo
+sebastianruder/NLP-progress,22950,3591,Python,sebastianruder,2018-06-22T17:43:55Z,https://github.com/sebastianruder/NLP-progress
+amusi/CVPR2026-Papers-with-Code,22889,2789,,amusi,2020-02-26T06:04:25Z,https://github.com/amusi/CVPR2026-Papers-with-Code
+TheAlgorithms/C,22529,4778,C,TheAlgorithms,2016-07-16T10:17:03Z,https://github.com/TheAlgorithms/C
+dipakkr/awesome-ai-engineering,22377,4828,,dipakkr,2018-09-17T11:15:29Z,https://github.com/dipakkr/awesome-ai-engineering
+MLEveryday/100-Days-Of-ML-Code,22242,5467,Python,MLEveryday,2018-08-05T13:32:48Z,https://github.com/MLEveryday/100-Days-Of-ML-Code
+k4yt3x/video2x,22207,1931,C++,k4yt3x,2018-02-24T16:34:41Z,https://github.com/k4yt3x/video2x

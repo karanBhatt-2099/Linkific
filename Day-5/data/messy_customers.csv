@@ -1,0 +1,44 @@
+cust_id,name,email,age,city,signup_date,total_spent
+1,raj patel,c@y.com,22,,01/01/2023,3644
+2,Li Wei,B@X.COM,67,Pune,10/01/2023,787
+3,Ann Lee,c@y.com,67,Pune,19/01/2023,3769
+4,Li Wei,,35,PUNE,28/01/2023,2153
+5,MARIA GARCIA,d@z.com ,22,Delhi,06/02/2023,131
+6,Ann Lee,B@X.COM,22,mumbai ,15/02/2023,4834
+7,raj patel,d@z.com ,22,,24/02/2023,913
+8,MARIA GARCIA,d@z.com ,58,Pune,05/03/2023,3020
+9,raj patel,a@x.com,67,Mumbai,14/03/2023,989
+10,Ann Lee,a@x.com,35,Pune,23/03/2023,4671
+11, John Smith ,,58,Mumbai,01/04/2023,3717
+12, John Smith ,a@x.com,35,Pune,10/04/2023,4041
+13,Ann Lee,B@X.COM,41,Pune,19/04/2023,2217
+14,raj patel,,,Mumbai,28/04/2023,2390
+15,raj patel,d@z.com ,58,Delhi,07/05/2023,3208
+16, John Smith ,d@z.com ,67,Mumbai,16/05/2023,3945
+17, John Smith ,a@x.com,22,PUNE,25/05/2023,4250
+18, John Smith ,d@z.com ,35,,03/06/2023,187
+19,Li Wei,a@x.com,35,Mumbai,12/06/2023,3351
+20, John Smith ,c@y.com,41,Delhi,21/06/2023,634
+21,raj patel,d@z.com ,67,,30/06/2023,1510
+22,Ann Lee,d@z.com ,58,mumbai ,09/07/2023,4164
+23, John Smith ,B@X.COM,41,Mumbai,18/07/2023,1327
+24,Li Wei,d@z.com ,67,Delhi,27/07/2023,4004
+25,Li Wei,a@x.com,29,PUNE,05/08/2023,2368
+26,raj patel,,29,PUNE,14/08/2023,1239
+27,raj patel,,29,mumbai ,23/08/2023,1737
+28,Ann Lee,B@X.COM,35,,01/09/2023,2700
+29,Ann Lee,a@x.com,67,PUNE,10/09/2023,3849
+30,MARIA GARCIA,c@y.com,22,mumbai ,19/09/2023,3069
+31,MARIA GARCIA,B@X.COM,35,,28/09/2023,4672
+32,raj patel,c@y.com,35,,07/10/2023,4351
+33,raj patel,,35,Delhi,16/10/2023,3791
+34,Li Wei,B@X.COM,22,Mumbai,25/10/2023,3055
+35,MARIA GARCIA,d@z.com ,22,PUNE,03/11/2023,1520
+36,Li Wei,a@x.com,,PUNE,12/11/2023,2121
+37,Li Wei,c@y.com,67,Mumbai,21/11/2023,682
+38,raj patel,c@y.com,22,PUNE,30/11/2023,1933
+39,raj patel,B@X.COM,41,,09/12/2023,4639
+40,Li Wei,B@X.COM,29,Mumbai,18/12/2023,2186
+2,Li Wei,B@X.COM,67,Pune,10/01/2023,787
+5,MARIA GARCIA,d@z.com ,22,Delhi,06/02/2023,131
+10,Ann Lee,a@x.com,35,Pune,23/03/2023,4671
