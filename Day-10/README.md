@@ -61,6 +61,3 @@ session.query(Employee).filter(Employee.salary > 5).all()
 - Always `commit()` after INSERT/UPDATE/DELETE; `rollback()` on error.
 - Close connections and sessions when done.
 - Keep the DB URL in one place (`config.py`).
-
-## Note
-Scripts were tested with SQLite as a stand-in; swap in PostgreSQL via `config.py`. The API pipeline needs internet access.
