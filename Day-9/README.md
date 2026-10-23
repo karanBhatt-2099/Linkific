@@ -151,8 +151,4 @@ Every pair returns identical results (checked in the script). Two honest notes:
 - **OPT5 is a trade-off, not a win.** With an index on `(customer_id, order_date)`, SQLite resolves each correlated `MAX()` with one index seek, which beat the window function's full sort. Without that index the correlated form is O(n^2) and loses badly. "Window functions are always faster" is a myth; check the plan.
 - OPT3, 6, 7, 10 show small gains at this size; the effect grows with data volume.
 
-## Known limitations
 
-- SQLite has no native `ROLLUP`/`CUBE`; Q17/Q18 emulate them. `queries/07_native_rollup_cube_postgres.sql` has the standard-SQL versions, **which I did not execute** (no PostgreSQL available in this environment).
-- Date functions (`strftime`, `julianday`, `date(x, '+1 month')`) are SQLite-specific; in PostgreSQL use `to_char`, `EXTRACT`, `date_trunc`, and interval arithmetic.
-- Row counts in the optimization benchmark are modest; absolute timings will differ on real databases.
