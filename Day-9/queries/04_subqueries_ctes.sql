@@ -1,7 +1,3 @@
--- =====================================================================
--- 04_SUBQUERIES_CTES.SQL : subqueries (WHERE/SELECT/FROM), correlated, CTEs, recursive CTEs
--- =====================================================================
-
 -- Q29: Subquery in WHERE (IN) - customers who bought a product priced above 500
 SELECT DISTINCT c.name
 FROM customers c
