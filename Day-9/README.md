@@ -147,7 +147,6 @@ From `scripts/optimization_demo.py` on a ~40k-order benchmark copy (best of 3; t
 | OPT10 WHERE instead of HAVING | ~1.2x |
 
 Every pair returns identical results (checked in the script). Two honest notes:
-
 - **OPT5 is a trade-off, not a win.** With an index on `(customer_id, order_date)`, SQLite resolves each correlated `MAX()` with one index seek, which beat the window function's full sort. Without that index the correlated form is O(n^2) and loses badly. "Window functions are always faster" is a myth; check the plan.
 - OPT3, 6, 7, 10 show small gains at this size; the effect grows with data volume.
 
