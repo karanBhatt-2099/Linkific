@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 666" width="1160" height="666" font-family="Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="30" y="32" font-size="20" font-weight="bold">Sales Data Warehouse - GALAXY (Fact Constellation) Schema</text>
+<text x="30" y="54" font-size="12" fill="#555">Two fact tables share CONFORMED dimensions (date, product, store). dim_customer is used only by sales.</text>
+<line x1="280.0" y1="201.7" x2="400.0" y2="171.6" stroke="#444" stroke-width="1.5"/>
+<text x="293.6" y="202.3" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="386.4" y="179.0" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="155.0" y1="346.0" x2="155.0" y2="420.0" stroke="#444" stroke-width="1.5"/>
+<text x="155.0" y="364.0" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="155.0" y="410.0" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="280.0" y1="265.0" x2="400.0" y2="295.7" stroke="#444" stroke-width="1.5"/>
+<text x="293.6" y="272.5" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="386.4" y="296.2" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="280.0" y1="324.7" x2="450.9" y2="450.0" stroke="#444" stroke-width="1.5"/>
+<text x="291.3" y="336.9" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="439.6" y="445.7" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="830.0" y1="236.2" x2="660.0" y2="181.1" stroke="#444" stroke-width="1.5"/>
+<text x="816.7" y="235.9" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="673.3" y="189.5" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="830.0" y1="295.2" x2="660.0" y2="314.4" stroke="#444" stroke-width="1.5"/>
+<text x="816.1" y="300.8" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="673.9" y="316.8" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<line x1="830.0" y1="350.8" x2="640.7" y2="450.0" stroke="#444" stroke-width="1.5"/>
+<text x="817.6" y="361.3" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">N</text>
+<text x="653.1" y="447.5" font-size="12" font-weight="bold" fill="#c00" text-anchor="middle">1</text>
+<rect x="30" y="120" width="250" height="226" fill="#fff" stroke="#b85450" stroke-width="1.5"/>
+<rect x="30" y="120" width="250" height="28" fill="#f8cecc" stroke="#b85450" stroke-width="1.5"/>
+<text x="155" y="139" font-size="13" font-weight="bold" text-anchor="middle">dw.fact_sales  (transaction fact)</text>
+<line x1="30" y1="148" x2="280" y2="148" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="163" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  sales_key : BIGINT</text>
+<line x1="30" y1="170" x2="280" y2="170" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="185" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  date_key : INT</text>
+<line x1="30" y1="192" x2="280" y2="192" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="207" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  customer_key : INT</text>
+<line x1="30" y1="214" x2="280" y2="214" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="229" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  product_key : INT</text>
+<line x1="30" y1="236" x2="280" y2="236" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="251" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  store_key : INT</text>
+<line x1="30" y1="258" x2="280" y2="258" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="273" font-size="11" font-family="Courier New, monospace" xml:space="preserve">DD  order_id : VARCHAR(12)</text>
+<line x1="30" y1="280" x2="280" y2="280" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="295" font-size="11" font-family="Courier New, monospace" xml:space="preserve">M   quantity : INT</text>
+<line x1="30" y1="302" x2="280" y2="302" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="317" font-size="11" font-family="Courier New, monospace" xml:space="preserve">M   sales_amount : NUMERIC</text>
+<line x1="30" y1="324" x2="280" y2="324" stroke="#b85450" stroke-width="0.5"/>
+<text x="36" y="339" font-size="11" font-family="Courier New, monospace" xml:space="preserve">M   profit_amount : NUMERIC</text>
+<rect x="30" y="420" width="250" height="138" fill="#fff" stroke="#6c8ebf" stroke-width="1.5"/>
+<rect x="30" y="420" width="250" height="28" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5"/>
+<text x="155" y="439" font-size="13" font-weight="bold" text-anchor="middle">dw.dim_customer</text>
+<line x1="30" y1="448" x2="280" y2="448" stroke="#6c8ebf" stroke-width="0.5"/>
+<text x="36" y="463" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  customer_key : INT  (surrogate)</text>
+<line x1="30" y1="470" x2="280" y2="470" stroke="#6c8ebf" stroke-width="0.5"/>
+<text x="36" y="485" font-size="11" font-family="Courier New, monospace" xml:space="preserve">NK  customer_id : VARCHAR(10)</text>
+<line x1="30" y1="492" x2="280" y2="492" stroke="#6c8ebf" stroke-width="0.5"/>
+<text x="36" y="507" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    full_name : VARCHAR(100)</text>
+<line x1="30" y1="514" x2="280" y2="514" stroke="#6c8ebf" stroke-width="0.5"/>
+<text x="36" y="529" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    city : VARCHAR(50)</text>
+<line x1="30" y1="536" x2="280" y2="536" stroke="#6c8ebf" stroke-width="0.5"/>
+<text x="36" y="551" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    segment : VARCHAR(20)</text>
+<rect x="400" y="70" width="260" height="138" fill="#fff" stroke="#82b366" stroke-width="1.5"/>
+<rect x="400" y="70" width="260" height="28" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5"/>
+<text x="530" y="89" font-size="13" font-weight="bold" text-anchor="middle">dw.dim_date  (CONFORMED)</text>
+<line x1="400" y1="98" x2="660" y2="98" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="113" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  date_key : INT</text>
+<line x1="400" y1="120" x2="660" y2="120" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="135" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    full_date : DATE</text>
+<line x1="400" y1="142" x2="660" y2="142" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="157" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    month_name : VARCHAR(10)</text>
+<line x1="400" y1="164" x2="660" y2="164" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="179" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    quarter : SMALLINT</text>
+<line x1="400" y1="186" x2="660" y2="186" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="201" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    year : SMALLINT</text>
+<rect x="400" y="260" width="260" height="138" fill="#fff" stroke="#82b366" stroke-width="1.5"/>
+<rect x="400" y="260" width="260" height="28" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5"/>
+<text x="530" y="279" font-size="13" font-weight="bold" text-anchor="middle">dw.dim_product  (CONFORMED)</text>
+<line x1="400" y1="288" x2="660" y2="288" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="303" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  product_key : INT  (surrogate)</text>
+<line x1="400" y1="310" x2="660" y2="310" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="325" font-size="11" font-family="Courier New, monospace" xml:space="preserve">NK  product_id : VARCHAR(10)</text>
+<line x1="400" y1="332" x2="660" y2="332" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="347" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    product_name : VARCHAR(100)</text>
+<line x1="400" y1="354" x2="660" y2="354" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="369" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    category : VARCHAR(50)</text>
+<line x1="400" y1="376" x2="660" y2="376" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="391" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    brand : VARCHAR(50)</text>
+<rect x="400" y="450" width="260" height="116" fill="#fff" stroke="#82b366" stroke-width="1.5"/>
+<rect x="400" y="450" width="260" height="28" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5"/>
+<text x="530" y="469" font-size="13" font-weight="bold" text-anchor="middle">dw.dim_store  (CONFORMED)</text>
+<line x1="400" y1="478" x2="660" y2="478" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="493" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  store_key : INT  (surrogate)</text>
+<line x1="400" y1="500" x2="660" y2="500" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="515" font-size="11" font-family="Courier New, monospace" xml:space="preserve">NK  store_id : VARCHAR(10)</text>
+<line x1="400" y1="522" x2="660" y2="522" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="537" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    store_name : VARCHAR(100)</text>
+<line x1="400" y1="544" x2="660" y2="544" stroke="#82b366" stroke-width="0.5"/>
+<text x="406" y="559" font-size="11" font-family="Courier New, monospace" xml:space="preserve">    region : VARCHAR(20)</text>
+<rect x="830" y="200" width="270" height="160" fill="#fff" stroke="#b85450" stroke-width="1.5"/>
+<rect x="830" y="200" width="270" height="28" fill="#f8cecc" stroke="#b85450" stroke-width="1.5"/>
+<text x="965" y="219" font-size="13" font-weight="bold" text-anchor="middle">dw.fact_inventory  (periodic snapshot fact)</text>
+<line x1="830" y1="228" x2="1100" y2="228" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="243" font-size="11" font-family="Courier New, monospace" font-weight="bold" xml:space="preserve">PK  inventory_key : BIGINT</text>
+<line x1="830" y1="250" x2="1100" y2="250" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="265" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  date_key : INT</text>
+<line x1="830" y1="272" x2="1100" y2="272" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="287" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  product_key : INT</text>
+<line x1="830" y1="294" x2="1100" y2="294" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="309" font-size="11" font-family="Courier New, monospace" xml:space="preserve">FK  store_key : INT</text>
+<line x1="830" y1="316" x2="1100" y2="316" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="331" font-size="11" font-family="Courier New, monospace" xml:space="preserve">M   quantity_on_hand : INT</text>
+<line x1="830" y1="338" x2="1100" y2="338" stroke="#b85450" stroke-width="0.5"/>
+<text x="836" y="353" font-size="11" font-family="Courier New, monospace" xml:space="preserve">M   reorder_level : INT</text>
+<rect x="30" y="626" width="170" height="24" fill="#f8cecc" stroke="#b85450"/><text x="115" y="642" font-size="11" text-anchor="middle">Fact table</text>
+<rect x="215" y="626" width="170" height="24" fill="#d5e8d4" stroke="#82b366"/><text x="300" y="642" font-size="11" text-anchor="middle">Conformed dimension</text>
+<rect x="400" y="626" width="170" height="24" fill="#dae8fc" stroke="#6c8ebf"/><text x="485" y="642" font-size="11" text-anchor="middle">Dimension (one fact only)</text>
+<text x="30" y="614" font-size="11" fill="#c00">N = many, 1 = one  (fact N : 1 dimension)</text>
+</svg>

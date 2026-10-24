@@ -1,0 +1,11 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+# local secrets - never commit passwords
+.env
+*.pgpass
+# python cache
+__pycache__/
