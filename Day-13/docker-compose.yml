@@ -1,0 +1,33 @@
+# Only Airflow runs in Docker.
+# Postgres + pgAdmin are the ones already installed on your computer.
+services:
+  airflow:
+    image: apache/airflow:2.9.3
+    env_file: .env
+    user: "${AIRFLOW_UID}:0"
+    ports:
+      - "8080:8080"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"   # needed on Linux, harmless on Mac/Windows
+    environment:
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_SECRET_KEY}
+      # Airflow's own metadata -> small SQLite file (no setup needed in your Postgres)
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: sqlite:////opt/airflow/db/airflow.db
+      # Connection used by the DAGs  ->  conn_id = "warehouse_db"  (YOUR Postgres)
+      AIRFLOW_CONN_WAREHOUSE_DB: postgresql://${PG_USER}:${PG_PASSWORD}@${PG_HOST}:${PG_PORT}/${PG_DB}
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./plugins:/opt/airflow/plugins
+      - ./logs:/opt/airflow/logs
+      - ./airflow_db:/opt/airflow/db
+    command:
+      - bash
+      - -c
+      - |
+        airflow db migrate
+        airflow users create --username $${AIRFLOW_ADMIN_USER} --password $${AIRFLOW_ADMIN_PASSWORD} \
+          --firstname Admin --lastname User --role Admin --email admin@example.com || true
+        airflow scheduler &
+        exec airflow webserver
