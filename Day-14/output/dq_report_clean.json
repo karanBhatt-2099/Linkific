@@ -1,0 +1,54 @@
+{
+  "dataset": "orders_clean",
+  "rows": 479898,
+  "results": [
+    {
+      "check": "min_rows>=1000",
+      "column": "*",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "not_null",
+      "column": "order_id",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "unique",
+      "column": "order_id",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "not_null",
+      "column": "price",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "range[0,10000]",
+      "column": "price",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "range[1,100]",
+      "column": "quantity",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "in_set",
+      "column": "country",
+      "failed_rows": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "regex",
+      "column": "order_date",
+      "failed_rows": 0,
+      "status": "PASS"
+    }
+  ]
+}
