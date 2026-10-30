@@ -1,0 +1,301 @@
+product_id,Product Name ,category,price,cost
+1,Sing,Office Supplies,903.42,119.42
+2,Human,Electronics,985.46,189.32
+3,Own,Office Supplies,292.4,489.13
+4,Computer,office supplies,665.25,343.24
+5,Participant,electronics,303.74,678.25
+6,Billion,office supplies,738.38,47.37
+7,Hand,Furniture,66.59,411.0
+8,All,office supplies,920.19,374.13
+9,Affect,Electronics,961.17,60.68
+10,Available,electronics,77.84,52.23
+11,Threat,electronics,409.74,659.41
+12,Catch,office supplies,253.75,418.19
+13,Difficult,office supplies,91.16,461.87
+14,Such,office supplies,527.55,654.62
+15,Risk,electronics,673.03,223.36
+16,Language,Furniture,401.83,471.82
+17,Culture,Furniture,462.65,650.67
+18,Ahead,Electronics,19.22,436.71
+19,Camera,office supplies,996.14,55.92
+20,Explain,electronics,510.83,97.06
+21,Choose,Furniture,882.06,616.09
+22,True,Furniture,292.14,309.54
+23,Wait,office supplies,706.5,430.12
+24,Attention,office supplies,17.74,572.89
+25,Trouble,Furniture,932.44,76.99
+26,Involve,electronics,271.82,623.35
+27,True,office supplies,163.89,200.82
+28,Management,electronics,720.44,146.5
+29,Discuss,Furniture,510.35,179.53
+30,Last,Electronics,101.38,299.39
+31,Candidate,Furniture,53.65,236.82
+32,Current,electronics,640.74,187.06
+33,Throw,Office Supplies,556.16,302.24
+34,Lawyer,Electronics,120.76,661.81
+35,Entire,electronics,550.13,585.04
+36,Property,office supplies,557.0,303.7
+37,Crime,Electronics,315.18,629.79
+38,Good,Electronics,899.94,151.0
+39,Able,electronics,670.26,250.81
+40,House,office supplies,885.29,287.43
+41,Child,office supplies,751.98,648.41
+42,Writer,electronics,865.96,683.46
+43,Including,electronics,882.6,22.23
+44,Focus,Furniture,784.56,291.14
+45,Page,electronics,274.14,552.23
+46,Month,Electronics,388.72,31.91
+47,Book,Office Supplies,230.21,572.53
+48,Among,Office Supplies,356.16,575.27
+49,Over,electronics,230.69,463.72
+50,Art,Office Supplies,334.98,605.73
+51,Approach,Furniture,357.63,359.04
+52,Walk,office supplies,337.84,24.18
+53,Drug,Furniture,186.78,673.96
+54,Avoid,Furniture,47.87,419.62
+55,Type,Furniture,731.26,223.01
+56,President,office supplies,984.39,85.37
+57,A,office supplies,198.18,35.85
+58,Pressure,Office Supplies,11.67,648.27
+59,Travel,office supplies,689.99,658.48
+60,Guy,electronics,370.58,53.63
+61,Range,Furniture,626.92,466.05
+62,Memory,Electronics,722.56,213.72
+63,Deal,Furniture,670.22,231.7
+64,Film,Furniture,558.87,138.33
+65,Study,Office Supplies,680.54,632.45
+66,On,office supplies,573.41,287.22
+67,After,Electronics,310.84,151.08
+68,Attention,office supplies,610.59,228.96
+69,Management,Office Supplies,447.74,153.52
+70,Face,Office Supplies,795.8,672.08
+71,Risk,electronics,662.26,202.23
+72,Figure,office supplies,341.84,573.8
+73,Leader,electronics,676.07,161.13
+74,Case,electronics,155.88,37.12
+75,Federal,Office Supplies,615.16,539.1
+76,Establish,Office Supplies,420.3,442.69
+77,Ground,electronics,721.16,271.87
+78,Amount,Office Supplies,251.54,460.96
+79,Beyond,Electronics,893.73,603.01
+80,Activity,Electronics,780.64,157.09
+81,Door,office supplies,469.9,392.4
+82,Hot,Electronics,461.9,561.98
+83,Direction,office supplies,988.01,418.84
+84,Carry,Office Supplies,616.53,504.9
+85,Own,office supplies,432.47,635.26
+86,Indicate,Office Supplies,898.24,521.84
+87,Case,Office Supplies,455.57,527.48
+88,Since,Furniture,768.16,367.3
+89,Likely,electronics,281.85,58.85
+90,Staff,Furniture,242.15,238.41
+91,Line,office supplies,89.77,109.83
+92,Save,Office Supplies,697.01,495.96
+93,Low,Electronics,420.72,234.96
+94,Yard,Office Supplies,421.62,148.75
+95,Design,Office Supplies,395.58,540.01
+96,Ago,Electronics,858.16,537.09
+97,First,Office Supplies,482.21,660.21
+98,Need,Furniture,755.94,598.15
+99,Role,Office Supplies,542.84,515.57
+100,Subject,office supplies,898.83,344.32
+101,Notice,Furniture,441.48,25.17
+102,Defense,Furniture,672.18,559.71
+103,Add,electronics,842.1,644.08
+104,Lay,office supplies,538.78,635.32
+105,Show,office supplies,568.75,23.84
+106,Sign,Office Supplies,144.34,325.88
+107,Something,Electronics,267.55,232.51
+108,Area,Office Supplies,333.58,534.05
+109,Red,Office Supplies,285.47,666.09
+110,Piece,Office Supplies,259.75,61.92
+111,Whether,Electronics,751.53,41.2
+112,Responsibility,Furniture,231.98,52.69
+113,Require,Electronics,756.69,664.98
+114,Both,electronics,840.84,436.83
+115,Scene,electronics,134.96,470.27
+116,Early,office supplies,948.28,328.2
+117,Weight,Furniture,769.23,121.61
+118,School,office supplies,964.1,504.26
+119,Financial,electronics,965.07,80.13
+120,Program,Electronics,929.6,405.18
+121,Mr,Office Supplies,402.69,501.94
+122,Since,Electronics,596.18,582.25
+123,Risk,electronics,110.88,541.87
+124,Move,office supplies,807.47,558.38
+125,Really,office supplies,784.81,246.31
+126,Company,Office Supplies,664.91,52.92
+127,Course,Furniture,22.53,296.94
+128,Leader,Office Supplies,114.48,672.75
+129,Lose,Office Supplies,710.24,307.66
+130,Glass,office supplies,965.82,192.71
+131,Hotel,office supplies,776.9,328.09
+132,Democratic,office supplies,275.71,596.94
+133,Agree,Electronics,286.14,318.31
+134,Ability,Office Supplies,574.15,469.39
+135,Keep,Furniture,38.41,596.41
+136,Them,electronics,492.67,251.6
+137,Authority,Furniture,346.94,616.82
+138,None,Furniture,560.23,364.06
+139,Issue,electronics,94.76,505.45
+140,Professor,Office Supplies,559.62,172.03
+141,Read,Office Supplies,649.44,346.12
+142,Instead,Electronics,102.12,159.01
+143,He,electronics,313.14,409.18
+144,Four,Office Supplies,557.94,243.91
+145,Discover,office supplies,337.48,493.48
+146,Pressure,Furniture,313.56,165.22
+147,Walk,electronics,322.39,521.3
+148,Side,electronics,199.63,518.33
+149,Agreement,Furniture,727.34,683.74
+150,Report,office supplies,600.82,686.45
+151,Cut,electronics,303.28,255.81
+152,Speech,Furniture,24.01,376.22
+153,Source,Furniture,55.06,42.9
+154,Can,Furniture,700.44,92.76
+155,Soon,Office Supplies,111.56,13.52
+156,Executive,Furniture,474.7,311.13
+157,Region,electronics,965.84,180.47
+158,Health,Office Supplies,122.95,50.41
+159,Since,Office Supplies,83.34,442.46
+160,Pressure,Electronics,160.21,568.74
+161,Age,Furniture,94.33,177.49
+162,Usually,office supplies,766.8,426.39
+163,Employee,office supplies,233.43,368.19
+164,Population,Office Supplies,909.42,211.66
+165,Somebody,office supplies,990.13,217.24
+166,Forward,office supplies,69.63,672.28
+167,Matter,Electronics,948.11,149.41
+168,Difficult,electronics,272.0,61.43
+169,Dog,electronics,182.08,57.17
+170,Plan,Electronics,414.43,484.11
+171,Unit,Office Supplies,298.35,165.88
+172,Test,Furniture,705.96,320.55
+173,Structure,electronics,924.67,552.54
+174,Good,office supplies,664.57,653.9
+175,Water,Office Supplies,123.63,161.24
+176,Weight,electronics,909.33,579.51
+177,Himself,Electronics,69.04,555.88
+178,Would,office supplies,751.47,400.6
+179,Sometimes,Furniture,444.76,330.75
+180,His,Furniture,702.74,660.16
+181,Move,office supplies,544.58,309.24
+182,Shake,office supplies,49.46,305.26
+183,Rise,Furniture,607.68,22.98
+184,Challenge,electronics,962.29,585.99
+185,Inside,office supplies,591.25,19.42
+186,Those,Furniture,580.48,535.36
+187,Carry,electronics,475.8,457.8
+188,Guy,Furniture,189.67,411.8
+189,Economy,Office Supplies,969.36,331.66
+190,Answer,Office Supplies,339.98,470.74
+191,Summer,electronics,336.51,487.1
+192,Cell,Furniture,665.96,283.31
+193,Quite,office supplies,46.33,66.2
+194,Character,Furniture,330.04,679.28
+195,Threat,Office Supplies,866.26,578.32
+196,City,Electronics,661.08,382.1
+197,Nearly,Office Supplies,63.66,365.32
+198,Will,office supplies,758.88,439.66
+199,Father,Electronics,211.52,386.71
+200,Action,Furniture,443.73,490.28
+201,Back,Electronics,38.58,442.87
+202,Page,electronics,712.68,220.97
+203,Boy,Electronics,556.73,69.78
+204,Avoid,Electronics,466.83,86.64
+205,Compare,electronics,503.39,503.04
+206,Indeed,office supplies,708.36,293.77
+207,Model,Office Supplies,980.44,174.39
+208,Reduce,office supplies,153.2,137.47
+209,Between,office supplies,513.16,616.13
+210,Analysis,Electronics,283.48,554.05
+211,Prevent,Office Supplies,346.48,552.46
+212,Claim,Furniture,822.34,201.57
+213,Memory,Furniture,839.1,408.05
+214,Hear,Office Supplies,866.61,315.35
+215,Total,Office Supplies,351.67,388.58
+216,Several,office supplies,383.44,653.33
+217,Face,electronics,980.97,170.97
+218,Be,Office Supplies,241.23,544.0
+219,Father,Electronics,324.99,333.72
+220,Grow,Office Supplies,392.22,466.26
+221,Social,electronics,500.38,30.73
+222,Down,office supplies,965.7,235.74
+223,Take,Electronics,875.45,311.01
+224,But,office supplies,911.34,15.67
+225,Usually,electronics,415.88,460.07
+226,Professor,electronics,84.08,548.16
+227,Similar,Furniture,345.18,486.43
+228,Clear,Electronics,853.25,597.38
+229,Social,office supplies,386.21,225.08
+230,Practice,Office Supplies,873.66,29.95
+231,Rich,Electronics,242.42,480.66
+232,Task,Furniture,997.45,524.0
+233,Large,Office Supplies,978.55,533.46
+234,Pattern,Electronics,449.24,487.33
+235,Statement,Electronics,55.53,558.32
+236,Would,Furniture,364.88,304.33
+237,Give,electronics,535.85,398.32
+238,Think,electronics,178.28,59.88
+239,Common,Office Supplies,623.51,172.38
+240,Particular,office supplies,151.69,325.5
+241,Three,Furniture,464.97,468.45
+242,Not,Office Supplies,902.2,475.94
+243,Measure,electronics,83.12,661.94
+244,Practice,office supplies,306.16,673.61
+245,Notice,Furniture,462.27,214.97
+246,Against,Office Supplies,854.8,79.12
+247,Option,Office Supplies,576.2,404.49
+248,Somebody,Furniture,31.72,581.88
+249,Or,Office Supplies,281.74,398.32
+250,Box,Electronics,911.51,522.89
+251,Speak,Furniture,777.98,164.93
+252,Big,Furniture,226.81,137.14
+253,Long,Furniture,680.99,506.05
+254,Effect,electronics,631.97,632.87
+255,Wall,Electronics,315.84,311.37
+256,Western,office supplies,371.21,96.33
+257,Describe,Furniture,333.45,293.77
+258,Officer,electronics,140.84,379.89
+259,Catch,Furniture,535.54,639.87
+260,Onto,electronics,264.4,578.16
+261,Hear,Office Supplies,967.71,210.12
+262,Film,Furniture,806.19,330.49
+263,Whole,Electronics,149.35,676.72
+264,Skill,Office Supplies,967.6,564.19
+265,Debate,Furniture,99.4,279.23
+266,Chance,Furniture,541.21,321.08
+267,Responsibility,Furniture,588.71,576.58
+268,Figure,Furniture,117.26,167.51
+269,Owner,Electronics,623.35,660.5
+270,Member,Furniture,916.1,158.85
+271,Become,Electronics,639.05,327.67
+272,Month,Furniture,652.75,86.09
+273,Teacher,Electronics,946.8,216.53
+274,On,Office Supplies,124.96,168.19
+275,Art,office supplies,144.31,320.28
+276,Them,office supplies,424.94,520.88
+277,Bit,electronics,886.56,460.17
+278,Then,Office Supplies,619.5,657.64
+279,Door,Furniture,42.39,262.52
+280,Foot,Office Supplies,450.25,169.1
+281,Especially,Furniture,108.36,481.55
+282,Feeling,office supplies,902.68,453.15
+283,End,Electronics,404.16,136.92
+284,Message,Electronics,949.52,577.81
+285,Improve,Electronics,666.14,450.98
+286,Trip,office supplies,971.38,40.15
+287,Line,Furniture,251.13,92.52
+288,Message,office supplies,213.15,581.72
+289,Prepare,office supplies,215.09,155.09
+290,Smile,electronics,335.27,107.55
+291,Against,office supplies,12.81,601.59
+292,Fish,electronics,987.65,380.45
+293,Letter,electronics,118.83,607.18
+294,Attention,electronics,24.71,554.04
+295,Our,electronics,592.96,15.97
+296,Find,Furniture,61.88,520.49
+297,True,office supplies,122.51,49.17
+298,Church,Office Supplies,780.24,361.7
+299,Reflect,Electronics,457.49,158.98
+300,Service,office supplies,52.93,549.34

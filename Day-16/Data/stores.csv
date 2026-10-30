@@ -1,0 +1,26 @@
+store_id,store_name,city,state,region_id,manager_id
+1,Store_1,Villaburgh,Texas,1,95
+2,Store_2,West Jasonton,Illinois,2,29
+3,Store_3,East David,Florida,1,87
+4,Store_4,South Tonimouth,NY,1,76
+5,Store_5,New Dustin,TX,1,4
+6,Store_6,Ryanville,Texas,2,30
+7,Store_7,South Ryan,NY,1,72
+8,Store_8,Carneytown,New York,4,29
+9,Store_9,South Mark,FL,3,1
+10,Store_10,Stevensborough,Florida,4,44
+11,Store_11,Aprilview,Illinois,2,28
+12,Store_12,Quinnshire,CA,1,12
+13,Store_13,South Heather,TX,1,46
+14,Store_14,Port Mollystad,CA,3,6
+15,Store_15,Evansmouth,FL,1,49
+16,Store_16,Harrisfort,Texas,3,81
+17,Store_17,East Meghanbury,CA,2,91
+18,Store_18,Brownfurt,Texas,1,85
+19,Store_19,Hineston,New York,3,11
+20,Store_20,East Timothy,New York,1,49
+21,Store_21,Cherylbury,Illinois,4,82
+22,Store_22,Shelleyborough,CA,2,48
+23,Store_23,Dunlaptown,CA,2,86
+24,Store_24,West Richard,Illinois,1,78
+25,Store_25,Benjaminstad,Florida,2,21
