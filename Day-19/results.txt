@@ -1,0 +1,18 @@
+DESCRIPTIVE STATISTICS
+       screen_hours  sleep_quality
+count         60.00          60.00
+mean           2.08           5.86
+std            1.13           1.42
+min            0.00           2.80
+25%            1.12           4.70
+50%            2.05           5.80
+75%            3.10           6.85
+max            3.90           8.60 
+
+CORRELATION: r = -0.73, p = 0.0000
+T-TEST: low-screen mean = 6.80, high-screen mean = 4.93
+        t = 6.78, p = 0.0000, Cohen's d = 1.75
+
+INTERPRETATION
+Reject H0 (alpha = 0.05).
+Effect size: large
