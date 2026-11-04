@@ -1,0 +1,1001 @@
+emp_id,first_name,last_name,email,hire_date,job_title,dept_id,manager_id,salary,status
+1,Ekiya,Dora,ekiya.dora1@company.com,2015-06-15,Department Head,1,,3289646.99,resigned
+2,Megha,Bava,megha.bava2@company.com,2015-01-25,Department Head,2,,3571764.01,active
+3,Elijah,Wason,elijah.wason3@company.com,2015-07-07,Department Head,3,,4319408.13,active
+4,Girindra,Pau,girindra.pau4@company.com,2015-04-20,Department Head,4,,3367291.37,active
+5,Dalbir,Tripathi,dalbir.tripathi5@company.com,2015-02-05,Department Head,5,,3602094.51,active
+6,Tanish,Barad,tanish.barad6@company.com,2015-01-31,Department Head,6,,2747603.92,active
+7,Gabriel,Saraf,gabriel.saraf7@company.com,2015-04-25,Department Head,7,,3665993.81,active
+8,Omya,Boase,omya.boase8@company.com,2015-02-01,Department Head,8,,3293360.95,active
+9,Wridesh,Chana,wridesh.chana9@company.com,2015-04-24,Department Head,9,,4216936.92,active
+10,Panini,Bhargava,panini.bhargava10@company.com,2015-05-29,Department Head,10,,3581371.77,active
+11,Jatin,Kapoor,jatin.kapoor11@company.com,2022-04-13,Buyer,10,10,449399.51,active
+12,David,Ranganathan,david.ranganathan12@company.com,2020-03-05,Buyer,10,10,741660.92,active
+13,Chandran,Kant,chandran.kant13@company.com,2022-12-10,Buyer,10,10,724219.99,active
+14,Chakradhar,Deol,chakradhar.deol14@company.com,2021-03-22,Team Lead,7,7,726592.19,active
+15,Bimala,Saini,bimala.saini15@company.com,2024-11-27,Marketing Executive,5,5,856889.26,active
+16,Maanas,Zachariah,maanas.zachariah16@company.com,2021-11-21,Account Manager,2,2,809128.12,active
+17,Jacob,Morar,jacob.morar17@company.com,2022-10-30,Legal Associate,8,8,706259.2,resigned
+18,Pratyush,Chauhan,pratyush.chauhan18@company.com,2024-06-28,Support Agent,7,7,576644.57,active
+19,Raghav,Pradhan,raghav.pradhan19@company.com,2023-06-30,Support Agent,7,7,445326.51,active
+20,Gunbir,Bhatnagar,gunbir.bhatnagar20@company.com,2023-10-18,Supply Planner,6,6,822506.1,active
+21,Darpan,Jha,darpan.jha21@company.com,2025-06-02,Legal Associate,8,8,842945.35,active
+22,Watika,Wali,watika.wali22@company.com,2024-03-13,Sales Executive,2,2,688277.31,active
+23,Prisha,Murthy,prisha.murthy23@company.com,2024-01-14,Legal Associate,8,8,1201787.44,active
+24,Udyati,Setty,udyati.setty24@company.com,2019-12-26,QA Engineer,1,1,470257.48,active
+25,Janaki,Mistry,janaki.mistry25@company.com,2024-08-12,Software Engineer,1,1,1486036.06,active
+26,Yuvraj,Gole,yuvraj.gole26@company.com,2026-04-13,Team Lead,7,7,540290.65,active
+27,Yagnesh,Bumb,yagnesh.bumb27@company.com,2022-02-28,Legal Associate,8,8,723233.53,active
+28,Charita,Vohra,charita.vohra28@company.com,2023-12-03,Team Lead,7,7,679385.58,active
+29,Warda,Oza,warda.oza29@company.com,2017-09-10,Support Agent,7,7,302954.43,active
+30,Saumya,Mani,saumya.mani30@company.com,2021-06-09,Accountant,4,4,509405.72,active
+31,Elijah,Dalal,elijah.dalal31@company.com,2017-08-19,Marketing Executive,5,5,590014.82,active
+32,Yauvani,Sahota,yauvani.sahota32@company.com,2017-05-29,Buyer,10,10,633520.29,active
+33,Nitesh,Oommen,nitesh.oommen33@company.com,2021-02-13,Buyer,10,10,778983.22,active
+34,Max,Suresh,max.suresh34@company.com,2020-06-18,Network Engineer,9,9,527652.82,active
+35,Oviya,Baral,oviya.baral35@company.com,2018-02-19,Support Agent,7,7,323067.11,active
+36,Faras,Murthy,faras.murthy36@company.com,2019-10-24,HR Executive,3,3,351189.8,active
+37,Harini,Palla,harini.palla37@company.com,2022-01-06,Buyer,10,10,549985.46,active
+38,Watika,Shan,watika.shan38@company.com,2025-10-21,Software Engineer,1,1,1051475.23,active
+39,Ekapad,Chander,ekapad.chander39@company.com,2022-10-02,Content Writer,5,5,361421.12,active
+40,Anamika,Som,anamika.som40@company.com,2021-05-21,Legal Associate,8,8,677296.2,active
+41,Dhruv,Bhat,dhruv.bhat41@company.com,2024-04-20,Account Manager,2,2,1245969.84,active
+42,Dayita,Sehgal,dayita.sehgal42@company.com,2018-04-20,HR Executive,3,3,564128.7,resigned
+43,Bhavani,Raju,bhavani.raju43@company.com,2024-07-02,HR Executive,3,3,789250.62,active
+44,Idika,Bajaj,idika.bajaj44@company.com,2021-10-24,Account Manager,2,2,650337.83,active
+45,Triya,Pant,triya.pant45@company.com,2023-02-19,Financial Analyst,4,4,1330360.12,active
+46,Om,Dada,om.dada46@company.com,2025-03-05,Accountant,4,4,881995.64,active
+47,Wakeeta,Bhargava,wakeeta.bhargava47@company.com,2019-12-27,Financial Analyst,4,4,1490643.23,active
+48,Tejas,Mani,tejas.mani48@company.com,2018-11-27,Content Writer,5,5,602569.52,active
+49,Kai,Kota,kai.kota49@company.com,2025-01-24,Supply Planner,6,6,1191028.54,resigned
+50,Mitali,Raman,mitali.raman50@company.com,2018-06-22,Operations Associate,6,6,535039.99,active
+51,Watika,Buch,watika.buch51@company.com,2021-05-30,Operations Associate,6,6,750154.17,active
+52,Ojas,Sen,ojas.sen52@company.com,2026-03-13,QA Engineer,1,1,879786.25,active
+53,Neelima,Mall,neelima.mall53@company.com,2026-03-15,Sales Executive,2,2,726895.79,active
+54,Laksh,Sani,laksh.sani54@company.com,2025-12-20,Financial Analyst,4,4,1310221.89,active
+55,Arya,Sagar,arya.sagar55@company.com,2024-12-24,Operations Associate,6,6,660912.37,resigned
+56,Jagrati,Rai,jagrati.rai56@company.com,2024-05-02,Legal Associate,8,8,1252318.8,resigned
+57,Vihaan,Dora,vihaan.dora57@company.com,2016-04-22,HR Executive,3,3,752426.05,active
+58,Fitan,Goda,fitan.goda58@company.com,2023-05-16,Recruiter,3,3,435751.83,resigned
+59,Matthew,Kata,matthew.kata59@company.com,2016-03-28,System Admin,9,9,1178167.63,active
+60,Viraj,Arora,viraj.arora60@company.com,2020-11-11,Sales Executive,2,2,416883.27,resigned
+61,Vedhika,Gopal,vedhika.gopal61@company.com,2018-10-28,Accountant,4,4,700697.15,active
+62,Adya,Manda,adya.manda62@company.com,2018-11-28,Buyer,10,10,808807.25,active
+63,Aayush,Dhingra,aayush.dhingra63@company.com,2026-01-24,QA Engineer,1,1,750009.26,active
+64,Oni,Warrior,oni.warrior64@company.com,2025-04-10,Network Engineer,9,9,826236.71,active
+65,Kala,Nagar,kala.nagar65@company.com,2021-11-14,System Admin,9,9,1104604.2,active
+66,Jeremiah,Varma,jeremiah.varma66@company.com,2024-09-13,HR Executive,3,3,386173.36,active
+67,Chatura,Shan,chatura.shan67@company.com,2022-03-29,Legal Associate,8,8,1214098.23,active
+68,Manya,Rao,manya.rao68@company.com,2024-10-17,Network Engineer,9,9,1112420.86,active
+69,Mohini,Ramesh,mohini.ramesh69@company.com,2018-02-22,Software Engineer,1,1,1526713.32,active
+70,Hemang,Subramaniam,hemang.subramaniam70@company.com,2022-04-19,Network Engineer,9,9,1120509.06,active
+71,Nandini,Bhatia,nandini.bhatia71@company.com,2019-08-26,Account Manager,2,2,954997.82,active
+72,Rayaan,Bhavsar,rayaan.bhavsar72@company.com,2023-10-08,System Admin,9,9,831117.12,active
+73,Sathvik,Sastry,sathvik.sastry73@company.com,2023-11-03,Legal Associate,8,8,1388378.98,active
+74,Nicholas,Choudhary,nicholas.choudhary74@company.com,2025-06-02,Marketing Executive,5,5,620814.09,active
+75,Harini,Ben,harini.ben75@company.com,2019-07-18,Team Lead,7,7,620319.38,active
+76,Harsh,Acharya,harsh.acharya76@company.com,2023-07-05,Sales Executive,2,2,373409.93,active
+77,Matthew,Yadav,matthew.yadav77@company.com,2017-08-08,Recruiter,3,3,425490.03,active
+78,Harrison,Patla,harrison.patla78@company.com,2024-05-16,Legal Associate,8,8,958431.19,resigned
+79,Atharv,Bobal,atharv.bobal79@company.com,2023-06-28,Legal Associate,8,8,745319.45,active
+80,Sarthak,Puri,sarthak.puri80@company.com,2019-10-21,Team Lead,7,7,678307.4,active
+81,Manthan,Krishnan,manthan.krishnan81@company.com,2016-03-20,Account Manager,2,2,912803.69,active
+82,Idika,Patla,idika.patla82@company.com,2019-09-19,QA Engineer,1,1,577272.47,active
+83,Urvi,Das,urvi.das83@company.com,2026-04-20,Sales Executive,2,2,883017.58,active
+84,Jack,Sura,jack.sura84@company.com,2018-12-23,Sales Executive,2,2,843539.21,active
+85,Unnati,Srinivasan,unnati.srinivasan85@company.com,2024-06-22,Recruiter,3,3,582239.8,active
+86,Veda,Muni,veda.muni86@company.com,2017-09-03,Content Writer,5,5,557391.31,active
+87,Frederick,Dhawan,frederick.dhawan87@company.com,2017-01-01,Legal Associate,8,8,1319628.8,active
+88,Harsh,Oommen,harsh.oommen88@company.com,2026-01-15,Recruiter,3,3,866092.34,active
+89,Alka,Srinivas,alka.srinivas89@company.com,2016-12-09,Account Manager,2,2,700167.19,active
+90,Neel,Varty,neel.varty90@company.com,2021-02-01,Marketing Executive,5,5,996298.83,active
+91,Arin,Jha,arin.jha91@company.com,2022-12-21,Team Lead,7,7,763457.51,active
+92,Janaki,Din,janaki.din92@company.com,2017-10-23,Accountant,4,4,508687.58,active
+93,Avi,Wable,avi.wable93@company.com,2021-12-15,Content Writer,5,5,444980.42,active
+94,Chanchal,Chand,chanchal.chand94@company.com,2019-01-13,System Admin,9,9,463622.33,active
+95,Advika,Vasa,advika.vasa95@company.com,2016-03-03,Marketing Executive,5,5,678675.09,active
+96,Jeevika,Ganesh,jeevika.ganesh96@company.com,2018-10-03,Financial Analyst,4,4,695653.21,resigned
+97,Ishani,Kapoor,ishani.kapoor97@company.com,2022-02-14,Team Lead,7,7,696543.04,active
+98,Yadavi,Narayan,yadavi.narayan98@company.com,2023-09-17,Network Engineer,9,9,622174.69,active
+99,Udant,Hayer,udant.hayer99@company.com,2020-07-15,Accountant,4,4,989129.16,resigned
+100,Wriddhish,Rattan,wriddhish.rattan100@company.com,2016-10-16,HR Executive,3,3,739927.14,active
+101,Utkarsh,Iyengar,utkarsh.iyengar101@company.com,2016-08-14,Support Agent,7,7,544444.14,active
+102,Zarna,Tailor,zarna.tailor102@company.com,2022-09-18,Network Engineer,9,9,669793.87,active
+103,Ishani,Balakrishnan,ishani.balakrishnan103@company.com,2017-10-07,Legal Associate,8,8,603260.44,active
+104,Ayaan,Mammen,ayaan.mammen104@company.com,2022-02-18,Supply Planner,6,6,475835.04,active
+105,Urmi,Lad,urmi.lad105@company.com,2019-12-31,Marketing Executive,5,5,567966.31,active
+106,Rishi,Padmanabhan,rishi.padmanabhan106@company.com,2019-02-16,Account Manager,2,2,680882.05,active
+107,Sanya,Palla,sanya.palla107@company.com,2017-01-07,System Admin,9,9,517315.05,active
+108,Janya,Buch,janya.buch108@company.com,2020-06-01,Support Agent,7,7,356485.6,active
+109,Thomas,Chaudry,thomas.chaudry109@company.com,2022-07-26,Accountant,4,4,911948.5,resigned
+110,Utkarsh,Singhal,utkarsh.singhal110@company.com,2024-07-27,Recruiter,3,3,891601.0,active
+111,Ronith,Nazareth,ronith.nazareth111@company.com,2024-02-14,Recruiter,3,3,429613.72,active
+112,Samarth,Subramanian,samarth.subramanian112@company.com,2024-03-24,Network Engineer,9,9,829155.78,active
+113,Aarav,Srinivas,aarav.srinivas113@company.com,2025-04-07,System Admin,9,9,1048475.39,active
+114,Hemangini,Chad,hemangini.chad114@company.com,2016-05-07,Accountant,4,4,782271.93,active
+115,Jagdish,Rama,jagdish.rama115@company.com,2025-05-16,Account Manager,2,2,545702.28,active
+116,Ryan,Sridhar,ryan.sridhar116@company.com,2021-06-27,Software Engineer,1,1,1148338.23,active
+117,Pranav,Saraf,pranav.saraf117@company.com,2023-05-24,Sales Executive,2,2,747436.75,active
+118,Gaurangi,Chadha,gaurangi.chadha118@company.com,2025-01-27,Legal Associate,8,8,839002.4,active
+119,Meghana,Sheth,meghana.sheth119@company.com,2024-04-18,Accountant,4,4,676204.04,active
+120,Neelima,Chad,neelima.chad120@company.com,2021-05-16,Support Agent,7,7,350561.71,active
+121,Nathan,Garde,nathan.garde121@company.com,2016-11-13,Software Engineer,1,1,998127.53,active
+122,Joshua,Bala,joshua.bala122@company.com,2016-02-21,Marketing Executive,5,5,665768.73,active
+123,Matthew,Shroff,matthew.shroff123@company.com,2023-07-30,Sales Executive,2,2,725322.55,active
+124,Madhav,Som,madhav.som124@company.com,2021-03-23,Content Writer,5,5,359251.43,active
+125,Inaya,Dugal,inaya.dugal125@company.com,2019-06-30,System Admin,9,9,1152190.76,resigned
+126,Karan,Bail,karan.bail126@company.com,2021-02-22,QA Engineer,1,1,703971.11,active
+127,Akshay,Chauhan,akshay.chauhan127@company.com,2020-05-03,Legal Associate,8,8,1451028.55,active
+128,Liam,Saraf,liam.saraf128@company.com,2022-07-09,Accountant,4,4,848491.71,active
+129,Robert,Kakar,robert.kakar129@company.com,2017-06-27,Content Writer,5,5,615834.1,active
+130,Ayaan,Krishnamurthy,ayaan.krishnamurthy130@company.com,2023-11-20,Marketing Executive,5,5,673627.17,active
+131,Simon,Master,simon.master131@company.com,2016-04-11,Legal Associate,8,8,1454963.62,active
+132,Yachana,Khosla,yachana.khosla132@company.com,2019-05-21,Legal Associate,8,8,974563.07,active
+133,Eshana,Lad,eshana.lad133@company.com,2017-05-10,Team Lead,7,7,500870.69,active
+134,Oni,Deep,oni.deep134@company.com,2017-05-06,Supply Planner,6,6,596805.85,resigned
+135,Darsh,Pandya,darsh.pandya135@company.com,2018-11-03,QA Engineer,1,1,635739.63,active
+136,Tara,Varughese,tara.varughese136@company.com,2020-01-17,Buyer,10,10,765611.02,resigned
+137,Osha,Thaker,osha.thaker137@company.com,2017-02-20,QA Engineer,1,1,797186.91,active
+138,Kalpit,Wali,kalpit.wali138@company.com,2018-12-24,HR Executive,3,3,457800.69,active
+139,Max,Viswanathan,max.viswanathan139@company.com,2025-11-30,Supply Planner,6,6,1021241.53,active
+140,Yashvi,Bahl,yashvi.bahl140@company.com,2024-01-26,Support Agent,7,7,576712.87,active
+141,Ria,Goswami,ria.goswami141@company.com,2022-11-23,Team Lead,7,7,822245.36,active
+142,Aayush,Doctor,aayush.doctor142@company.com,2016-07-19,Content Writer,5,5,575054.1,active
+143,Orinder,Dhaliwal,orinder.dhaliwal143@company.com,2020-08-26,Recruiter,3,3,513774.53,active
+144,Urvashi,Dara,urvashi.dara144@company.com,2023-05-10,Content Writer,5,5,541591.01,active
+145,David,Nanda,david.nanda145@company.com,2017-11-16,Support Agent,7,7,276309.71,active
+146,Zarna,Wali,zarna.wali146@company.com,2022-03-04,Network Engineer,9,9,1129694.54,active
+147,Vasudha,Cherian,vasudha.cherian147@company.com,2017-07-25,Legal Associate,8,8,819677.07,active
+148,Dakshesh,Kothari,dakshesh.kothari148@company.com,2022-03-26,Recruiter,3,3,481519.62,active
+149,Rayaan,Malhotra,rayaan.malhotra149@company.com,2025-12-13,Marketing Executive,5,5,915900.08,active
+150,Brijesh,Chaudhari,brijesh.chaudhari150@company.com,2024-05-12,Team Lead,7,7,688432.91,active
+151,Yashica,Sethi,yashica.sethi151@company.com,2021-08-02,Operations Associate,6,6,783842.63,active
+152,Ayaan,Bhatnagar,ayaan.bhatnagar152@company.com,2017-01-14,HR Executive,3,3,424226.82,active
+153,Saanvi,Nanda,saanvi.nanda153@company.com,2020-11-03,Team Lead,7,7,924341.84,resigned
+154,Yashasvi,Vala,yashasvi.vala154@company.com,2016-05-12,Software Engineer,1,1,1516428.92,active
+155,Ryan,Malhotra,ryan.malhotra155@company.com,2016-01-01,Legal Associate,8,8,1437214.66,active
+156,Sneha,Trivedi,sneha.trivedi156@company.com,2021-01-12,Network Engineer,9,9,531784.5,active
+157,Vanya,Tripathi,vanya.tripathi157@company.com,2021-11-09,HR Executive,3,3,354445.21,resigned
+158,Yug,Virk,yug.virk158@company.com,2022-03-08,Legal Associate,8,8,601229.44,active
+159,Aashi,Jain,aashi.jain159@company.com,2022-05-21,HR Executive,3,3,622752.89,active
+160,Sara,Devan,sara.devan160@company.com,2023-01-10,Marketing Executive,5,5,763589.21,active
+161,Omaja,Dara,omaja.dara161@company.com,2016-10-15,Sales Executive,2,2,866124.27,active
+162,Manya,Sathe,manya.sathe162@company.com,2018-12-04,Financial Analyst,4,4,1140954.81,active
+163,Diya,Bora,diya.bora163@company.com,2021-03-01,QA Engineer,1,1,589814.22,active
+164,Wridesh,Sangha,wridesh.sangha164@company.com,2021-11-25,Financial Analyst,4,4,822352.55,active
+165,Elijah,Kala,elijah.kala165@company.com,2016-08-14,Team Lead,7,7,749155.12,active
+166,Chavvi,Das,chavvi.das166@company.com,2018-11-19,Support Agent,7,7,398512.84,active
+167,Mohammed,Pau,mohammed.pau167@company.com,2021-07-12,Operations Associate,6,6,469025.79,active
+168,Luke,Kulkarni,luke.kulkarni168@company.com,2023-08-27,Team Lead,7,7,503376.73,active
+169,Laksh,Sibal,laksh.sibal169@company.com,2018-04-20,Marketing Executive,5,5,480268.97,active
+170,Theodore,Chandra,theodore.chandra170@company.com,2021-03-20,Accountant,4,4,856282.44,active
+171,Mitali,Sur,mitali.sur171@company.com,2022-12-29,Marketing Executive,5,5,471753.59,active
+172,Nicholas,Kapur,nicholas.kapur172@company.com,2020-09-04,Financial Analyst,4,4,650775.37,active
+173,Neel,Sankar,neel.sankar173@company.com,2026-05-04,Buyer,10,10,467121.99,active
+174,Yutika,Raval,yutika.raval174@company.com,2020-08-28,Buyer,10,10,383074.39,active
+175,Harinakshi,Sama,harinakshi.sama175@company.com,2026-01-26,Team Lead,7,7,657099.98,active
+176,Rohan,Parikh,rohan.parikh176@company.com,2026-06-12,Sales Executive,2,2,414410.11,active
+177,Eiravati,Chanda,eiravati.chanda177@company.com,2016-05-10,Network Engineer,9,9,994032.99,active
+178,Jasmit,Bahl,jasmit.bahl178@company.com,2020-12-17,Supply Planner,6,6,452153.04,active
+179,Hamsini,Shanker,hamsini.shanker179@company.com,2019-12-10,Marketing Executive,5,5,925362.23,active
+180,Ridhi,Badami,ridhi.badami180@company.com,2020-04-06,System Admin,9,9,1066180.21,active
+181,Leena,Narula,leena.narula181@company.com,2016-07-20,Support Agent,7,7,318500.54,active
+182,Zansi,Merchant,zansi.merchant182@company.com,2018-03-01,Network Engineer,9,9,1002989.85,active
+183,Yauvani,Bhatt,yauvani.bhatt183@company.com,2023-01-31,Legal Associate,8,8,1330642.07,active
+184,Isaiah,Karnik,isaiah.karnik184@company.com,2020-03-18,Support Agent,7,7,271902.98,active
+185,Henry,Chad,henry.chad185@company.com,2018-03-09,QA Engineer,1,1,939131.07,active
+186,Alka,Magar,alka.magar186@company.com,2019-01-20,Supply Planner,6,6,1165321.82,active
+187,Balveer,Golla,balveer.golla187@company.com,2024-05-15,QA Engineer,1,1,589890.18,active
+188,Anamika,Dayal,anamika.dayal188@company.com,2016-01-16,Content Writer,5,5,597784.08,active
+189,Pahal,Kuruvilla,pahal.kuruvilla189@company.com,2025-04-06,Sales Executive,2,2,585113.43,active
+190,Nidra,Dixit,nidra.dixit190@company.com,2024-11-09,Legal Associate,8,8,986944.28,active
+191,Yutika,Talwar,yutika.talwar191@company.com,2026-05-29,Legal Associate,8,8,607834.66,active
+192,Eta,Chakraborty,eta.chakraborty192@company.com,2022-10-23,Marketing Executive,5,5,909807.54,active
+193,Arya,Bhandari,arya.bhandari193@company.com,2024-10-15,Legal Associate,8,8,671113.38,active
+194,Qadim,Sandal,qadim.sandal194@company.com,2024-06-10,Financial Analyst,4,4,966981.09,active
+195,Elijah,Luthra,elijah.luthra195@company.com,2022-03-13,QA Engineer,1,1,496415.43,active
+196,Anay,Chakrabarti,anay.chakrabarti196@company.com,2016-10-22,Support Agent,7,7,279428.91,active
+197,Abha,Chacko,abha.chacko197@company.com,2021-08-03,Account Manager,2,2,1374904.99,resigned
+198,Tristan,Bhavsar,tristan.bhavsar198@company.com,2017-06-28,HR Executive,3,3,610153.82,active
+199,Aishani,Dara,aishani.dara199@company.com,2024-09-28,Accountant,4,4,576269.29,active
+200,Sudiksha,Apte,sudiksha.apte200@company.com,2020-03-07,Buyer,10,10,493184.28,active
+201,Harinakshi,Sahni,harinakshi.sahni201@company.com,2018-01-30,Legal Associate,8,8,737989.98,active
+202,Amrita,Dayal,amrita.dayal202@company.com,2019-08-29,Buyer,10,10,488409.56,active
+203,Caleb,Vyas,caleb.vyas203@company.com,2023-04-14,Accountant,4,4,791995.93,active
+204,William,Choudhary,william.choudhary204@company.com,2016-01-19,Software Engineer,1,1,1582923.25,active
+205,Neel,Lala,neel.lala205@company.com,2016-06-14,Legal Associate,8,8,809603.41,active
+206,Chandresh,Golla,chandresh.golla206@company.com,2022-09-25,Software Engineer,1,1,1299832.52,resigned
+207,Saksham,Muni,saksham.muni207@company.com,2021-09-30,Account Manager,2,2,904202.47,active
+208,Dalaja,Wali,dalaja.wali208@company.com,2017-03-09,Marketing Executive,5,5,811308.97,active
+209,Samesh,Mann,samesh.mann209@company.com,2016-06-02,Operations Associate,6,6,370684.74,active
+210,Sanaya,Tella,sanaya.tella210@company.com,2016-06-05,Financial Analyst,4,4,1186478.54,active
+211,Pranav,Madan,pranav.madan211@company.com,2025-03-07,Accountant,4,4,806991.84,active
+212,Idika,Badami,idika.badami212@company.com,2016-11-15,Recruiter,3,3,787404.64,active
+213,Zashil,Bansal,zashil.bansal213@company.com,2016-09-16,Network Engineer,9,9,1046882.9,active
+214,Alexander,Badami,alexander.badami214@company.com,2023-03-03,System Admin,9,9,939793.76,active
+215,Yashasvi,Gupta,yashasvi.gupta215@company.com,2020-08-05,Team Lead,7,7,833905.47,resigned
+216,Yoshita,Soman,yoshita.soman216@company.com,2019-07-03,Support Agent,7,7,559293.21,active
+217,Yatan,Sekhon,yatan.sekhon217@company.com,2016-03-15,Team Lead,7,7,998310.18,active
+218,Hitesh,Sankaran,hitesh.sankaran218@company.com,2020-05-19,Operations Associate,6,6,401833.59,active
+219,Warda,Ramaswamy,warda.ramaswamy219@company.com,2026-02-10,QA Engineer,1,1,468123.58,active
+220,Yashawini,Morar,yashawini.morar220@company.com,2022-06-24,Account Manager,2,2,914815.61,active
+221,Tanveer,Karpe,tanveer.karpe221@company.com,2016-03-01,HR Executive,3,3,371248.4,active
+222,Hema,Issac,hema.issac222@company.com,2022-06-04,Support Agent,7,7,379795.27,active
+223,Logan,Ravel,logan.ravel223@company.com,2017-08-20,System Admin,9,9,571361.04,active
+224,Idika,Bhagat,idika.bhagat224@company.com,2017-03-21,HR Executive,3,3,676777.91,active
+225,Kai,Atwal,kai.atwal225@company.com,2017-06-02,Financial Analyst,4,4,639147.6,active
+226,Ekavir,Kumer,ekavir.kumer226@company.com,2016-08-06,Legal Associate,8,8,1172730.95,active
+227,Raagini,Gade,raagini.gade227@company.com,2023-03-07,Sales Executive,2,2,433245.05,active
+228,Christopher,Chad,christopher.chad228@company.com,2025-04-19,Support Agent,7,7,447899.55,active
+229,Lakshmi,Toor,lakshmi.toor229@company.com,2026-07-11,QA Engineer,1,1,630145.82,active
+230,Baghyawati,Kibe,baghyawati.kibe230@company.com,2018-10-08,Sales Executive,2,2,789389.84,resigned
+231,Chaaya,Bath,chaaya.bath231@company.com,2025-11-29,Accountant,4,4,854476.75,active
+232,Tripti,Goyal,tripti.goyal232@company.com,2017-04-27,QA Engineer,1,1,673440.1,active
+233,Nakul,Luthra,nakul.luthra233@company.com,2019-06-16,Content Writer,5,5,512869.92,active
+234,Sanaya,Aggarwal,sanaya.aggarwal234@company.com,2021-08-24,Supply Planner,6,6,467531.46,active
+235,Adya,Patla,adya.patla235@company.com,2021-03-20,Buyer,10,10,769960.86,active
+236,Falguni,Naik,falguni.naik236@company.com,2025-02-01,Legal Associate,8,8,696368.46,active
+237,Yash,Banerjee,yash.banerjee237@company.com,2020-10-29,Recruiter,3,3,791255.1,active
+238,Dayamai,Kamdar,dayamai.kamdar238@company.com,2016-06-15,System Admin,9,9,511680.77,active
+239,Ishanvi,Goswami,ishanvi.goswami239@company.com,2016-08-10,Operations Associate,6,6,747433.75,active
+240,Aarav,Nayak,aarav.nayak240@company.com,2025-08-11,HR Executive,3,3,607061.89,active
+241,Lakshmi,Chacko,lakshmi.chacko241@company.com,2017-06-23,Sales Executive,2,2,595121.98,resigned
+242,Vaishnavi,Mallick,vaishnavi.mallick242@company.com,2016-09-25,HR Executive,3,3,605222.32,active
+243,Yadavi,Iyer,yadavi.iyer243@company.com,2019-08-19,Marketing Executive,5,5,528745.18,active
+244,Yuvraj,Thaman,yuvraj.thaman244@company.com,2018-11-07,Legal Associate,8,8,1427917.03,active
+245,Abdul,Chand,abdul.chand245@company.com,2022-11-27,Financial Analyst,4,4,887169.77,active
+246,Aishani,Chakraborty,aishani.chakraborty246@company.com,2018-01-15,Software Engineer,1,1,1363886.14,active
+247,Maanas,Ratta,maanas.ratta247@company.com,2026-01-15,Content Writer,5,5,696062.08,active
+248,Benjamin,Ramesh,benjamin.ramesh248@company.com,2024-08-12,Marketing Executive,5,5,763607.14,active
+249,Arin,Mistry,arin.mistry249@company.com,2022-03-24,Supply Planner,6,6,966546.53,active
+250,Daksha,Kaul,daksha.kaul250@company.com,2022-01-03,Account Manager,2,2,854830.77,active
+251,Frado,Wadhwa,frado.wadhwa251@company.com,2020-03-19,Supply Planner,6,6,883020.38,resigned
+252,Mohammed,Ramachandran,mohammed.ramachandran252@company.com,2024-07-28,Supply Planner,6,6,622535.48,active
+253,Eshana,Talwar,eshana.talwar253@company.com,2019-04-28,Buyer,10,10,489508.88,active
+254,Mason,Mander,mason.mander254@company.com,2024-03-21,Buyer,10,10,368586.23,active
+255,Maanav,Bassi,maanav.bassi255@company.com,2022-11-28,Recruiter,3,3,579727.83,active
+256,Yochana,Sanghvi,yochana.sanghvi256@company.com,2017-06-24,Operations Associate,6,6,606259.72,active
+257,Yashasvi,Dewan,yashasvi.dewan257@company.com,2016-08-10,Software Engineer,1,1,1025955.09,active
+258,Yamini,Babu,yamini.babu258@company.com,2021-12-27,Account Manager,2,2,1025231.83,active
+259,Victor,Chada,victor.chada259@company.com,2018-04-16,Buyer,10,10,805659.44,active
+260,Azaan,Barman,azaan.barman260@company.com,2016-02-27,HR Executive,3,3,421794.13,resigned
+261,Kiaan,Patel,kiaan.patel261@company.com,2017-01-27,Recruiter,3,3,429580.4,active
+262,Henry,Puri,henry.puri262@company.com,2025-02-06,Content Writer,5,5,305748.02,active
+263,Siya,Bedi,siya.bedi263@company.com,2022-09-01,Network Engineer,9,9,782815.68,active
+264,Anirudh,Wali,anirudh.wali264@company.com,2018-10-14,Network Engineer,9,9,450299.68,active
+265,Yash,Suri,yash.suri265@company.com,2020-07-20,Software Engineer,1,1,791059.94,active
+266,Aishani,Aggarwal,aishani.aggarwal266@company.com,2022-11-14,Sales Executive,2,2,864552.36,active
+267,Tanmayi,Boase,tanmayi.boase267@company.com,2018-03-28,Recruiter,3,3,703481.53,active
+268,Yahvi,Wason,yahvi.wason268@company.com,2021-09-14,Support Agent,7,7,355093.16,active
+269,George,Vora,george.vora269@company.com,2024-01-09,QA Engineer,1,1,625095.24,active
+270,Dominic,Som,dominic.som270@company.com,2016-11-25,Team Lead,7,7,726243.62,active
+271,Zayyan,Borde,zayyan.borde271@company.com,2018-12-06,Accountant,4,4,423290.54,active
+272,Alka,Keer,alka.keer272@company.com,2023-12-25,Supply Planner,6,6,926899.45,active
+273,Samesh,Kashyap,samesh.kashyap273@company.com,2019-04-25,Team Lead,7,7,982570.41,active
+274,Triveni,Tak,triveni.tak274@company.com,2025-11-13,Accountant,4,4,501861.75,active
+275,Lavanya,Bose,lavanya.bose275@company.com,2026-08-05,Accountant,4,4,948975.04,active
+276,Varenya,Mani,varenya.mani276@company.com,2019-09-07,Financial Analyst,4,4,941504.04,active
+277,Chakradhar,Issac,chakradhar.issac277@company.com,2021-04-17,Network Engineer,9,9,973213.66,active
+278,Faras,Din,faras.din278@company.com,2024-02-16,QA Engineer,1,1,930855.22,active
+279,Garima,Kumar,garima.kumar279@company.com,2022-12-25,Financial Analyst,4,4,1108684.12,active
+280,Daksha,Deol,daksha.deol280@company.com,2016-05-14,HR Executive,3,3,353339.19,active
+281,Advik,Subramaniam,advik.subramaniam281@company.com,2017-08-03,Recruiter,3,3,366978.43,active
+282,Darsh,Sunder,darsh.sunder282@company.com,2023-10-25,HR Executive,3,3,323344.54,active
+283,Amruta,Chaudhary,amruta.chaudhary283@company.com,2018-03-27,Buyer,10,10,800759.83,active
+284,Teerth,Suri,teerth.suri284@company.com,2017-03-14,Account Manager,2,2,682844.4,active
+285,Bina,Varty,bina.varty285@company.com,2026-08-24,Software Engineer,1,1,1574422.82,active
+286,Bhavika,Shetty,bhavika.shetty286@company.com,2021-05-08,Account Manager,2,2,588075.64,active
+287,Unnati,Shukla,unnati.shukla287@company.com,2019-07-31,Financial Analyst,4,4,835043.65,active
+288,Jagat,Iyengar,jagat.iyengar288@company.com,2026-06-06,Supply Planner,6,6,986821.64,active
+289,Devika,Chada,devika.chada289@company.com,2024-08-16,Supply Planner,6,6,827802.99,resigned
+290,Urvashi,Badal,urvashi.badal290@company.com,2024-11-05,Marketing Executive,5,5,633692.23,active
+291,Bimala,Shanker,bimala.shanker291@company.com,2021-04-04,Account Manager,2,2,984092.49,active
+292,Faraj,Toor,faraj.toor292@company.com,2022-06-11,Accountant,4,4,502222.76,active
+293,Shivani,Luthra,shivani.luthra293@company.com,2019-03-27,Software Engineer,1,1,1773438.84,active
+294,Lila,Kadakia,lila.kadakia294@company.com,2021-07-03,QA Engineer,1,1,817124.77,active
+295,Shivansh,Borde,shivansh.borde295@company.com,2022-08-24,Recruiter,3,3,807509.71,active
+296,Gautam,Dhar,gautam.dhar296@company.com,2019-03-08,Marketing Executive,5,5,959888.0,active
+297,Adweta,Parsa,adweta.parsa297@company.com,2017-11-10,Financial Analyst,4,4,1172878.5,active
+298,Kevin,Trivedi,kevin.trivedi298@company.com,2024-11-01,Account Manager,2,2,1005129.18,resigned
+299,Ati,Chowdhury,ati.chowdhury299@company.com,2019-12-27,Account Manager,2,2,1335654.13,active
+300,Janya,Kashyap,janya.kashyap300@company.com,2025-12-18,Account Manager,2,2,834755.0,active
+301,Widisha,Sunder,widisha.sunder301@company.com,2020-10-19,Content Writer,5,5,550595.09,active
+302,Meera,Bakshi,meera.bakshi302@company.com,2026-08-02,Support Agent,7,7,436040.6,active
+303,Nathan,Aggarwal,nathan.aggarwal303@company.com,2019-11-28,Buyer,10,10,636952.7,active
+304,Vyanjana,Seshadri,vyanjana.seshadri304@company.com,2017-11-25,Legal Associate,8,8,1220155.23,active
+305,Nidra,Mittal,nidra.mittal305@company.com,2017-05-31,Marketing Executive,5,5,767755.61,active
+306,Lohit,Saha,lohit.saha306@company.com,2018-12-31,Accountant,4,4,821899.7,active
+307,Hemangini,Puri,hemangini.puri307@company.com,2024-02-10,Buyer,10,10,486169.57,active
+308,Diya,Dara,diya.dara308@company.com,2017-10-21,Supply Planner,6,6,1166844.9,active
+309,Garima,Agarwal,garima.agarwal309@company.com,2017-11-05,Marketing Executive,5,5,416064.69,resigned
+310,Ekta,Nigam,ekta.nigam310@company.com,2017-08-30,Support Agent,7,7,506652.41,active
+311,Mitali,Dar,mitali.dar311@company.com,2018-03-14,Team Lead,7,7,955701.25,active
+312,Rohan,Arora,rohan.arora312@company.com,2025-12-04,Marketing Executive,5,5,372055.54,active
+313,Bimala,Kulkarni,bimala.kulkarni313@company.com,2023-10-11,Team Lead,7,7,990440.64,active
+314,Kashish,Bhattacharyya,kashish.bhattacharyya314@company.com,2016-03-31,Content Writer,5,5,601854.39,active
+315,Maya,Ramakrishnan,maya.ramakrishnan315@company.com,2024-04-22,Support Agent,7,7,548511.96,active
+316,Faraj,Patel,faraj.patel316@company.com,2025-06-27,Buyer,10,10,747220.78,active
+317,Priya,Maharaj,priya.maharaj317@company.com,2023-08-15,Buyer,10,10,418318.52,active
+318,Chanakya,Mand,chanakya.mand318@company.com,2018-11-30,Team Lead,7,7,548933.41,active
+319,Harsh,Behl,harsh.behl319@company.com,2024-10-09,Support Agent,7,7,499422.42,active
+320,Bhavika,Dixit,bhavika.dixit320@company.com,2025-07-11,Recruiter,3,3,600356.96,active
+321,Zaid,Lata,zaid.lata321@company.com,2021-10-23,Buyer,10,10,861608.56,active
+322,Rajata,Vaidya,rajata.vaidya322@company.com,2024-09-22,Recruiter,3,3,807529.28,active
+323,Diya,Gupta,diya.gupta323@company.com,2018-10-26,Sales Executive,2,2,396505.57,active
+324,Kashvi,Sangha,kashvi.sangha324@company.com,2017-02-18,Financial Analyst,4,4,1011106.22,active
+325,Ayush,Ratta,ayush.ratta325@company.com,2021-09-28,Financial Analyst,4,4,1313310.12,active
+326,Samar,Buch,samar.buch326@company.com,2020-08-07,Supply Planner,6,6,792682.19,active
+327,Chandran,Roy,chandran.roy327@company.com,2021-10-05,Recruiter,3,3,417317.04,active
+328,Shravya,Devi,shravya.devi328@company.com,2023-02-24,Buyer,10,10,500896.47,active
+329,Bhavini,Sunder,bhavini.sunder329@company.com,2016-02-24,Support Agent,7,7,570402.48,active
+330,Chandran,Datta,chandran.datta330@company.com,2017-03-23,Supply Planner,6,6,1006102.97,active
+331,Onkar,Sodhi,onkar.sodhi331@company.com,2024-12-26,System Admin,9,9,796587.41,resigned
+332,Oeshi,Oza,oeshi.oza332@company.com,2026-06-03,HR Executive,3,3,704786.21,active
+333,Baghyawati,Mishra,baghyawati.mishra333@company.com,2023-03-15,Financial Analyst,4,4,803388.13,active
+334,Aadhya,Lad,aadhya.lad334@company.com,2023-06-21,Recruiter,3,3,800306.54,active
+335,Nidra,Khare,nidra.khare335@company.com,2019-04-20,Team Lead,7,7,824803.76,active
+336,Charvi,Subramanian,charvi.subramanian336@company.com,2024-10-14,Legal Associate,8,8,840682.04,active
+337,Meera,Dar,meera.dar337@company.com,2020-10-11,Team Lead,7,7,740784.49,active
+338,Oliver,Edwin,oliver.edwin338@company.com,2018-09-30,Content Writer,5,5,460160.26,active
+339,Falan,Johal,falan.johal339@company.com,2022-12-28,Legal Associate,8,8,1193337.99,active
+340,Xiti,Tank,xiti.tank340@company.com,2026-06-01,Operations Associate,6,6,492555.35,active
+341,Thomas,Sethi,thomas.sethi341@company.com,2024-10-16,Account Manager,2,2,977583.04,resigned
+342,Gaurangi,Sengupta,gaurangi.sengupta342@company.com,2023-05-16,Operations Associate,6,6,775884.29,active
+343,Prisha,Dewan,prisha.dewan343@company.com,2022-10-27,Content Writer,5,5,371366.28,active
+344,Reyansh,Kohli,reyansh.kohli344@company.com,2024-09-14,Accountant,4,4,870931.11,active
+345,Gautam,Ghosh,gautam.ghosh345@company.com,2024-11-16,Financial Analyst,4,4,1148562.04,active
+346,Hema,Chand,hema.chand346@company.com,2023-07-01,Buyer,10,10,651675.55,active
+347,Eiravati,Khare,eiravati.khare347@company.com,2021-07-18,Marketing Executive,5,5,695017.06,active
+348,Jyoti,Kuruvilla,jyoti.kuruvilla348@company.com,2022-03-23,Legal Associate,8,8,977134.33,active
+349,Saksham,Bahri,saksham.bahri349@company.com,2021-07-12,Recruiter,3,3,616403.85,active
+350,Nitara,Rajagopal,nitara.rajagopal350@company.com,2018-10-06,Recruiter,3,3,646748.49,active
+351,Odika,Viswanathan,odika.viswanathan351@company.com,2025-06-05,Software Engineer,1,1,1435062.67,active
+352,Shivansh,Puri,shivansh.puri352@company.com,2025-06-04,Legal Associate,8,8,983232.73,active
+353,Anamika,Nigam,anamika.nigam353@company.com,2023-02-22,Sales Executive,2,2,687912.93,active
+354,David,Tara,david.tara354@company.com,2023-08-27,Software Engineer,1,1,1798783.3,active
+355,Arunima,Parsa,arunima.parsa355@company.com,2021-06-08,Account Manager,2,2,630040.43,active
+356,Jeremiah,Thakur,jeremiah.thakur356@company.com,2023-01-05,Financial Analyst,4,4,685018.78,active
+357,Tarak,Chanda,tarak.chanda357@company.com,2021-04-27,Supply Planner,6,6,865594.15,active
+358,Anika,Kothari,anika.kothari358@company.com,2020-11-17,Financial Analyst,4,4,826414.76,active
+359,Leena,Ratta,leena.ratta359@company.com,2019-04-14,QA Engineer,1,1,696238.17,active
+360,Sanaya,Sankaran,sanaya.sankaran360@company.com,2025-10-15,Supply Planner,6,6,1181246.67,active
+361,Devika,Bains,devika.bains361@company.com,2019-09-17,Legal Associate,8,8,1241862.91,active
+362,Joshua,Bali,joshua.bali362@company.com,2024-10-17,HR Executive,3,3,499439.17,resigned
+363,Pavani,Solanki,pavani.solanki363@company.com,2022-02-11,Network Engineer,9,9,748861.56,active
+364,Vrishti,Acharya,vrishti.acharya364@company.com,2016-07-09,Sales Executive,2,2,852858.75,active
+365,Elijah,Raman,elijah.raman365@company.com,2024-11-05,Buyer,10,10,649007.4,active
+366,Upadhriti,Sen,upadhriti.sen366@company.com,2023-01-11,Support Agent,7,7,491193.7,active
+367,Yuvraj,Chopra,yuvraj.chopra367@company.com,2016-06-10,Sales Executive,2,2,574727.6,active
+368,Udarsh,Dubey,udarsh.dubey368@company.com,2023-06-11,HR Executive,3,3,318488.82,active
+369,Max,Vig,max.vig369@company.com,2020-02-19,Sales Executive,2,2,383217.5,active
+370,Ikbal,Shankar,ikbal.shankar370@company.com,2025-09-02,Content Writer,5,5,510892.35,active
+371,Frederick,Baral,frederick.baral371@company.com,2020-10-30,Operations Associate,6,6,589139.46,active
+372,Aarav,Dass,aarav.dass372@company.com,2022-05-13,QA Engineer,1,1,894853.75,active
+373,Viraj,Barad,viraj.barad373@company.com,2021-01-02,Team Lead,7,7,839981.38,active
+374,Daksha,Dave,daksha.dave374@company.com,2021-05-01,Buyer,10,10,651842.91,active
+375,Zayan,Wable,zayan.wable375@company.com,2018-05-19,Account Manager,2,2,1064205.49,active
+376,Rajeshri,Choudhury,rajeshri.choudhury376@company.com,2016-02-08,Support Agent,7,7,292584.8,active
+377,Hardik,Bobal,hardik.bobal377@company.com,2025-10-01,Sales Executive,2,2,583399.06,active
+378,Charita,Vohra,charita.vohra378@company.com,2021-01-20,Marketing Executive,5,5,471816.72,active
+379,Rehaan,Rama,rehaan.rama379@company.com,2024-09-05,QA Engineer,1,1,816905.63,active
+380,Advika,Kapoor,advika.kapoor380@company.com,2019-04-15,HR Executive,3,3,654617.58,active
+381,Aarav,Anne,aarav.anne381@company.com,2026-03-30,Legal Associate,8,8,1245489.1,resigned
+382,Charvi,Sharma,charvi.sharma382@company.com,2016-03-01,Software Engineer,1,1,1423967.12,active
+383,Arya,Mutti,arya.mutti383@company.com,2020-05-12,Buyer,10,10,751193.06,active
+384,Xavier,Soman,xavier.soman384@company.com,2022-10-30,Recruiter,3,3,552161.07,active
+385,Wahab,Koshy,wahab.koshy385@company.com,2021-04-08,Buyer,10,10,429698.59,active
+386,Ayush,Sabharwal,ayush.sabharwal386@company.com,2023-03-26,Account Manager,2,2,1221663.73,active
+387,Damyanti,Bhakta,damyanti.bhakta387@company.com,2024-09-22,Legal Associate,8,8,1450429.75,active
+388,Anthony,Hari,anthony.hari388@company.com,2019-04-12,Buyer,10,10,692016.04,active
+389,Wishi,Salvi,wishi.salvi389@company.com,2025-10-01,Buyer,10,10,887596.37,active
+390,Finn,Kurian,finn.kurian390@company.com,2022-07-22,Recruiter,3,3,838468.22,active
+391,Vedant,Samra,vedant.samra391@company.com,2023-09-06,Team Lead,7,7,885722.73,active
+392,Kamala,Karan,kamala.karan392@company.com,2019-03-06,Financial Analyst,4,4,889373.29,active
+393,Waida,Bandi,waida.bandi393@company.com,2017-10-06,Content Writer,5,5,707993.09,active
+394,Hamsini,Salvi,hamsini.salvi394@company.com,2025-05-05,QA Engineer,1,1,934367.48,active
+395,Janani,Randhawa,janani.randhawa395@company.com,2019-01-26,Buyer,10,10,788492.93,resigned
+396,Rudra,Ahuja,rudra.ahuja396@company.com,2019-11-21,Network Engineer,9,9,854985.89,active
+397,Brinda,Thaman,brinda.thaman397@company.com,2018-03-31,Legal Associate,8,8,1249971.54,active
+398,Ekansh,Jha,ekansh.jha398@company.com,2022-10-21,Financial Analyst,4,4,955946.33,active
+399,Warhi,Iyer,warhi.iyer399@company.com,2022-07-29,Financial Analyst,4,4,1312498.48,active
+400,Devika,Hari,devika.hari400@company.com,2022-01-05,Legal Associate,8,8,1294949.65,active
+401,Vihaan,Shroff,vihaan.shroff401@company.com,2022-07-02,Financial Analyst,4,4,833587.38,active
+402,Timothy,Lanka,timothy.lanka402@company.com,2021-05-06,Network Engineer,9,9,601402.22,active
+403,Chakrika,Chopra,chakrika.chopra403@company.com,2017-01-12,Accountant,4,4,820638.49,active
+404,Warhi,Grover,warhi.grover404@company.com,2020-07-06,Supply Planner,6,6,1092713.04,active
+405,Udant,Sundaram,udant.sundaram405@company.com,2026-05-07,Accountant,4,4,624424.25,resigned
+406,Omisha,Bhalla,omisha.bhalla406@company.com,2023-02-04,Account Manager,2,2,573565.5,active
+407,Madhav,Ramaswamy,madhav.ramaswamy407@company.com,2019-11-13,Operations Associate,6,6,603568.32,active
+408,Chatura,Kala,chatura.kala408@company.com,2018-04-18,Sales Executive,2,2,819649.5,resigned
+409,Arjun,Dhar,arjun.dhar409@company.com,2018-12-07,Legal Associate,8,8,851842.04,resigned
+410,Ojasvi,Ben,ojasvi.ben410@company.com,2024-08-08,Account Manager,2,2,1047850.53,active
+411,Darpan,Gour,darpan.gour411@company.com,2025-06-17,Recruiter,3,3,460544.01,active
+412,Maya,Sengupta,maya.sengupta412@company.com,2016-12-08,Recruiter,3,3,369145.54,active
+413,Dipta,Chowdhury,dipta.chowdhury413@company.com,2021-06-17,Supply Planner,6,6,1132439.79,resigned
+414,Fariq,Gandhi,fariq.gandhi414@company.com,2026-05-05,Account Manager,2,2,1363366.95,active
+415,Forum,Halder,forum.halder415@company.com,2022-05-01,Content Writer,5,5,344891.63,active
+416,Qasim,Vohra,qasim.vohra416@company.com,2018-01-18,Network Engineer,9,9,569796.32,active
+417,Unni,Balay,unni.balay417@company.com,2017-12-06,Accountant,4,4,553517.31,active
+418,Devika,Radhakrishnan,devika.radhakrishnan418@company.com,2026-02-14,Operations Associate,6,6,313893.0,active
+419,Kashvi,Narula,kashvi.narula419@company.com,2024-10-25,QA Engineer,1,1,843742.4,active
+420,Saanvi,Gara,saanvi.gara420@company.com,2017-02-17,Legal Associate,8,8,1279455.67,active
+421,Ikbal,Agate,ikbal.agate421@company.com,2022-08-12,Financial Analyst,4,4,1282108.02,active
+422,Farhan,Mammen,farhan.mammen422@company.com,2019-08-19,Account Manager,2,2,851043.3,active
+423,Faris,Panchal,faris.panchal423@company.com,2020-04-04,Supply Planner,6,6,628843.1,active
+424,Osha,Dasgupta,osha.dasgupta424@company.com,2021-03-31,HR Executive,3,3,397551.88,active
+425,Sarthak,Rai,sarthak.rai425@company.com,2026-05-27,Software Engineer,1,1,693343.79,active
+426,Ishanvi,More,ishanvi.more426@company.com,2025-12-19,Buyer,10,10,778073.32,active
+427,Rachana,Chahal,rachana.chahal427@company.com,2025-06-11,Account Manager,2,2,567638.63,active
+428,Chandran,Solanki,chandran.solanki428@company.com,2025-03-25,Supply Planner,6,6,536707.79,active
+429,Rohan,Pradhan,rohan.pradhan429@company.com,2019-09-21,Operations Associate,6,6,328363.2,active
+430,Sanya,Hans,sanya.hans430@company.com,2020-12-03,Legal Associate,8,8,839757.11,active
+431,Ekiya,Patla,ekiya.patla431@company.com,2017-09-29,Support Agent,7,7,449846.62,active
+432,Urvi,Balasubramanian,urvi.balasubramanian432@company.com,2025-01-06,Content Writer,5,5,545503.47,active
+433,Nirja,Kota,nirja.kota433@company.com,2026-02-16,Supply Planner,6,6,565026.77,active
+434,Nidhi,Baria,nidhi.baria434@company.com,2023-01-28,System Admin,9,9,951210.01,active
+435,Keya,Banerjee,keya.banerjee435@company.com,2025-05-14,Financial Analyst,4,4,832013.83,active
+436,Ucchal,Bhatnagar,ucchal.bhatnagar436@company.com,2020-11-04,Financial Analyst,4,4,1498277.06,resigned
+437,David,Kurian,david.kurian437@company.com,2020-05-17,Accountant,4,4,937719.68,active
+438,Robert,Bhatnagar,robert.bhatnagar438@company.com,2017-08-14,QA Engineer,1,1,409617.12,resigned
+439,Harinakshi,Patil,harinakshi.patil439@company.com,2021-09-23,Network Engineer,9,9,451442.27,active
+440,Anita,Nayak,anita.nayak440@company.com,2018-01-31,Network Engineer,9,9,480410.93,active
+441,Caleb,Lala,caleb.lala441@company.com,2019-02-07,Support Agent,7,7,298326.07,active
+442,Edhitha,Majumdar,edhitha.majumdar442@company.com,2023-12-24,HR Executive,3,3,600325.99,active
+443,Chameli,Aggarwal,chameli.aggarwal443@company.com,2024-07-15,Account Manager,2,2,685428.72,active
+444,Dhruv,Bajwa,dhruv.bajwa444@company.com,2022-07-15,Buyer,10,10,355519.99,active
+445,Vivaan,Chhabra,vivaan.chhabra445@company.com,2025-06-07,Network Engineer,9,9,491528.85,active
+446,Vaishnavi,Shroff,vaishnavi.shroff446@company.com,2019-02-28,Supply Planner,6,6,1098379.0,active
+447,Libni,Krishnamurthy,libni.krishnamurthy447@company.com,2016-03-04,Legal Associate,8,8,1286682.6,active
+448,Qushi,Tak,qushi.tak448@company.com,2018-10-14,Recruiter,3,3,807392.55,active
+449,Kevin,Taneja,kevin.taneja449@company.com,2017-10-31,Operations Associate,6,6,587459.86,active
+450,Qadim,Anand,qadim.anand450@company.com,2021-10-30,QA Engineer,1,1,981240.99,resigned
+451,Chavvi,Dora,chavvi.dora451@company.com,2020-01-01,Sales Executive,2,2,789921.31,active
+452,Warinder,Narang,warinder.narang452@company.com,2022-06-18,Supply Planner,6,6,495906.0,active
+453,Ekaja,Sharma,ekaja.sharma453@company.com,2021-01-02,Account Manager,2,2,977459.46,active
+454,Janaki,Brar,janaki.brar454@company.com,2016-03-25,System Admin,9,9,516439.65,active
+455,Yauvani,Hora,yauvani.hora455@company.com,2017-11-18,Buyer,10,10,487751.94,active
+456,Manya,Dutta,manya.dutta456@company.com,2017-01-30,Software Engineer,1,1,1486498.32,resigned
+457,Yug,Reddy,yug.reddy457@company.com,2025-05-22,Marketing Executive,5,5,724713.64,active
+458,Dhruv,Bandi,dhruv.bandi458@company.com,2023-11-18,System Admin,9,9,713024.82,active
+459,Vasatika,Nanda,vasatika.nanda459@company.com,2016-07-04,Sales Executive,2,2,578907.21,active
+460,Naveen,Sandhu,naveen.sandhu460@company.com,2017-03-26,Buyer,10,10,573107.78,active
+461,Henry,Bora,henry.bora461@company.com,2025-08-28,HR Executive,3,3,634387.81,active
+462,Alka,Chad,alka.chad462@company.com,2017-11-04,Legal Associate,8,8,616657.93,resigned
+463,Sathvik,Char,sathvik.char463@company.com,2022-09-11,Team Lead,7,7,762807.71,active
+464,Oviya,Tara,oviya.tara464@company.com,2024-09-17,Support Agent,7,7,390247.38,active
+465,Sanya,Ghose,sanya.ghose465@company.com,2025-06-15,Supply Planner,6,6,1053283.84,resigned
+466,Vivaan,Deol,vivaan.deol466@company.com,2025-07-03,Supply Planner,6,6,693659.82,active
+467,Omaja,Sharma,omaja.sharma467@company.com,2018-10-18,Recruiter,3,3,714715.11,active
+468,Wahab,Yohannan,wahab.yohannan468@company.com,2017-03-22,QA Engineer,1,1,441558.53,active
+469,Jairaj,Memon,jairaj.memon469@company.com,2021-08-29,Support Agent,7,7,328917.46,active
+470,Chaaya,Mammen,chaaya.mammen470@company.com,2024-09-15,Team Lead,7,7,726865.66,resigned
+471,Amrita,Pradhan,amrita.pradhan471@company.com,2016-05-20,Software Engineer,1,1,1345111.09,active
+472,Aachal,Lad,aachal.lad472@company.com,2023-01-17,Buyer,10,10,858411.03,active
+473,Rushil,Sarna,rushil.sarna473@company.com,2018-10-23,Buyer,10,10,357516.98,active
+474,Yug,Grewal,yug.grewal474@company.com,2019-03-23,Accountant,4,4,608532.16,active
+475,Yatan,Keer,yatan.keer475@company.com,2016-09-04,HR Executive,3,3,778042.4,active
+476,Mitesh,Manda,mitesh.manda476@company.com,2016-12-12,Network Engineer,9,9,850373.62,active
+477,Raghav,Narain,raghav.narain477@company.com,2017-05-22,Recruiter,3,3,836854.75,active
+478,Dhruv,Randhawa,dhruv.randhawa478@company.com,2019-01-27,Team Lead,7,7,543923.61,active
+479,Zayan,Korpal,zayan.korpal479@company.com,2025-06-01,Network Engineer,9,9,971125.95,active
+480,Yashica,Vora,yashica.vora480@company.com,2018-04-04,Financial Analyst,4,4,930132.38,active
+481,Vihaan,Chaudhry,vihaan.chaudhry481@company.com,2022-11-15,Network Engineer,9,9,1064114.76,active
+482,Ucchal,Bansal,ucchal.bansal482@company.com,2019-09-28,Software Engineer,1,1,1214939.4,active
+483,Harsh,Agrawal,harsh.agrawal483@company.com,2016-02-18,Team Lead,7,7,581147.25,resigned
+484,Vaishnavi,Kashyap,vaishnavi.kashyap484@company.com,2022-03-30,Financial Analyst,4,4,842935.11,active
+485,Saumya,Prakash,saumya.prakash485@company.com,2016-08-21,Financial Analyst,4,4,742710.01,active
+486,Banjeet,Memon,banjeet.memon486@company.com,2020-12-07,Account Manager,2,2,965296.04,active
+487,Viraj,Dar,viraj.dar487@company.com,2024-03-31,Legal Associate,8,8,1068836.29,active
+488,Chandresh,Gupta,chandresh.gupta488@company.com,2019-10-12,Recruiter,3,3,427179.97,active
+489,Rishi,Borde,rishi.borde489@company.com,2025-03-17,Financial Analyst,4,4,685546.57,active
+490,Kashish,Vala,kashish.vala490@company.com,2024-10-20,Legal Associate,8,8,1168920.82,active
+491,Pranav,Sen,pranav.sen491@company.com,2025-10-06,Recruiter,3,3,575729.81,active
+492,Abha,Ahuja,abha.ahuja492@company.com,2021-08-01,System Admin,9,9,1194693.31,active
+493,Hitesh,Palla,hitesh.palla493@company.com,2025-07-13,Recruiter,3,3,830018.7,active
+494,Teerth,Barad,teerth.barad494@company.com,2020-04-03,Buyer,10,10,730953.87,active
+495,Jyoti,Oak,jyoti.oak495@company.com,2019-04-14,Content Writer,5,5,563060.8,active
+496,Lohit,Basu,lohit.basu496@company.com,2023-04-09,Buyer,10,10,782892.86,active
+497,Samar,Kumer,samar.kumer497@company.com,2020-12-23,Legal Associate,8,8,1083186.84,active
+498,Balvan,Jani,balvan.jani498@company.com,2022-06-14,Recruiter,3,3,477565.49,active
+499,Advay,Narang,advay.narang499@company.com,2025-06-16,Supply Planner,6,6,631989.65,active
+500,Nilima,Prabhu,nilima.prabhu500@company.com,2020-10-12,Operations Associate,6,6,777957.0,active
+501,Qasim,Muni,qasim.muni501@company.com,2018-11-16,Software Engineer,1,1,1196804.81,active
+502,Faras,Jani,faras.jani502@company.com,2022-01-14,Network Engineer,9,9,777869.81,active
+503,Azad,Tandon,azad.tandon503@company.com,2020-05-14,Network Engineer,9,9,480533.95,active
+504,Veda,Bhatnagar,veda.bhatnagar504@company.com,2026-08-18,Supply Planner,6,6,501201.75,active
+505,Nikita,Chaudhuri,nikita.chaudhuri505@company.com,2020-08-04,Accountant,4,4,640536.21,active
+506,Megha,Dubey,megha.dubey506@company.com,2025-11-12,System Admin,9,9,765918.98,active
+507,Gavin,Gade,gavin.gade507@company.com,2024-08-08,Team Lead,7,7,998062.15,active
+508,Mitali,Madan,mitali.madan508@company.com,2017-11-30,Operations Associate,6,6,483328.86,active
+509,Nimrat,Mander,nimrat.mander509@company.com,2021-09-30,Account Manager,2,2,1090333.28,active
+510,Damyanti,Sahni,damyanti.sahni510@company.com,2025-03-14,Content Writer,5,5,554440.18,resigned
+511,Charan,Muni,charan.muni511@company.com,2021-11-16,Support Agent,7,7,429062.15,active
+512,Ishanvi,Sachdeva,ishanvi.sachdeva512@company.com,2020-08-15,System Admin,9,9,922573.64,active
+513,Omaja,Badami,omaja.badami513@company.com,2019-12-17,Buyer,10,10,697225.1,active
+514,Januja,Hegde,januja.hegde514@company.com,2016-02-13,QA Engineer,1,1,584044.27,active
+515,Mahika,Ravel,mahika.ravel515@company.com,2026-04-14,System Admin,9,9,1081618.46,active
+516,Samar,Ahuja,samar.ahuja516@company.com,2023-06-29,Buyer,10,10,446356.81,active
+517,Radha,Dugar,radha.dugar517@company.com,2025-10-08,Network Engineer,9,9,848616.48,active
+518,Pallavi,Comar,pallavi.comar518@company.com,2020-08-10,HR Executive,3,3,372676.96,active
+519,Gautam,Ravi,gautam.ravi519@company.com,2016-04-28,System Admin,9,9,577901.84,active
+520,Janya,Sharma,janya.sharma520@company.com,2025-03-25,Network Engineer,9,9,772965.97,active
+521,Nicholas,De,nicholas.de521@company.com,2023-09-04,Software Engineer,1,1,987386.34,active
+522,Alexander,Behl,alexander.behl522@company.com,2019-02-02,Financial Analyst,4,4,839949.05,active
+523,Lucky,Ranganathan,lucky.ranganathan523@company.com,2019-11-30,Sales Executive,2,2,674401.7,active
+524,Gaurav,Prabhakar,gaurav.prabhakar524@company.com,2018-06-20,Software Engineer,1,1,1299194.54,active
+525,Yamini,Garg,yamini.garg525@company.com,2016-08-11,QA Engineer,1,1,549597.66,active
+526,Madhav,Pall,madhav.pall526@company.com,2026-06-09,Software Engineer,1,1,808237.41,active
+527,Bhanumati,Edwin,bhanumati.edwin527@company.com,2019-05-28,QA Engineer,1,1,551180.63,active
+528,Onveer,Bhavsar,onveer.bhavsar528@company.com,2018-09-22,Legal Associate,8,8,1207419.04,active
+529,Ikbal,Rajagopal,ikbal.rajagopal529@company.com,2020-08-20,Buyer,10,10,831419.28,active
+530,Vritti,Hora,vritti.hora530@company.com,2024-11-21,Legal Associate,8,8,678719.08,active
+531,Charvi,Date,charvi.date531@company.com,2020-04-01,Recruiter,3,3,884351.1,active
+532,Caleb,Subramanian,caleb.subramanian532@company.com,2022-04-19,Content Writer,5,5,467507.26,active
+533,Divya,Bera,divya.bera533@company.com,2020-07-09,Team Lead,7,7,980614.3,active
+534,Lipika,Chadha,lipika.chadha534@company.com,2022-03-18,Team Lead,7,7,595597.75,active
+535,Naveen,Kapadia,naveen.kapadia535@company.com,2018-08-29,Content Writer,5,5,439566.42,active
+536,Nidhi,Hayre,nidhi.hayre536@company.com,2025-01-09,QA Engineer,1,1,823522.68,active
+537,Urvashi,Goswami,urvashi.goswami537@company.com,2019-01-09,Sales Executive,2,2,772477.01,active
+538,Tejas,Barman,tejas.barman538@company.com,2021-03-28,Network Engineer,9,9,1053704.72,active
+539,Mugdha,Vasa,mugdha.vasa539@company.com,2019-12-16,Recruiter,3,3,572833.65,active
+540,Naksh,Rajagopal,naksh.rajagopal540@company.com,2019-05-02,Buyer,10,10,627656.35,resigned
+541,Jagrati,Dasgupta,jagrati.dasgupta541@company.com,2023-07-29,Financial Analyst,4,4,1235825.85,active
+542,Mason,Koshy,mason.koshy542@company.com,2022-08-03,Content Writer,5,5,567330.54,resigned
+543,Reyansh,Barman,reyansh.barman543@company.com,2017-05-29,Support Agent,7,7,292976.11,active
+544,Balvan,Naik,balvan.naik544@company.com,2022-01-31,System Admin,9,9,1001953.74,active
+545,Jacob,Ramakrishnan,jacob.ramakrishnan545@company.com,2023-05-17,Support Agent,7,7,300774.44,active
+546,Tamanna,Mohan,tamanna.mohan546@company.com,2023-12-21,QA Engineer,1,1,506228.32,active
+547,Osha,Morar,osha.morar547@company.com,2018-02-10,Financial Analyst,4,4,698065.18,active
+548,Zaid,Sandal,zaid.sandal548@company.com,2025-01-11,Network Engineer,9,9,672718.98,active
+549,Lopa,Pillai,lopa.pillai549@company.com,2016-12-26,Account Manager,2,2,613519.32,active
+550,Sanya,Thakur,sanya.thakur550@company.com,2019-12-28,Team Lead,7,7,954461.5,active
+551,Raksha,Gola,raksha.gola551@company.com,2017-12-23,Recruiter,3,3,723793.55,active
+552,Arin,Aggarwal,arin.aggarwal552@company.com,2016-04-13,Supply Planner,6,6,974436.46,active
+553,Vrishti,Shroff,vrishti.shroff553@company.com,2019-12-13,Financial Analyst,4,4,687928.11,active
+554,Wahab,Sekhon,wahab.sekhon554@company.com,2019-01-14,Marketing Executive,5,5,827134.7,active
+555,Tara,Gola,tara.gola555@company.com,2016-06-12,QA Engineer,1,1,658421.8,active
+556,Urvashi,Ratta,urvashi.ratta556@company.com,2020-04-08,Marketing Executive,5,5,709023.81,active
+557,Hredhaan,Bhavsar,hredhaan.bhavsar557@company.com,2022-05-24,HR Executive,3,3,560389.69,active
+558,Kabir,Parmer,kabir.parmer558@company.com,2026-06-29,Team Lead,7,7,917137.29,active
+559,Qushi,Pau,qushi.pau559@company.com,2025-10-24,Marketing Executive,5,5,744801.66,active
+560,Gavin,Sathe,gavin.sathe560@company.com,2023-08-21,Software Engineer,1,1,1549725.11,active
+561,Yamini,Uppal,yamini.uppal561@company.com,2024-05-28,Financial Analyst,4,4,975512.68,active
+562,Banjeet,Baria,banjeet.baria562@company.com,2019-02-25,Support Agent,7,7,372162.8,active
+563,Kalpit,Butala,kalpit.butala563@company.com,2026-06-07,Team Lead,7,7,751537.38,active
+564,Dipta,Vaidya,dipta.vaidya564@company.com,2023-08-03,Legal Associate,8,8,985515.35,active
+565,Fariq,Bhagat,fariq.bhagat565@company.com,2021-06-28,System Admin,9,9,482768.45,active
+566,Yamini,Purohit,yamini.purohit566@company.com,2017-12-15,Network Engineer,9,9,1177060.76,active
+567,Laban,Bal,laban.bal567@company.com,2018-10-19,Financial Analyst,4,4,751245.95,resigned
+568,Dominic,Choudhary,dominic.choudhary568@company.com,2017-01-14,Supply Planner,6,6,682914.59,active
+569,Rishi,Deep,rishi.deep569@company.com,2023-07-08,Recruiter,3,3,738091.6,active
+570,Vyanjana,Mani,vyanjana.mani570@company.com,2017-06-29,QA Engineer,1,1,610876.62,resigned
+571,Noah,Kant,noah.kant571@company.com,2025-12-02,Marketing Executive,5,5,731909.92,active
+572,Dominic,Panchal,dominic.panchal572@company.com,2023-01-22,Financial Analyst,4,4,1093434.16,active
+573,Zayyan,Dutt,zayyan.dutt573@company.com,2022-09-18,HR Executive,3,3,719742.97,resigned
+574,Ekiya,Maharaj,ekiya.maharaj574@company.com,2017-04-13,Support Agent,7,7,254329.96,active
+575,Tanmayi,Dhawan,tanmayi.dhawan575@company.com,2016-06-26,Legal Associate,8,8,852794.76,active
+576,Aachal,Thakkar,aachal.thakkar576@company.com,2023-11-13,Accountant,4,4,977730.94,active
+577,Varsha,Joshi,varsha.joshi577@company.com,2020-12-28,Recruiter,3,3,549636.72,active
+578,Adya,Toor,adya.toor578@company.com,2016-07-05,HR Executive,3,3,796063.98,active
+579,Wazir,Nagar,wazir.nagar579@company.com,2024-05-18,Legal Associate,8,8,1482195.05,active
+580,Kashish,Bansal,kashish.bansal580@company.com,2017-03-21,Buyer,10,10,876203.1,active
+581,Rushil,Gopal,rushil.gopal581@company.com,2024-10-15,Legal Associate,8,8,607471.92,active
+582,Netra,Edwin,netra.edwin582@company.com,2023-01-15,Account Manager,2,2,1157577.71,active
+583,Arunima,Narang,arunima.narang583@company.com,2016-11-16,Marketing Executive,5,5,367984.53,active
+584,Krisha,Ganguly,krisha.ganguly584@company.com,2019-04-28,Support Agent,7,7,586707.88,active
+585,Aishani,Contractor,aishani.contractor585@company.com,2017-02-22,System Admin,9,9,1072795.42,active
+586,Chanakya,Parsa,chanakya.parsa586@company.com,2020-04-02,Buyer,10,10,803929.72,active
+587,Sneha,Verma,sneha.verma587@company.com,2020-02-18,Operations Associate,6,6,759856.32,active
+588,Henry,Krishnan,henry.krishnan588@company.com,2016-08-24,Marketing Executive,5,5,718465.15,active
+589,Meera,Prabhu,meera.prabhu589@company.com,2026-08-06,Support Agent,7,7,398043.0,active
+590,Alka,Prashad,alka.prashad590@company.com,2022-10-04,Recruiter,3,3,394128.01,active
+591,Jyoti,Dhingra,jyoti.dhingra591@company.com,2017-07-20,Accountant,4,4,981887.66,active
+592,Jagvi,Narayanan,jagvi.narayanan592@company.com,2025-07-16,Sales Executive,2,2,414488.54,active
+593,Finn,Sathe,finn.sathe593@company.com,2016-05-11,Operations Associate,6,6,727663.9,active
+594,Victor,Goda,victor.goda594@company.com,2017-08-09,Network Engineer,9,9,946218.81,active
+595,Chanakya,Minhas,chanakya.minhas595@company.com,2025-12-26,Network Engineer,9,9,779020.06,active
+596,Zaitra,Kulkarni,zaitra.kulkarni596@company.com,2020-03-31,HR Executive,3,3,521577.8,active
+597,Dayita,Munshi,dayita.munshi597@company.com,2022-05-13,Buyer,10,10,396773.01,active
+598,Aarav,Bandi,aarav.bandi598@company.com,2020-10-20,Supply Planner,6,6,1131529.93,resigned
+599,Timothy,Dixit,timothy.dixit599@company.com,2022-10-30,Recruiter,3,3,796131.47,active
+600,Bina,Sankaran,bina.sankaran600@company.com,2022-10-31,QA Engineer,1,1,739013.96,active
+601,Omisha,Vala,omisha.vala601@company.com,2021-05-23,Team Lead,7,7,568426.08,active
+602,Januja,Batta,januja.batta602@company.com,2025-07-05,Operations Associate,6,6,639341.84,active
+603,Kevin,Suresh,kevin.suresh603@company.com,2017-08-24,Legal Associate,8,8,934808.89,active
+604,Utkarsh,Bath,utkarsh.bath604@company.com,2020-01-14,Buyer,10,10,660648.25,active
+605,Anthony,Bhagat,anthony.bhagat605@company.com,2017-04-12,Team Lead,7,7,984265.16,active
+606,Aarnav,Pant,aarnav.pant606@company.com,2018-06-25,Accountant,4,4,552093.74,active
+607,Daksha,Cherian,daksha.cherian607@company.com,2021-12-14,Sales Executive,2,2,725458.81,active
+608,Ishanvi,Walla,ishanvi.walla608@company.com,2018-07-16,Financial Analyst,4,4,1227051.49,active
+609,Udarsh,Sachdev,udarsh.sachdev609@company.com,2025-07-19,System Admin,9,9,505104.84,active
+610,Charvi,Deol,charvi.deol610@company.com,2025-09-06,Legal Associate,8,8,1056511.36,active
+611,Samarth,Peri,samarth.peri611@company.com,2021-02-27,Sales Executive,2,2,535177.65,active
+612,Vaishnavi,Dutt,vaishnavi.dutt612@company.com,2022-04-25,HR Executive,3,3,346557.45,active
+613,Krish,Atwal,krish.atwal613@company.com,2020-07-14,Operations Associate,6,6,486173.45,active
+614,Yagnesh,Dixit,yagnesh.dixit614@company.com,2021-02-25,Software Engineer,1,1,1448911.76,active
+615,Shravya,Char,shravya.char615@company.com,2022-12-19,Support Agent,7,7,320559.75,resigned
+616,Devansh,Dhillon,devansh.dhillon616@company.com,2017-11-19,Account Manager,2,2,1257326.62,active
+617,Anamika,Ratti,anamika.ratti617@company.com,2017-05-17,QA Engineer,1,1,707908.55,active
+618,Aishani,Apte,aishani.apte618@company.com,2024-02-04,Network Engineer,9,9,1062408.81,active
+619,Daksh,Palla,daksh.palla619@company.com,2019-12-28,Operations Associate,6,6,701510.51,active
+620,Sachi,Vasa,sachi.vasa620@company.com,2026-05-18,Sales Executive,2,2,445469.85,active
+621,Waida,Kothari,waida.kothari621@company.com,2023-10-13,Operations Associate,6,6,719081.21,active
+622,Noah,Acharya,noah.acharya622@company.com,2017-04-10,Buyer,10,10,618426.27,active
+623,Chaitanya,Bhatia,chaitanya.bhatia623@company.com,2018-01-28,Account Manager,2,2,1337989.56,active
+624,Aryan,Ravi,aryan.ravi624@company.com,2022-08-06,Support Agent,7,7,438451.77,active
+625,Quincy,Khanna,quincy.khanna625@company.com,2016-02-26,Content Writer,5,5,797242.43,active
+626,Nathaniel,Bhardwaj,nathaniel.bhardwaj626@company.com,2025-10-16,Legal Associate,8,8,1353442.29,active
+627,Henry,Arora,henry.arora627@company.com,2022-12-16,Sales Executive,2,2,707707.35,active
+628,Ronith,Dhar,ronith.dhar628@company.com,2017-10-10,Team Lead,7,7,724293.57,active
+629,Odika,Iyengar,odika.iyengar629@company.com,2020-01-18,Accountant,4,4,529788.61,active
+630,Zarna,Tripathi,zarna.tripathi630@company.com,2018-05-15,HR Executive,3,3,480492.56,active
+631,Ojasvi,Ghosh,ojasvi.ghosh631@company.com,2022-06-21,Legal Associate,8,8,1443671.14,active
+632,Yashoda,More,yashoda.more632@company.com,2019-10-06,Operations Associate,6,6,466889.72,active
+633,Devansh,Mital,devansh.mital633@company.com,2021-02-24,Software Engineer,1,1,1330397.61,active
+634,Chanakya,Sridhar,chanakya.sridhar634@company.com,2019-01-21,HR Executive,3,3,331741.47,active
+635,Abeer,Prashad,abeer.prashad635@company.com,2022-05-19,Content Writer,5,5,592206.0,active
+636,Rajeshri,Shroff,rajeshri.shroff636@company.com,2026-04-06,HR Executive,3,3,685456.38,active
+637,Faris,Sethi,faris.sethi637@company.com,2023-02-06,Financial Analyst,4,4,689093.32,active
+638,Parth,Kara,parth.kara638@company.com,2025-10-15,Marketing Executive,5,5,441743.38,active
+639,Henry,Lal,henry.lal639@company.com,2024-07-23,Account Manager,2,2,826387.85,active
+640,Vincent,Barad,vincent.barad640@company.com,2025-10-15,Financial Analyst,4,4,965366.2,active
+641,Jatin,Nayak,jatin.nayak641@company.com,2023-07-14,QA Engineer,1,1,993052.46,active
+642,Adya,Ben,adya.ben642@company.com,2026-01-10,Legal Associate,8,8,811333.21,active
+643,Amaira,Sarin,amaira.sarin643@company.com,2017-07-09,Operations Associate,6,6,744382.69,active
+644,Alka,Merchant,alka.merchant644@company.com,2020-12-29,Legal Associate,8,8,1295112.97,active
+645,Teerth,Chada,teerth.chada645@company.com,2017-08-12,HR Executive,3,3,454248.21,active
+646,Yashica,Aurora,yashica.aurora646@company.com,2016-10-28,Buyer,10,10,670839.39,resigned
+647,Omkaar,Lad,omkaar.lad647@company.com,2019-05-31,Sales Executive,2,2,892477.34,active
+648,Warinder,Jain,warinder.jain648@company.com,2024-02-02,Supply Planner,6,6,500810.3,active
+649,Nathaniel,Narain,nathaniel.narain649@company.com,2026-01-30,Legal Associate,8,8,1407958.34,active
+650,Rehaan,Ramachandran,rehaan.ramachandran650@company.com,2024-07-03,System Admin,9,9,651038.28,active
+651,Falguni,Khare,falguni.khare651@company.com,2016-07-14,Software Engineer,1,1,840417.27,active
+652,Ladli,Yadav,ladli.yadav652@company.com,2025-09-09,Buyer,10,10,404763.44,active
+653,Upasna,Sodhi,upasna.sodhi653@company.com,2017-06-12,Accountant,4,4,447585.04,active
+654,Abeer,Bala,abeer.bala654@company.com,2024-01-24,Buyer,10,10,453497.32,active
+655,Rajeshri,Kaur,rajeshri.kaur655@company.com,2023-03-05,System Admin,9,9,470680.2,active
+656,Darika,Kala,darika.kala656@company.com,2025-09-24,Supply Planner,6,6,936699.84,active
+657,Mahika,Brahmbhatt,mahika.brahmbhatt657@company.com,2017-12-15,Team Lead,7,7,707135.94,active
+658,Onveer,Dhillon,onveer.dhillon658@company.com,2023-01-09,Software Engineer,1,1,1531153.01,active
+659,Bachittar,Bala,bachittar.bala659@company.com,2018-11-18,Buyer,10,10,830322.82,resigned
+660,Isaac,Chhabra,isaac.chhabra660@company.com,2022-04-29,QA Engineer,1,1,588062.04,active
+661,Neel,Pai,neel.pai661@company.com,2017-10-03,Team Lead,7,7,578095.75,active
+662,Lucky,Balakrishnan,lucky.balakrishnan662@company.com,2020-01-05,HR Executive,3,3,511615.73,active
+663,Azaan,Barman,azaan.barman663@company.com,2023-05-16,System Admin,9,9,881230.49,resigned
+664,Lakshit,Basak,lakshit.basak664@company.com,2025-02-13,Financial Analyst,4,4,1286977.68,active
+665,Ekansh,Batra,ekansh.batra665@company.com,2022-04-09,Content Writer,5,5,561661.16,active
+666,Dominic,Patla,dominic.patla666@company.com,2018-11-01,Marketing Executive,5,5,659246.33,active
+667,Ryan,Walla,ryan.walla667@company.com,2023-01-19,Operations Associate,6,6,678294.13,active
+668,Dominic,Rajagopalan,dominic.rajagopalan668@company.com,2023-01-02,Sales Executive,2,2,336099.77,active
+669,Hredhaan,Koshy,hredhaan.koshy669@company.com,2022-03-24,System Admin,9,9,644334.81,active
+670,Samesh,Jani,samesh.jani670@company.com,2024-04-09,Buyer,10,10,447586.07,active
+671,Isaac,Bandi,isaac.bandi671@company.com,2019-12-07,HR Executive,3,3,421292.74,active
+672,Bakhshi,Chahal,bakhshi.chahal672@company.com,2023-02-18,Legal Associate,8,8,1410926.81,active
+673,Bhavna,Sood,bhavna.sood673@company.com,2018-05-18,Team Lead,7,7,951750.33,active
+674,Harish,Deo,harish.deo674@company.com,2016-09-25,Sales Executive,2,2,848193.74,active
+675,Guneet,Jayaraman,guneet.jayaraman675@company.com,2018-07-23,Operations Associate,6,6,504963.69,active
+676,Chaitaly,Nagar,chaitaly.nagar676@company.com,2016-05-05,Support Agent,7,7,341812.28,active
+677,Gayathri,Sampath,gayathri.sampath677@company.com,2018-08-05,Support Agent,7,7,364115.9,active
+678,Advika,Bail,advika.bail678@company.com,2019-05-07,Team Lead,7,7,749300.68,active
+679,Indali,Kunda,indali.kunda679@company.com,2021-05-09,Buyer,10,10,828095.5,active
+680,Barkha,Bava,barkha.bava680@company.com,2025-03-24,Marketing Executive,5,5,407481.4,active
+681,Jhalak,Nagi,jhalak.nagi681@company.com,2025-10-12,QA Engineer,1,1,496958.63,active
+682,Yahvi,Soni,yahvi.soni682@company.com,2018-05-18,Buyer,10,10,835571.92,active
+683,Bhavna,Balasubramanian,bhavna.balasubramanian683@company.com,2016-07-08,Financial Analyst,4,4,1377013.26,active
+684,Nitara,Balasubramanian,nitara.balasubramanian684@company.com,2025-09-08,Recruiter,3,3,864909.35,active
+685,Rajata,Venkataraman,rajata.venkataraman685@company.com,2017-09-14,Software Engineer,1,1,611310.77,resigned
+686,Guneet,Palan,guneet.palan686@company.com,2021-08-20,Marketing Executive,5,5,413406.46,active
+687,Upasna,Bava,upasna.bava687@company.com,2023-08-28,Recruiter,3,3,577810.86,active
+688,Tarak,Chand,tarak.chand688@company.com,2026-01-13,Team Lead,7,7,617305.71,active
+689,Bhavna,Garde,bhavna.garde689@company.com,2017-07-06,Software Engineer,1,1,877954.49,active
+690,Rajata,Agarwal,rajata.agarwal690@company.com,2024-03-02,Support Agent,7,7,596772.82,active
+691,Saksham,Mani,saksham.mani691@company.com,2025-11-07,Operations Associate,6,6,778582.94,active
+692,Chatura,Agrawal,chatura.agrawal692@company.com,2016-01-11,Recruiter,3,3,726964.79,active
+693,Ijaya,Swaminathan,ijaya.swaminathan693@company.com,2021-12-10,HR Executive,3,3,548133.26,active
+694,Girish,Swamy,girish.swamy694@company.com,2018-05-31,Account Manager,2,2,1374862.25,active
+695,Qarin,Talwar,qarin.talwar695@company.com,2019-01-23,Accountant,4,4,409124.27,active
+696,Idika,Varma,idika.varma696@company.com,2016-06-25,Marketing Executive,5,5,381106.92,active
+697,Abha,Dutt,abha.dutt697@company.com,2018-12-30,Network Engineer,9,9,966108.3,active
+698,Bhanumati,Kala,bhanumati.kala698@company.com,2022-02-25,Legal Associate,8,8,969335.81,active
+699,Vincent,Tara,vincent.tara699@company.com,2020-09-24,Content Writer,5,5,509574.57,active
+700,Noah,Choudhary,noah.choudhary700@company.com,2024-07-13,Recruiter,3,3,575484.85,active
+701,Faris,Swaminathan,faris.swaminathan701@company.com,2018-09-06,HR Executive,3,3,763141.75,active
+702,Henry,Narain,henry.narain702@company.com,2018-09-13,Content Writer,5,5,631713.45,active
+703,Ishani,Chandran,ishani.chandran703@company.com,2026-03-10,Sales Executive,2,2,543491.63,active
+704,Nandini,Rana,nandini.rana704@company.com,2023-09-06,Network Engineer,9,9,861711.19,active
+705,Gabriel,Sami,gabriel.sami705@company.com,2022-06-24,Supply Planner,6,6,1009654.84,active
+706,Aryan,Prabhu,aryan.prabhu706@company.com,2022-08-23,Legal Associate,8,8,941903.46,active
+707,Samuel,Mitter,samuel.mitter707@company.com,2023-12-27,Team Lead,7,7,987965.8,active
+708,Adya,Sangha,adya.sangha708@company.com,2016-10-21,Content Writer,5,5,571533.82,active
+709,Yachana,Garg,yachana.garg709@company.com,2018-12-10,Financial Analyst,4,4,1025948.85,active
+710,Ladli,Kaur,ladli.kaur710@company.com,2022-05-26,Supply Planner,6,6,556567.18,active
+711,Triveni,Date,triveni.date711@company.com,2021-11-16,Network Engineer,9,9,576849.65,active
+712,Bahadurjit,Pall,bahadurjit.pall712@company.com,2023-07-22,Operations Associate,6,6,710942.5,active
+713,Eta,Vig,eta.vig713@company.com,2023-03-08,Legal Associate,8,8,1370215.84,resigned
+714,Nachiket,Seshadri,nachiket.seshadri714@company.com,2020-04-10,QA Engineer,1,1,918168.63,active
+715,Ekiya,Gara,ekiya.gara715@company.com,2020-08-06,Support Agent,7,7,338018.63,active
+716,Ubika,Sarna,ubika.sarna716@company.com,2019-12-31,Account Manager,2,2,970327.18,active
+717,Aarini,Kashyap,aarini.kashyap717@company.com,2023-06-05,Content Writer,5,5,497774.13,active
+718,Jonathan,Natt,jonathan.natt718@company.com,2021-01-14,Legal Associate,8,8,1257611.12,active
+719,Turvi,Khanna,turvi.khanna719@company.com,2016-01-25,HR Executive,3,3,483462.71,active
+720,Yashica,Handa,yashica.handa720@company.com,2022-12-25,System Admin,9,9,705070.95,active
+721,Amara,Mitra,amara.mitra721@company.com,2016-03-13,Team Lead,7,7,500403.95,active
+722,Mohammed,Dugal,mohammed.dugal722@company.com,2022-08-16,Marketing Executive,5,5,816817.34,active
+723,Yug,Narain,yug.narain723@company.com,2018-11-13,Content Writer,5,5,717070.67,active
+724,Ijaya,Dyal,ijaya.dyal724@company.com,2025-08-19,Account Manager,2,2,615470.42,active
+725,Warinder,Narang,warinder.narang725@company.com,2026-04-28,Content Writer,5,5,521265.0,active
+726,Ranbir,Kuruvilla,ranbir.kuruvilla726@company.com,2023-12-28,Operations Associate,6,6,784891.73,active
+727,Harsh,Gala,harsh.gala727@company.com,2019-12-14,Team Lead,7,7,924848.83,active
+728,Harsh,Hayre,harsh.hayre728@company.com,2025-07-20,HR Executive,3,3,486177.98,active
+729,Leena,Dora,leena.dora729@company.com,2025-08-24,Financial Analyst,4,4,1280434.55,active
+730,Manbir,Mittal,manbir.mittal730@company.com,2021-11-23,Team Lead,7,7,967873.2,active
+731,Chameli,Saran,chameli.saran731@company.com,2022-08-25,Software Engineer,1,1,1722070.52,active
+732,Anusha,Hayre,anusha.hayre732@company.com,2021-04-23,Team Lead,7,7,532547.63,active
+733,Ikbal,Chhabra,ikbal.chhabra733@company.com,2017-07-08,Team Lead,7,7,912335.14,active
+734,Avni,Jhaveri,avni.jhaveri734@company.com,2020-07-03,Accountant,4,4,955467.11,active
+735,Lipika,Shetty,lipika.shetty735@company.com,2024-08-16,Content Writer,5,5,529947.22,active
+736,Bahadurjit,Arora,bahadurjit.arora736@company.com,2025-07-04,Sales Executive,2,2,790487.91,active
+737,Mohini,Sarkar,mohini.sarkar737@company.com,2016-12-27,Account Manager,2,2,694072.56,active
+738,Tristan,Tella,tristan.tella738@company.com,2025-03-29,Legal Associate,8,8,1239953.75,active
+739,Chaman,Sheth,chaman.sheth739@company.com,2022-03-04,Legal Associate,8,8,976131.6,active
+740,Anthony,Dhar,anthony.dhar740@company.com,2020-07-24,Buyer,10,10,829562.99,active
+741,Aarini,Ravel,aarini.ravel741@company.com,2019-10-01,Recruiter,3,3,890226.41,active
+742,Abdul,Kibe,abdul.kibe742@company.com,2021-10-30,Recruiter,3,3,522172.3,active
+743,Qushi,Sama,qushi.sama743@company.com,2022-03-26,Content Writer,5,5,742898.72,active
+744,Veer,Karnik,veer.karnik744@company.com,2019-06-01,QA Engineer,1,1,628135.83,active
+745,Pratyush,Dash,pratyush.dash745@company.com,2019-06-03,Team Lead,7,7,526053.61,active
+746,Sudiksha,Sankaran,sudiksha.sankaran746@company.com,2026-06-16,Network Engineer,9,9,816740.29,active
+747,Dhriti,Lad,dhriti.lad747@company.com,2020-02-07,Buyer,10,10,537965.34,resigned
+748,Guneet,Saini,guneet.saini748@company.com,2024-03-06,Legal Associate,8,8,1079771.07,active
+749,Xavier,Ratta,xavier.ratta749@company.com,2016-05-24,Team Lead,7,7,898044.23,active
+750,Naksh,Krishna,naksh.krishna750@company.com,2023-12-20,Marketing Executive,5,5,982549.16,active
+751,Pallavi,Subramanian,pallavi.subramanian751@company.com,2020-07-20,Buyer,10,10,594684.47,resigned
+752,Tamanna,Bahri,tamanna.bahri752@company.com,2018-01-07,Accountant,4,4,783564.12,active
+753,Nimrat,Vasa,nimrat.vasa753@company.com,2025-09-03,Software Engineer,1,1,1577155.37,active
+754,Qadim,Narang,qadim.narang754@company.com,2016-02-28,Legal Associate,8,8,1104953.43,resigned
+755,Advaith,Ramachandran,advaith.ramachandran755@company.com,2018-06-23,Recruiter,3,3,721227.16,active
+756,Vrishti,Cherian,vrishti.cherian756@company.com,2021-12-29,Marketing Executive,5,5,444754.08,active
+757,Balvan,Krishnamurthy,balvan.krishnamurthy757@company.com,2021-03-22,Accountant,4,4,870551.57,active
+758,Tejas,Dyal,tejas.dyal758@company.com,2018-07-05,QA Engineer,1,1,554553.9,active
+759,Ryan,Venkataraman,ryan.venkataraman759@company.com,2017-09-26,Legal Associate,8,8,1431470.08,active
+760,Ijaya,Chaudhuri,ijaya.chaudhuri760@company.com,2017-10-17,HR Executive,3,3,446817.56,active
+761,Tanmayi,Jayaraman,tanmayi.jayaraman761@company.com,2023-12-05,Financial Analyst,4,4,738589.91,active
+762,Vamakshi,Vala,vamakshi.vala762@company.com,2022-02-25,Content Writer,5,5,375948.91,active
+763,Amol,Pingle,amol.pingle763@company.com,2016-05-14,Financial Analyst,4,4,740385.44,active
+764,Hemal,Roy,hemal.roy764@company.com,2023-05-06,Marketing Executive,5,5,410833.73,active
+765,Tanmayi,Kade,tanmayi.kade765@company.com,2024-03-01,Legal Associate,8,8,899863.47,active
+766,Qarin,Ramanathan,qarin.ramanathan766@company.com,2016-06-07,Support Agent,7,7,292744.53,active
+767,Yoshita,Das,yoshita.das767@company.com,2019-04-05,Accountant,4,4,410663.18,active
+768,Ishani,Bhalla,ishani.bhalla768@company.com,2018-04-01,Legal Associate,8,8,1377592.97,active
+769,Zayyan,Mahal,zayyan.mahal769@company.com,2018-04-04,Buyer,10,10,499145.74,active
+770,Lavanya,Ratta,lavanya.ratta770@company.com,2016-05-12,Financial Analyst,4,4,690599.96,active
+771,Darsh,Arya,darsh.arya771@company.com,2018-03-07,QA Engineer,1,1,793919.13,resigned
+772,Falan,Sahota,falan.sahota772@company.com,2019-09-26,Software Engineer,1,1,1177249.09,active
+773,Osha,Pandey,osha.pandey773@company.com,2018-01-02,Supply Planner,6,6,1074019.85,active
+774,Alka,Chopra,alka.chopra774@company.com,2017-01-26,Account Manager,2,2,601657.79,active
+775,Udarsh,Mitter,udarsh.mitter775@company.com,2021-03-04,Recruiter,3,3,371786.36,active
+776,Nandini,Vyas,nandini.vyas776@company.com,2020-08-18,Buyer,10,10,422583.14,active
+777,Theodore,Ramanathan,theodore.ramanathan777@company.com,2016-11-08,Buyer,10,10,714729.57,active
+778,Turvi,Kala,turvi.kala778@company.com,2017-11-26,Recruiter,3,3,399519.69,active
+779,Nitesh,Dayal,nitesh.dayal779@company.com,2019-05-27,QA Engineer,1,1,456407.91,active
+780,Ekapad,Hans,ekapad.hans780@company.com,2017-09-18,Accountant,4,4,721591.93,active
+781,Upasna,Kara,upasna.kara781@company.com,2021-03-31,Account Manager,2,2,1011536.68,active
+782,Madhav,Pandit,madhav.pandit782@company.com,2020-02-11,QA Engineer,1,1,570090.27,resigned
+783,Odika,Sidhu,odika.sidhu783@company.com,2017-06-04,System Admin,9,9,994935.64,active
+784,Chaitaly,Dass,chaitaly.dass784@company.com,2025-12-26,System Admin,9,9,529316.03,active
+785,Upasna,Pant,upasna.pant785@company.com,2024-11-16,QA Engineer,1,1,742246.96,active
+786,Victor,Loke,victor.loke786@company.com,2024-05-30,Accountant,4,4,904644.32,active
+787,Krisha,Kulkarni,krisha.kulkarni787@company.com,2020-05-29,QA Engineer,1,1,465767.3,active
+788,Pooja,Grewal,pooja.grewal788@company.com,2016-12-11,Buyer,10,10,469693.07,active
+789,Vasatika,Agate,vasatika.agate789@company.com,2025-03-18,Accountant,4,4,759506.77,active
+790,Avni,Parmar,avni.parmar790@company.com,2018-05-30,Sales Executive,2,2,715103.35,active
+791,Yash,Mittal,yash.mittal791@company.com,2016-12-10,Content Writer,5,5,530894.91,active
+792,Ekani,Srinivasan,ekani.srinivasan792@company.com,2019-07-24,HR Executive,3,3,505984.9,resigned
+793,Vedhika,Sangha,vedhika.sangha793@company.com,2016-12-26,Support Agent,7,7,301822.69,active
+794,Frederick,Patil,frederick.patil794@company.com,2017-09-11,System Admin,9,9,1027632.52,active
+795,Michael,Mitter,michael.mitter795@company.com,2026-05-16,Accountant,4,4,598636.3,active
+796,Lekha,Bhandari,lekha.bhandari796@company.com,2024-11-16,Sales Executive,2,2,322637.32,active
+797,Frederick,Nair,frederick.nair797@company.com,2026-03-08,Network Engineer,9,9,902625.44,active
+798,Logan,Wali,logan.wali798@company.com,2025-09-19,Sales Executive,2,2,807435.16,active
+799,Hemani,Aurora,hemani.aurora799@company.com,2023-04-20,Support Agent,7,7,372219.82,active
+800,Advay,Kadakia,advay.kadakia800@company.com,2023-07-18,Recruiter,3,3,622923.94,active
+801,Ekbal,Memon,ekbal.memon801@company.com,2026-02-22,Content Writer,5,5,533076.62,active
+802,Zashil,Chaudhuri,zashil.chaudhuri802@company.com,2020-11-18,Buyer,10,10,701869.23,active
+803,Luke,Kaur,luke.kaur803@company.com,2024-05-21,Network Engineer,9,9,848753.43,resigned
+804,Quincy,Seth,quincy.seth804@company.com,2024-10-12,Sales Executive,2,2,451202.65,active
+805,Hiral,Dua,hiral.dua805@company.com,2018-03-22,Accountant,4,4,736963.46,active
+806,Sathvik,Rau,sathvik.rau806@company.com,2020-05-24,Legal Associate,8,8,955333.13,active
+807,Oliver,Chana,oliver.chana807@company.com,2020-07-21,Supply Planner,6,6,621260.28,resigned
+808,Chameli,Hora,chameli.hora808@company.com,2024-11-21,Supply Planner,6,6,675352.65,active
+809,Warda,Kala,warda.kala809@company.com,2026-08-31,Buyer,10,10,796814.69,active
+810,Farhan,Sarna,farhan.sarna810@company.com,2022-10-13,Team Lead,7,7,572915.11,active
+811,Jackson,Dani,jackson.dani811@company.com,2016-12-06,System Admin,9,9,1083403.02,active
+812,Aishani,Saini,aishani.saini812@company.com,2019-04-11,Buyer,10,10,895853.54,active
+813,Vivaan,Dewan,vivaan.dewan813@company.com,2020-07-26,Recruiter,3,3,793922.35,active
+814,Urvashi,Tailor,urvashi.tailor814@company.com,2023-08-29,Sales Executive,2,2,525388.16,active
+815,Dalbir,Sule,dalbir.sule815@company.com,2019-01-16,Recruiter,3,3,432997.29,active
+816,Unni,Dhawan,unni.dhawan816@company.com,2019-12-10,HR Executive,3,3,605120.81,active
+817,Vyanjana,Koshy,vyanjana.koshy817@company.com,2021-08-08,Team Lead,7,7,938104.18,active
+818,Wishi,Gala,wishi.gala818@company.com,2025-08-10,Buyer,10,10,439217.6,active
+819,Abeer,Dyal,abeer.dyal819@company.com,2016-01-02,System Admin,9,9,527806.19,active
+820,Ekani,Sidhu,ekani.sidhu820@company.com,2022-05-04,Financial Analyst,4,4,825730.91,active
+821,Widisha,Minhas,widisha.minhas821@company.com,2022-03-13,Operations Associate,6,6,676570.57,active
+822,Udyati,Prasad,udyati.prasad822@company.com,2026-05-31,Support Agent,7,7,338669.44,active
+823,Pooja,Sahota,pooja.sahota823@company.com,2021-10-07,Support Agent,7,7,405433.98,active
+824,Faqid,Gole,faqid.gole824@company.com,2019-06-04,Content Writer,5,5,615962.04,active
+825,Jalsa,Balakrishnan,jalsa.balakrishnan825@company.com,2026-03-04,Support Agent,7,7,422669.23,active
+826,Ansh,Bath,ansh.bath826@company.com,2025-10-24,Software Engineer,1,1,1420240.22,active
+827,Ganga,Chandra,ganga.chandra827@company.com,2021-01-07,Network Engineer,9,9,834363.74,active
+828,Yashvi,Sule,yashvi.sule828@company.com,2016-05-23,Recruiter,3,3,615359.35,resigned
+829,Vedhika,Dhawan,vedhika.dhawan829@company.com,2017-08-14,QA Engineer,1,1,950800.53,active
+830,Bahadurjit,Kala,bahadurjit.kala830@company.com,2020-05-25,System Admin,9,9,892178.65,active
+831,Ojasvi,Date,ojasvi.date831@company.com,2019-04-07,Marketing Executive,5,5,366772.77,active
+832,Hamsini,Chandra,hamsini.chandra832@company.com,2023-04-11,Network Engineer,9,9,1162515.06,active
+833,Jasmit,Om,jasmit.om833@company.com,2023-12-16,Team Lead,7,7,951422.0,active
+834,Urvi,Vora,urvi.vora834@company.com,2025-05-07,Operations Associate,6,6,712937.56,active
+835,Shivansh,Mander,shivansh.mander835@company.com,2026-01-08,Network Engineer,9,9,836994.77,active
+836,Radhika,Oommen,radhika.oommen836@company.com,2019-06-15,Software Engineer,1,1,804812.89,active
+837,Pahal,Krishnamurthy,pahal.krishnamurthy837@company.com,2022-08-02,Marketing Executive,5,5,598930.73,active
+838,Charles,Mann,charles.mann838@company.com,2019-01-20,Operations Associate,6,6,771861.19,active
+839,Brinda,Pant,brinda.pant839@company.com,2026-05-29,Financial Analyst,4,4,697585.17,active
+840,Wakeeta,Raval,wakeeta.raval840@company.com,2020-06-01,Content Writer,5,5,696635.55,active
+841,Gauri,Thakur,gauri.thakur841@company.com,2017-04-05,Legal Associate,8,8,1417898.34,active
+842,Anita,Toor,anita.toor842@company.com,2023-02-22,Legal Associate,8,8,1403193.59,active
+843,Hemani,Jani,hemani.jani843@company.com,2019-02-16,Software Engineer,1,1,1164263.05,active
+844,Waida,Dalal,waida.dalal844@company.com,2024-06-09,Network Engineer,9,9,743731.44,active
+845,Ganga,Handa,ganga.handa845@company.com,2025-07-19,Team Lead,7,7,629863.32,active
+846,Edhitha,Mistry,edhitha.mistry846@company.com,2021-12-19,Software Engineer,1,1,1279769.25,active
+847,Joshua,Chahal,joshua.chahal847@company.com,2018-12-23,Supply Planner,6,6,1114417.36,resigned
+848,Banjeet,Rastogi,banjeet.rastogi848@company.com,2024-06-14,System Admin,9,9,1071236.22,active
+849,Nidra,Bawa,nidra.bawa849@company.com,2017-11-10,Account Manager,2,2,1370565.17,active
+850,Mohini,Mital,mohini.mital850@company.com,2020-06-03,Account Manager,2,2,1210770.69,active
+851,Ikbal,Ahuja,ikbal.ahuja851@company.com,2020-05-26,Supply Planner,6,6,702624.97,active
+852,Chakradhar,Gupta,chakradhar.gupta852@company.com,2021-12-18,HR Executive,3,3,506819.92,active
+853,Vaishnavi,Bhasin,vaishnavi.bhasin853@company.com,2018-05-22,Marketing Executive,5,5,392867.44,active
+854,Xiti,Puri,xiti.puri854@company.com,2021-08-18,Support Agent,7,7,450843.29,active
+855,Manan,Butala,manan.butala855@company.com,2020-07-11,Financial Analyst,4,4,1255879.11,active
+856,Simon,Baral,simon.baral856@company.com,2018-06-29,HR Executive,3,3,677057.5,active
+857,Tanvi,Ghosh,tanvi.ghosh857@company.com,2026-01-27,System Admin,9,9,475103.72,active
+858,Harrison,Golla,harrison.golla858@company.com,2017-06-21,Team Lead,7,7,937756.99,active
+859,Balhaar,Sama,balhaar.sama859@company.com,2023-12-26,Team Lead,7,7,801676.41,active
+860,Harrison,Arya,harrison.arya860@company.com,2022-10-25,Network Engineer,9,9,617900.13,active
+861,Jyoti,Dewan,jyoti.dewan861@company.com,2023-07-31,Account Manager,2,2,1299507.22,active
+862,Dayamai,Kuruvilla,dayamai.kuruvilla862@company.com,2016-04-05,Account Manager,2,2,564962.39,active
+863,Chasmum,Goyal,chasmum.goyal863@company.com,2016-01-15,Operations Associate,6,6,681992.89,active
+864,Oviya,Banerjee,oviya.banerjee864@company.com,2021-08-23,Legal Associate,8,8,1001131.26,active
+865,Eiravati,Bahri,eiravati.bahri865@company.com,2016-06-11,System Admin,9,9,800687.59,active
+866,Raagini,Bhagat,raagini.bhagat866@company.com,2019-04-19,Legal Associate,8,8,906091.06,active
+867,Widisha,Vig,widisha.vig867@company.com,2018-06-11,Operations Associate,6,6,710237.47,active
+868,Balveer,Dani,balveer.dani868@company.com,2018-07-02,Marketing Executive,5,5,368442.12,active
+869,Oviya,Ravel,oviya.ravel869@company.com,2020-10-02,Network Engineer,9,9,1165889.97,active
+870,Sanya,Bhavsar,sanya.bhavsar870@company.com,2022-07-23,Marketing Executive,5,5,603699.21,active
+871,Akshay,Ram,akshay.ram871@company.com,2018-07-15,Buyer,10,10,834982.1,active
+872,Nachiket,Soman,nachiket.soman872@company.com,2021-12-17,QA Engineer,1,1,991751.49,active
+873,Nitara,Chaudry,nitara.chaudry873@company.com,2022-06-15,Account Manager,2,2,908572.2,active
+874,Fitan,Sodhi,fitan.sodhi874@company.com,2018-02-20,Buyer,10,10,454452.58,active
+875,Simon,Doshi,simon.doshi875@company.com,2019-03-03,Support Agent,7,7,276757.56,active
+876,Alexander,Sane,alexander.sane876@company.com,2020-12-01,System Admin,9,9,1042678.31,active
+877,Aayush,Andra,aayush.andra877@company.com,2018-04-04,Financial Analyst,4,4,1231104.6,active
+878,Jairaj,Chakrabarti,jairaj.chakrabarti878@company.com,2026-04-26,Marketing Executive,5,5,748521.37,active
+879,Tejas,Dara,tejas.dara879@company.com,2019-12-20,Software Engineer,1,1,615616.26,active
+880,Kai,Sodhi,kai.sodhi880@company.com,2022-04-03,Network Engineer,9,9,572735.45,active
+881,Andrew,Majumdar,andrew.majumdar881@company.com,2019-06-06,Supply Planner,6,6,1004524.38,active
+882,Xavier,Seshadri,xavier.seshadri882@company.com,2026-01-30,Supply Planner,6,6,984882.89,active
+883,Rachit,Bedi,rachit.bedi883@company.com,2017-03-13,Account Manager,2,2,827489.1,active
+884,Jasmit,Dhillon,jasmit.dhillon884@company.com,2016-12-04,Legal Associate,8,8,1315274.85,active
+885,Frado,Memon,frado.memon885@company.com,2025-07-13,Legal Associate,8,8,1107074.39,active
+886,Wishi,Sharma,wishi.sharma886@company.com,2018-05-07,Network Engineer,9,9,942247.67,active
+887,Aachal,Ben,aachal.ben887@company.com,2026-08-08,Financial Analyst,4,4,1067089.63,active
+888,Azad,Apte,azad.apte888@company.com,2025-02-07,Support Agent,7,7,402837.69,active
+889,Darsh,Aurora,darsh.aurora889@company.com,2017-03-31,HR Executive,3,3,592673.35,active
+890,Fariq,Ramachandran,fariq.ramachandran890@company.com,2016-02-07,Support Agent,7,7,590612.1,active
+891,Deepa,Muni,deepa.muni891@company.com,2024-10-01,Account Manager,2,2,1300118.81,active
+892,Noah,Sur,noah.sur892@company.com,2025-08-17,System Admin,9,9,918435.64,active
+893,Darpan,Mutti,darpan.mutti893@company.com,2024-08-15,Legal Associate,8,8,785148.21,active
+894,Jhalak,Sarna,jhalak.sarna894@company.com,2026-02-27,Accountant,4,4,928357.84,active
+895,Upma,Ganesan,upma.ganesan895@company.com,2026-08-05,Sales Executive,2,2,573844.34,active
+896,Maanav,Dada,maanav.dada896@company.com,2024-07-16,Buyer,10,10,748462.64,active
+897,Janani,Gade,janani.gade897@company.com,2017-11-23,QA Engineer,1,1,803737.47,active
+898,Omisha,Sood,omisha.sood898@company.com,2023-10-05,Financial Analyst,4,4,1145305.34,active
+899,Lekha,Sethi,lekha.sethi899@company.com,2022-09-19,Account Manager,2,2,1129761.72,active
+900,Anita,Nath,anita.nath900@company.com,2020-05-25,Accountant,4,4,847135.79,active
+901,Brinda,Mammen,brinda.mammen901@company.com,2018-09-20,Accountant,4,4,985690.21,active
+902,Darsh,Natarajan,darsh.natarajan902@company.com,2021-03-25,Software Engineer,1,1,888540.97,active
+903,Alexander,Dora,alexander.dora903@company.com,2026-06-07,Accountant,4,4,746835.97,active
+904,Dayamai,Sangha,dayamai.sangha904@company.com,2016-06-18,Team Lead,7,7,509111.07,active
+905,Yatin,Puri,yatin.puri905@company.com,2018-02-04,Sales Executive,2,2,617460.58,active
+906,Lila,Puri,lila.puri906@company.com,2017-03-09,Buyer,10,10,876239.63,active
+907,Vivaan,Seth,vivaan.seth907@company.com,2016-10-22,Support Agent,7,7,444563.15,active
+908,Bhanumati,Agarwal,bhanumati.agarwal908@company.com,2023-12-01,Sales Executive,2,2,627282.43,active
+909,Ekanta,Lall,ekanta.lall909@company.com,2020-06-13,Content Writer,5,5,579949.47,active
+910,Amrita,Sami,amrita.sami910@company.com,2018-02-06,Accountant,4,4,886930.64,active
+911,Nakul,Basak,nakul.basak911@company.com,2017-05-15,Legal Associate,8,8,1261991.64,active
+912,Bhavya,Dhaliwal,bhavya.dhaliwal912@company.com,2022-11-14,Support Agent,7,7,441140.58,resigned
+913,Manan,Mahal,manan.mahal913@company.com,2016-12-25,Operations Associate,6,6,724864.93,active
+914,Xalak,Palan,xalak.palan914@company.com,2020-02-14,Sales Executive,2,2,485525.92,active
+915,Frederick,Zacharia,frederick.zacharia915@company.com,2021-07-16,Marketing Executive,5,5,986070.18,active
+916,Vedhika,Raj,vedhika.raj916@company.com,2016-11-18,Accountant,4,4,468201.73,active
+917,Sai,Kaur,sai.kaur917@company.com,2021-10-31,Buyer,10,10,891051.64,active
+918,Dayamai,Bhandari,dayamai.bhandari918@company.com,2026-04-11,Buyer,10,10,763605.83,active
+919,Megha,Shroff,megha.shroff919@company.com,2025-05-22,Sales Executive,2,2,737528.96,active
+920,Samuel,Kumar,samuel.kumar920@company.com,2024-12-25,Recruiter,3,3,448896.34,active
+921,Aditya,Rajan,aditya.rajan921@company.com,2018-11-12,Content Writer,5,5,426323.17,active
+922,Tripti,Zachariah,tripti.zachariah922@company.com,2016-04-26,Content Writer,5,5,347358.59,active
+923,Gagan,Yadav,gagan.yadav923@company.com,2026-08-13,Legal Associate,8,8,1438981.56,active
+924,Isha,Bhatnagar,isha.bhatnagar924@company.com,2019-01-28,Buyer,10,10,357238.14,active
+925,Viraj,Rao,viraj.rao925@company.com,2019-10-27,System Admin,9,9,1114712.29,active
+926,Aashi,Vig,aashi.vig926@company.com,2024-08-21,Operations Associate,6,6,419391.83,active
+927,Ekani,Sood,ekani.sood927@company.com,2021-12-19,Operations Associate,6,6,317691.53,active
+928,Yashawini,Jaggi,yashawini.jaggi928@company.com,2023-01-12,Supply Planner,6,6,498192.32,active
+929,Ranbir,Kala,ranbir.kala929@company.com,2017-10-21,Account Manager,2,2,548062.96,active
+930,Rehaan,Chanda,rehaan.chanda930@company.com,2026-07-08,System Admin,9,9,1148546.5,active
+931,Pratyush,Mann,pratyush.mann931@company.com,2023-04-07,System Admin,9,9,665541.85,active
+932,Janani,Parmer,janani.parmer932@company.com,2020-11-01,QA Engineer,1,1,993821.54,active
+933,Neha,Varughese,neha.varughese933@company.com,2022-11-21,Recruiter,3,3,729850.76,active
+934,Manthan,Koshy,manthan.koshy934@company.com,2018-10-14,Content Writer,5,5,780295.83,active
+935,Chaitanya,Tak,chaitanya.tak935@company.com,2023-03-11,Sales Executive,2,2,878587.53,active
+936,Kavya,Cherian,kavya.cherian936@company.com,2023-05-11,Buyer,10,10,387362.58,active
+937,Kamya,Sheth,kamya.sheth937@company.com,2016-11-15,Team Lead,7,7,533455.81,active
+938,Finn,Dugal,finn.dugal938@company.com,2020-01-20,Software Engineer,1,1,1268758.92,active
+939,Diya,Balasubramanian,diya.balasubramanian939@company.com,2026-04-29,Legal Associate,8,8,760102.39,active
+940,Hemani,Mand,hemani.mand940@company.com,2019-05-26,Account Manager,2,2,1127094.18,active
+941,Zilmil,Bail,zilmil.bail941@company.com,2024-03-02,Recruiter,3,3,823719.2,active
+942,Girindra,Bandi,girindra.bandi942@company.com,2019-08-14,Legal Associate,8,8,627627.53,active
+943,Samarth,Sunder,samarth.sunder943@company.com,2025-08-03,Accountant,4,4,610451.8,active
+944,Tanay,Lal,tanay.lal944@company.com,2023-01-03,Supply Planner,6,6,592461.13,active
+945,Ati,Sandhu,ati.sandhu945@company.com,2024-10-09,Sales Executive,2,2,652189.19,active
+946,Gunbir,Sekhon,gunbir.sekhon946@company.com,2016-07-06,Marketing Executive,5,5,413116.5,active
+947,Karan,Kumar,karan.kumar947@company.com,2018-11-06,QA Engineer,1,1,741770.75,active
+948,Baljiwan,Nigam,baljiwan.nigam948@company.com,2016-09-22,Accountant,4,4,560996.04,active
+949,Sai,Golla,sai.golla949@company.com,2020-01-29,Recruiter,3,3,446980.59,active
+950,Kritika,Chacko,kritika.chacko950@company.com,2020-02-26,Supply Planner,6,6,842287.18,active
+951,Ayaan,Behl,ayaan.behl951@company.com,2026-03-13,Sales Executive,2,2,471167.72,active
+952,Bakhshi,Pingle,bakhshi.pingle952@company.com,2018-07-06,Support Agent,7,7,560317.77,active
+953,Tara,Sur,tara.sur953@company.com,2018-09-13,Team Lead,7,7,735895.08,active
+954,Devansh,Ranganathan,devansh.ranganathan954@company.com,2017-02-11,Software Engineer,1,1,1603709.97,active
+955,Jagdish,Chana,jagdish.chana955@company.com,2016-04-30,Financial Analyst,4,4,1038685.02,active
+956,Aarini,Nagar,aarini.nagar956@company.com,2022-03-24,Account Manager,2,2,584360.31,active
+957,Viraj,Chakraborty,viraj.chakraborty957@company.com,2021-05-18,Account Manager,2,2,1318861.85,resigned
+958,Yashawini,Ramaswamy,yashawini.ramaswamy958@company.com,2016-09-05,Team Lead,7,7,533952.67,active
+959,Qadim,Sen,qadim.sen959@company.com,2021-04-05,Supply Planner,6,6,703910.45,active
+960,Nathaniel,Prabhakar,nathaniel.prabhakar960@company.com,2021-09-17,Software Engineer,1,1,1493066.28,active
+961,Wahab,Kapadia,wahab.kapadia961@company.com,2017-03-26,Buyer,10,10,587519.9,active
+962,Orinder,Barad,orinder.barad962@company.com,2021-11-06,Software Engineer,1,1,1637596.22,active
+963,Aahana,Pandey,aahana.pandey963@company.com,2016-12-06,Accountant,4,4,681087.05,active
+964,Daniel,Bala,daniel.bala964@company.com,2016-10-31,Legal Associate,8,8,1167897.16,active
+965,Champak,Kuruvilla,champak.kuruvilla965@company.com,2019-02-23,Sales Executive,2,2,516741.27,active
+966,Yochana,Sule,yochana.sule966@company.com,2021-05-26,Account Manager,2,2,958582.95,active
+967,Daksh,Chaudhuri,daksh.chaudhuri967@company.com,2023-03-21,System Admin,9,9,1005342.97,active
+968,Maanav,Nadkarni,maanav.nadkarni968@company.com,2024-08-30,System Admin,9,9,903696.34,active
+969,Abdul,Issac,abdul.issac969@company.com,2020-05-05,Operations Associate,6,6,772789.11,active
+970,Chanchal,Sastry,chanchal.sastry970@company.com,2023-05-12,QA Engineer,1,1,509036.65,active
+971,Henry,Sinha,henry.sinha971@company.com,2022-09-15,Accountant,4,4,834264.25,active
+972,Ekiya,Prabhu,ekiya.prabhu972@company.com,2025-07-13,Legal Associate,8,8,995113.96,active
+973,Aarini,Ramakrishnan,aarini.ramakrishnan973@company.com,2019-06-01,HR Executive,3,3,591651.48,active
+974,Jeet,Prasad,jeet.prasad974@company.com,2016-04-12,Account Manager,2,2,511349.54,active
+975,Vasana,Raghavan,vasana.raghavan975@company.com,2016-09-26,Legal Associate,8,8,1060487.61,active
+976,Om,Sastry,om.sastry976@company.com,2022-12-19,Legal Associate,8,8,773162.74,active
+977,William,Dhar,william.dhar977@company.com,2019-06-23,Legal Associate,8,8,1010920.56,resigned
+978,Advik,Sidhu,advik.sidhu978@company.com,2016-05-10,Financial Analyst,4,4,908847.97,active
+979,Robert,Banik,robert.banik979@company.com,2024-08-20,QA Engineer,1,1,896816.57,active
+980,Naksh,Kannan,naksh.kannan980@company.com,2022-10-24,Software Engineer,1,1,1327979.68,active
+981,Faras,Prakash,faras.prakash981@company.com,2017-07-17,Legal Associate,8,8,1105892.88,active
+982,Logan,Sekhon,logan.sekhon982@company.com,2017-09-02,Content Writer,5,5,799238.43,active
+983,Gunbir,Rajan,gunbir.rajan983@company.com,2025-12-10,Recruiter,3,3,442261.29,active
+984,Anthony,Borde,anthony.borde984@company.com,2016-11-24,Support Agent,7,7,408346.52,active
+985,Sneha,Nori,sneha.nori985@company.com,2025-12-17,Team Lead,7,7,611481.21,active
+986,Ekantika,Kaur,ekantika.kaur986@company.com,2026-07-25,Recruiter,3,3,402163.66,active
+987,Vansha,D’Alia,vansha.d’alia987@company.com,2016-03-12,Support Agent,7,7,274687.13,active
+988,Jasmit,Dhar,jasmit.dhar988@company.com,2020-09-16,HR Executive,3,3,488423.64,active
+989,Garima,Kant,garima.kant989@company.com,2021-01-01,Marketing Executive,5,5,777779.56,active
+990,Dakshesh,Gole,dakshesh.gole990@company.com,2026-01-29,Buyer,10,10,657070.56,active
+991,Siya,Dhillon,siya.dhillon991@company.com,2022-08-22,Support Agent,7,7,449610.26,active
+992,Reva,Dixit,reva.dixit992@company.com,2023-03-20,Recruiter,3,3,551447.48,active
+993,Amaira,Sahota,amaira.sahota993@company.com,2023-08-06,Network Engineer,9,9,975780.08,active
+994,Nisha,Koshy,nisha.koshy994@company.com,2018-05-19,QA Engineer,1,1,879758.62,active
+995,Nachiket,Bal,nachiket.bal995@company.com,2021-05-01,QA Engineer,1,1,856468.43,active
+996,Anika,Minhas,anika.minhas996@company.com,2019-08-21,Recruiter,3,3,478098.6,active
+997,Gaurika,Ganesh,gaurika.ganesh997@company.com,2018-04-28,Support Agent,7,7,390367.02,active
+998,Abha,Swaminathan,abha.swaminathan998@company.com,2020-02-27,HR Executive,3,3,479839.17,active
+999,Ikbal,Nadkarni,ikbal.nadkarni999@company.com,2017-06-06,Legal Associate,8,8,1175818.17,resigned
+1000,Tanmayi,Subramanian,tanmayi.subramanian1000@company.com,2016-05-26,Marketing Executive,5,5,924965.23,active
