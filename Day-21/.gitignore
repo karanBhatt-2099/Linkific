@@ -1,0 +1,5 @@
+.env
+logs/
+data/raw/
+data/converted/
+__pycache__/

@@ -1,0 +1,6 @@
+[
+  {"order_id": 1001, "customer_email": "sincere@april.biz", "amount": 250.0, "order_date": "2025-02-01"},
+  {"order_id": 2001, "customer_email": "meera@example.com", "amount": 410.0, "order_date": "2025-02-06"},
+  {"order_id": 2002, "customer_email": "asha@example.com",  "amount": 89.9,  "order_date": "2025-02-07"},
+  {"order_id": 2003, "customer_email": "dev@example.com",   "amount": 15.0,  "order_date": "2025-02-08"}
+]

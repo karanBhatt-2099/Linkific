@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+paramiko
+pymongo
+psycopg2-binary
+openpyxl
+pyarrow
+fastavro
+snowflake-connector-python[pandas]>=3.10

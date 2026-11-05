@@ -1,0 +1,5 @@
+<customers>
+  <customer><name>Leanne Graham</name><email>sincere@april.biz</email><city>Mumbai</city><loyalty_tier>gold</loyalty_tier></customer>
+  <customer><name>Asha Rao</name><email>asha@example.com</email><city>Bengaluru</city><loyalty_tier>silver</loyalty_tier></customer>
+  <customer><name>Dev Patel</name><email>dev@example.com</email><city>Surat</city><loyalty_tier>bronze</loyalty_tier></customer>
+</customers>
