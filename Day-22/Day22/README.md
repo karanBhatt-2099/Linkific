@@ -199,7 +199,3 @@ docker compose down        # stop and remove the container
 - [ ] Airflow running in Docker
 - [ ] First DAG run successful
 
-## 5. Coming next
-
-- Power BI dashboard on `ANALYTICS`
-- Real-time inventory tracking (Phase 2)
