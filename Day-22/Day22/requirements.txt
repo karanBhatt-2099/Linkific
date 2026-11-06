@@ -1,0 +1,4 @@
+snowflake-connector-python
+cryptography
+requests
+great_expectations>=1.0

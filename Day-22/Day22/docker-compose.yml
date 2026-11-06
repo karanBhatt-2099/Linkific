@@ -1,0 +1,21 @@
+services:
+  airflow:
+    build: .
+    container_name: airflow
+    # Setup first (database + admin user), then scheduler in background, then webserver.
+    # Login: admin / admin
+    command: >
+      bash -c "airflow db migrate;
+      airflow users create --username admin --password admin --firstname Admin --lastname User --role Admin --email admin@example.com || true;
+      airflow scheduler &
+      exec airflow webserver --port 8080"
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./sql:/opt/airflow/sql
+      - ./keys:/opt/airflow/keys:ro    # put rsa_key.p8 here if you use key-pair login
