@@ -188,14 +188,4 @@ docker compose down        # stop and remove the container
 
 ---
 
-## 4. Day-22 checklist
-
-- [x] Project domain chosen: E-commerce Analytics
-- [x] Data sources, volume, frequency defined
-- [x] Analytics needs, dashboard requirements, personas defined
-- [x] Architecture designed (RAW → star schema → dashboard)
-- [x] Data quality checks added (Great Expectations)
-- [ ] Snowflake objects created (`01_snowflake_setup.sql`)
-- [ ] Airflow running in Docker
-- [ ] First DAG run successful
 
