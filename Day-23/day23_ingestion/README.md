@@ -23,5 +23,3 @@ Sources -> `data/staging/<source>/*.json` (raw NDJSON) -> Snowflake `RAW_<SOURCE
 
 **Test incremental load:** `docker compose exec airflow python scripts/make_samples.py update`, trigger again.
 Only the 10 changed/new orders are loaded.
-
-Linux note: if `data/` isn't writable from the container, run `chmod -R 777 data`.
