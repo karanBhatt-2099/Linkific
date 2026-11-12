@@ -1,0 +1,14 @@
+services:
+  airflow:
+    build: .
+    command: standalone          # webserver + scheduler in one container
+    env_file: .env               # Snowflake + API keys come from here
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      PYTHONPATH: /opt/airflow   # so DAGs can `import scripts.*`
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data

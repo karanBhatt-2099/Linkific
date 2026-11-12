@@ -1,0 +1,5 @@
+snowflake-connector-python
+beautifulsoup4
+pandas
+openpyxl
+requests
