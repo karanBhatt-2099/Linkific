@@ -1,0 +1,5 @@
+doctor_id,doctor_name,department,updated_at,is_deleted
+D01,Dr. Anil Sharma,cardiology,2026-10-01 08:00:00,false
+D02,dr. priya menon,Neurology,2026-10-01 08:05:00,false
+D03,Dr. Karan Shah,ORTHOPEDICS,2026-10-01 08:10:00,false
+D04,Dr. Neha Gupta,Pediatrics,2026-10-01 08:15:00,false

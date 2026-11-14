@@ -1,0 +1,17 @@
+patient_id,full_name,dob,gender,phone,email,updated_at,is_deleted
+P001,  asha rao ,1985-03-12,F,98765-43210,ASHA.RAO@MAIL.COM,2026-11-01 09:00:00,false
+P002,Rahul Mehta,1990-07-25,male,9123456780,rahul@mail.com,2026-11-01 09:05:00,false
+P003,Sneha Iyer,1978-01-30,Female,9988776655,sneha@mail.com,2026-11-02 10:00:00,false
+P003,Sneha Iyer,1978-01-30,Female,9988776655,old.sneha@mail.com,2026-10-20 10:00:00,false
+P004,Vikram Singh,2001-11-05,M,9000011111,vikram@mail.com,2026-11-02 10:30:00,false
+P005,Meena Kapoor,1965-09-18,f,9811122233,meena@mail.com,2026-11-03 11:00:00,false
+P006,Arjun Nair,2015-04-02,male,9822233344,arjun@mail.com,2026-11-03 11:30:00,false
+P007,Bad Email,1995-06-06,M,9833344455,not-an-email,2026-11-04 08:00:00,false
+P008,Short Phone,1992-02-02,F,12345,short@mail.com,2026-11-04 08:30:00,false
+P009,,1988-08-08,F,9844455566,noname@mail.com,2026-11-04 09:00:00,false
+P010,Future Dob,2090-01-01,M,9855566677,future@mail.com,2026-11-04 09:30:00,false
+P011,Kavita Joshi,1982-12-09,F,9866677788,kavita@mail.com,2026-11-05 10:00:00,false
+P012,Rohan Desai,1999-05-21,M,9877788899,rohan@mail.com,2026-11-05 10:30:00,false
+P013,Divya Pillai,1970-10-10,Female,9888899900,divya@mail.com,2026-11-06 09:00:00,false
+P014,Imran Khan,1955-02-14,Male,9899900011,imran@mail.com,2026-11-06 09:30:00,false
+P015,Tara Bose,2010-08-30,F,9700011122,tara@mail.com,2026-11-07 09:00:00,false

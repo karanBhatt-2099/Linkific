@@ -1,0 +1,5 @@
+pyspark>=3.5
+snowflake-connector-python
+pytest
+# Usually already installed on the Airflow image; pin to your Airflow version if you install it here.
+apache-airflow>=2.8
