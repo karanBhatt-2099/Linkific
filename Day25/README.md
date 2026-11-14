@@ -50,10 +50,3 @@ Email alerts: set `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASSWORD`, `ALERT
 
 Airflow: put the project on `PYTHONPATH`, copy or link `dags/hospital_etl_dag.py` into your dags folder, and make `ETL_STAGING_DIR` shared storage if tasks run on different workers.
 
-## Known limits
-
-- The sample data is deliberately dirty (about a third of rows are rejected) so every check has something to catch.
-- Change capture uses `>` on `updated_at`, so a row that is edited in the same second as the last load is missed.
-- The source here is CSV, so extract reads whole files. With a database source, push the `updated_at > watermark` filter into the query.
-- A hard delete in the source (row simply disappears) is not detected; deletes must arrive as `is_deleted = true`.
-- `etl/snowflake_io.py` was not run against a real Snowflake account; it is covered by the fake sink in tests and by the `MERGE` SQL tests only.
