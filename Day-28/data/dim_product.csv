@@ -1,0 +1,41 @@
+product_key,product_name,category,unit_price,unit_cost
+1,Electronics Item 1,Electronics,281.83,220.38
+2,Electronics Item 2,Electronics,639.4,383.94
+3,Electronics Item 3,Electronics,297.49,219.61
+4,Electronics Item 4,Electronics,634.05,418.5
+5,Electronics Item 5,Electronics,825.72,608.21
+6,Electronics Item 6,Electronics,306.17,181.72
+7,Electronics Item 7,Electronics,373.94,270.43
+8,Electronics Item 8,Electronics,223.47,149.94
+9,Electronics Item 9,Electronics,733.72,559.85
+10,Electronics Item 10,Electronics,439.46,328.0
+11,Furniture Item 1,Furniture,155.32,117.1
+12,Furniture Item 2,Furniture,163.74,101.39
+13,Furniture Item 3,Furniture,498.65,271.75
+14,Furniture Item 4,Furniture,214.63,153.82
+15,Furniture Item 5,Furniture,460.02,318.49
+16,Furniture Item 6,Furniture,446.97,296.26
+17,Furniture Item 7,Furniture,225.9,136.38
+18,Furniture Item 8,Furniture,190.8,147.4
+19,Furniture Item 9,Furniture,391.7,242.95
+20,Furniture Item 10,Furniture,331.0,259.57
+21,Office Supplies Item 1,Office Supplies,16.5,11.15
+22,Office Supplies Item 2,Office Supplies,42.94,29.35
+23,Office Supplies Item 3,Office Supplies,6.36,4.84
+24,Office Supplies Item 4,Office Supplies,74.91,50.16
+25,Office Supplies Item 5,Office Supplies,57.25,44.47
+26,Office Supplies Item 6,Office Supplies,58.04,31.68
+27,Office Supplies Item 7,Office Supplies,48.22,32.89
+28,Office Supplies Item 8,Office Supplies,36.81,26.54
+29,Office Supplies Item 9,Office Supplies,75.08,58.39
+30,Office Supplies Item 10,Office Supplies,38.81,20.72
+31,Clothing Item 1,Clothing,148.03,111.27
+32,Clothing Item 2,Clothing,36.21,28.11
+33,Clothing Item 3,Clothing,133.09,87.26
+34,Clothing Item 4,Clothing,96.87,60.03
+35,Clothing Item 5,Clothing,27.12,16.29
+36,Clothing Item 6,Clothing,124.37,62.36
+37,Clothing Item 7,Clothing,63.35,39.24
+38,Clothing Item 8,Clothing,89.86,69.73
+39,Clothing Item 9,Clothing,65.02,39.28
+40,Clothing Item 10,Clothing,115.88,73.66

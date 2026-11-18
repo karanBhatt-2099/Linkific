@@ -1,0 +1,501 @@
+customer_key,customer_name,segment,region
+1,Customer 1,Consumer,South
+2,Customer 2,Small Business,East
+3,Customer 3,Corporate,North
+4,Customer 4,Corporate,North
+5,Customer 5,Consumer,North
+6,Customer 6,Consumer,North
+7,Customer 7,Consumer,West
+8,Customer 8,Small Business,North
+9,Customer 9,Corporate,West
+10,Customer 10,Corporate,West
+11,Customer 11,Consumer,North
+12,Customer 12,Small Business,North
+13,Customer 13,Small Business,South
+14,Customer 14,Consumer,East
+15,Customer 15,Consumer,North
+16,Customer 16,Consumer,South
+17,Customer 17,Consumer,South
+18,Customer 18,Corporate,East
+19,Customer 19,Consumer,West
+20,Customer 20,Consumer,North
+21,Customer 21,Corporate,East
+22,Customer 22,Consumer,North
+23,Customer 23,Consumer,South
+24,Customer 24,Consumer,South
+25,Customer 25,Consumer,West
+26,Customer 26,Corporate,South
+27,Customer 27,Consumer,South
+28,Customer 28,Corporate,East
+29,Customer 29,Corporate,North
+30,Customer 30,Consumer,North
+31,Customer 31,Corporate,East
+32,Customer 32,Consumer,West
+33,Customer 33,Consumer,North
+34,Customer 34,Small Business,South
+35,Customer 35,Small Business,North
+36,Customer 36,Small Business,South
+37,Customer 37,Consumer,West
+38,Customer 38,Consumer,East
+39,Customer 39,Corporate,North
+40,Customer 40,Consumer,East
+41,Customer 41,Consumer,North
+42,Customer 42,Consumer,South
+43,Customer 43,Consumer,East
+44,Customer 44,Small Business,North
+45,Customer 45,Consumer,South
+46,Customer 46,Corporate,East
+47,Customer 47,Consumer,East
+48,Customer 48,Corporate,North
+49,Customer 49,Corporate,North
+50,Customer 50,Consumer,North
+51,Customer 51,Small Business,South
+52,Customer 52,Corporate,North
+53,Customer 53,Small Business,East
+54,Customer 54,Small Business,East
+55,Customer 55,Corporate,North
+56,Customer 56,Small Business,North
+57,Customer 57,Consumer,West
+58,Customer 58,Consumer,East
+59,Customer 59,Consumer,South
+60,Customer 60,Consumer,West
+61,Customer 61,Consumer,North
+62,Customer 62,Consumer,North
+63,Customer 63,Small Business,East
+64,Customer 64,Consumer,North
+65,Customer 65,Consumer,South
+66,Customer 66,Corporate,East
+67,Customer 67,Consumer,North
+68,Customer 68,Small Business,East
+69,Customer 69,Consumer,North
+70,Customer 70,Small Business,North
+71,Customer 71,Corporate,North
+72,Customer 72,Consumer,South
+73,Customer 73,Consumer,South
+74,Customer 74,Small Business,East
+75,Customer 75,Corporate,North
+76,Customer 76,Corporate,North
+77,Customer 77,Corporate,South
+78,Customer 78,Consumer,North
+79,Customer 79,Consumer,South
+80,Customer 80,Consumer,North
+81,Customer 81,Small Business,East
+82,Customer 82,Corporate,North
+83,Customer 83,Consumer,North
+84,Customer 84,Consumer,West
+85,Customer 85,Consumer,South
+86,Customer 86,Consumer,North
+87,Customer 87,Corporate,North
+88,Customer 88,Corporate,West
+89,Customer 89,Small Business,West
+90,Customer 90,Consumer,South
+91,Customer 91,Consumer,West
+92,Customer 92,Corporate,East
+93,Customer 93,Corporate,West
+94,Customer 94,Corporate,East
+95,Customer 95,Corporate,South
+96,Customer 96,Consumer,South
+97,Customer 97,Corporate,South
+98,Customer 98,Consumer,South
+99,Customer 99,Consumer,South
+100,Customer 100,Consumer,East
+101,Customer 101,Consumer,East
+102,Customer 102,Corporate,South
+103,Customer 103,Consumer,West
+104,Customer 104,Corporate,North
+105,Customer 105,Small Business,South
+106,Customer 106,Consumer,West
+107,Customer 107,Consumer,North
+108,Customer 108,Corporate,South
+109,Customer 109,Consumer,South
+110,Customer 110,Consumer,East
+111,Customer 111,Consumer,North
+112,Customer 112,Consumer,North
+113,Customer 113,Small Business,West
+114,Customer 114,Small Business,East
+115,Customer 115,Corporate,East
+116,Customer 116,Small Business,East
+117,Customer 117,Small Business,East
+118,Customer 118,Consumer,North
+119,Customer 119,Small Business,North
+120,Customer 120,Corporate,South
+121,Customer 121,Small Business,South
+122,Customer 122,Small Business,East
+123,Customer 123,Consumer,East
+124,Customer 124,Consumer,East
+125,Customer 125,Consumer,South
+126,Customer 126,Consumer,West
+127,Customer 127,Small Business,West
+128,Customer 128,Small Business,South
+129,Customer 129,Consumer,South
+130,Customer 130,Corporate,South
+131,Customer 131,Consumer,South
+132,Customer 132,Consumer,South
+133,Customer 133,Consumer,South
+134,Customer 134,Consumer,East
+135,Customer 135,Small Business,East
+136,Customer 136,Consumer,East
+137,Customer 137,Corporate,East
+138,Customer 138,Corporate,South
+139,Customer 139,Consumer,West
+140,Customer 140,Small Business,North
+141,Customer 141,Small Business,South
+142,Customer 142,Consumer,North
+143,Customer 143,Consumer,West
+144,Customer 144,Consumer,East
+145,Customer 145,Consumer,West
+146,Customer 146,Consumer,South
+147,Customer 147,Corporate,East
+148,Customer 148,Corporate,South
+149,Customer 149,Consumer,East
+150,Customer 150,Consumer,North
+151,Customer 151,Small Business,North
+152,Customer 152,Consumer,North
+153,Customer 153,Consumer,West
+154,Customer 154,Consumer,South
+155,Customer 155,Small Business,West
+156,Customer 156,Consumer,North
+157,Customer 157,Corporate,South
+158,Customer 158,Corporate,North
+159,Customer 159,Consumer,West
+160,Customer 160,Corporate,West
+161,Customer 161,Consumer,West
+162,Customer 162,Corporate,North
+163,Customer 163,Corporate,South
+164,Customer 164,Corporate,South
+165,Customer 165,Consumer,North
+166,Customer 166,Small Business,South
+167,Customer 167,Consumer,North
+168,Customer 168,Consumer,South
+169,Customer 169,Consumer,East
+170,Customer 170,Corporate,East
+171,Customer 171,Corporate,West
+172,Customer 172,Consumer,East
+173,Customer 173,Corporate,East
+174,Customer 174,Consumer,East
+175,Customer 175,Corporate,North
+176,Customer 176,Consumer,East
+177,Customer 177,Corporate,East
+178,Customer 178,Consumer,West
+179,Customer 179,Small Business,East
+180,Customer 180,Consumer,East
+181,Customer 181,Consumer,South
+182,Customer 182,Consumer,West
+183,Customer 183,Small Business,West
+184,Customer 184,Small Business,West
+185,Customer 185,Consumer,West
+186,Customer 186,Corporate,West
+187,Customer 187,Small Business,West
+188,Customer 188,Corporate,North
+189,Customer 189,Corporate,East
+190,Customer 190,Consumer,West
+191,Customer 191,Consumer,East
+192,Customer 192,Small Business,East
+193,Customer 193,Small Business,North
+194,Customer 194,Corporate,West
+195,Customer 195,Consumer,South
+196,Customer 196,Consumer,North
+197,Customer 197,Corporate,South
+198,Customer 198,Small Business,East
+199,Customer 199,Small Business,East
+200,Customer 200,Corporate,North
+201,Customer 201,Corporate,North
+202,Customer 202,Consumer,South
+203,Customer 203,Consumer,West
+204,Customer 204,Small Business,South
+205,Customer 205,Corporate,North
+206,Customer 206,Consumer,South
+207,Customer 207,Consumer,North
+208,Customer 208,Corporate,South
+209,Customer 209,Consumer,North
+210,Customer 210,Consumer,North
+211,Customer 211,Corporate,North
+212,Customer 212,Corporate,West
+213,Customer 213,Corporate,South
+214,Customer 214,Consumer,South
+215,Customer 215,Corporate,South
+216,Customer 216,Consumer,North
+217,Customer 217,Consumer,South
+218,Customer 218,Corporate,South
+219,Customer 219,Corporate,North
+220,Customer 220,Small Business,East
+221,Customer 221,Corporate,North
+222,Customer 222,Corporate,South
+223,Customer 223,Consumer,North
+224,Customer 224,Consumer,East
+225,Customer 225,Consumer,North
+226,Customer 226,Consumer,South
+227,Customer 227,Small Business,East
+228,Customer 228,Consumer,West
+229,Customer 229,Small Business,South
+230,Customer 230,Corporate,East
+231,Customer 231,Corporate,East
+232,Customer 232,Corporate,West
+233,Customer 233,Corporate,North
+234,Customer 234,Consumer,North
+235,Customer 235,Consumer,South
+236,Customer 236,Corporate,West
+237,Customer 237,Consumer,North
+238,Customer 238,Consumer,West
+239,Customer 239,Corporate,North
+240,Customer 240,Consumer,East
+241,Customer 241,Small Business,North
+242,Customer 242,Small Business,West
+243,Customer 243,Small Business,East
+244,Customer 244,Consumer,East
+245,Customer 245,Consumer,East
+246,Customer 246,Small Business,West
+247,Customer 247,Consumer,South
+248,Customer 248,Small Business,South
+249,Customer 249,Small Business,South
+250,Customer 250,Small Business,West
+251,Customer 251,Consumer,East
+252,Customer 252,Consumer,South
+253,Customer 253,Small Business,West
+254,Customer 254,Consumer,South
+255,Customer 255,Consumer,North
+256,Customer 256,Corporate,South
+257,Customer 257,Small Business,South
+258,Customer 258,Corporate,East
+259,Customer 259,Corporate,West
+260,Customer 260,Consumer,East
+261,Customer 261,Corporate,East
+262,Customer 262,Small Business,East
+263,Customer 263,Consumer,East
+264,Customer 264,Corporate,East
+265,Customer 265,Small Business,South
+266,Customer 266,Corporate,East
+267,Customer 267,Corporate,East
+268,Customer 268,Corporate,West
+269,Customer 269,Consumer,North
+270,Customer 270,Consumer,South
+271,Customer 271,Small Business,South
+272,Customer 272,Small Business,South
+273,Customer 273,Small Business,East
+274,Customer 274,Small Business,East
+275,Customer 275,Corporate,East
+276,Customer 276,Corporate,West
+277,Customer 277,Corporate,North
+278,Customer 278,Corporate,East
+279,Customer 279,Corporate,North
+280,Customer 280,Corporate,West
+281,Customer 281,Small Business,South
+282,Customer 282,Consumer,East
+283,Customer 283,Consumer,North
+284,Customer 284,Consumer,North
+285,Customer 285,Corporate,East
+286,Customer 286,Consumer,South
+287,Customer 287,Consumer,South
+288,Customer 288,Corporate,South
+289,Customer 289,Consumer,West
+290,Customer 290,Corporate,North
+291,Customer 291,Consumer,North
+292,Customer 292,Consumer,North
+293,Customer 293,Small Business,West
+294,Customer 294,Consumer,North
+295,Customer 295,Consumer,West
+296,Customer 296,Corporate,South
+297,Customer 297,Corporate,East
+298,Customer 298,Consumer,North
+299,Customer 299,Corporate,North
+300,Customer 300,Consumer,South
+301,Customer 301,Consumer,East
+302,Customer 302,Corporate,West
+303,Customer 303,Corporate,East
+304,Customer 304,Corporate,South
+305,Customer 305,Corporate,South
+306,Customer 306,Small Business,East
+307,Customer 307,Corporate,West
+308,Customer 308,Consumer,West
+309,Customer 309,Corporate,North
+310,Customer 310,Consumer,West
+311,Customer 311,Consumer,East
+312,Customer 312,Consumer,South
+313,Customer 313,Consumer,North
+314,Customer 314,Small Business,North
+315,Customer 315,Small Business,South
+316,Customer 316,Corporate,West
+317,Customer 317,Consumer,South
+318,Customer 318,Consumer,West
+319,Customer 319,Consumer,South
+320,Customer 320,Consumer,East
+321,Customer 321,Corporate,West
+322,Customer 322,Corporate,East
+323,Customer 323,Corporate,North
+324,Customer 324,Consumer,South
+325,Customer 325,Small Business,North
+326,Customer 326,Corporate,North
+327,Customer 327,Corporate,North
+328,Customer 328,Corporate,North
+329,Customer 329,Consumer,South
+330,Customer 330,Consumer,North
+331,Customer 331,Consumer,South
+332,Customer 332,Corporate,South
+333,Customer 333,Consumer,East
+334,Customer 334,Consumer,West
+335,Customer 335,Consumer,West
+336,Customer 336,Consumer,South
+337,Customer 337,Small Business,East
+338,Customer 338,Corporate,South
+339,Customer 339,Consumer,South
+340,Customer 340,Consumer,South
+341,Customer 341,Consumer,East
+342,Customer 342,Consumer,West
+343,Customer 343,Consumer,East
+344,Customer 344,Consumer,North
+345,Customer 345,Consumer,East
+346,Customer 346,Corporate,East
+347,Customer 347,Corporate,East
+348,Customer 348,Consumer,East
+349,Customer 349,Consumer,West
+350,Customer 350,Corporate,North
+351,Customer 351,Corporate,West
+352,Customer 352,Small Business,West
+353,Customer 353,Corporate,East
+354,Customer 354,Consumer,South
+355,Customer 355,Consumer,South
+356,Customer 356,Corporate,West
+357,Customer 357,Consumer,West
+358,Customer 358,Corporate,East
+359,Customer 359,Small Business,West
+360,Customer 360,Corporate,East
+361,Customer 361,Consumer,South
+362,Customer 362,Corporate,South
+363,Customer 363,Consumer,North
+364,Customer 364,Corporate,South
+365,Customer 365,Small Business,West
+366,Customer 366,Consumer,South
+367,Customer 367,Small Business,East
+368,Customer 368,Small Business,South
+369,Customer 369,Consumer,North
+370,Customer 370,Consumer,South
+371,Customer 371,Consumer,East
+372,Customer 372,Consumer,East
+373,Customer 373,Consumer,West
+374,Customer 374,Corporate,South
+375,Customer 375,Consumer,East
+376,Customer 376,Consumer,North
+377,Customer 377,Small Business,West
+378,Customer 378,Consumer,North
+379,Customer 379,Small Business,South
+380,Customer 380,Consumer,South
+381,Customer 381,Consumer,South
+382,Customer 382,Corporate,West
+383,Customer 383,Corporate,East
+384,Customer 384,Small Business,West
+385,Customer 385,Corporate,North
+386,Customer 386,Small Business,West
+387,Customer 387,Consumer,North
+388,Customer 388,Consumer,West
+389,Customer 389,Corporate,East
+390,Customer 390,Small Business,North
+391,Customer 391,Small Business,South
+392,Customer 392,Consumer,South
+393,Customer 393,Consumer,West
+394,Customer 394,Corporate,South
+395,Customer 395,Consumer,North
+396,Customer 396,Small Business,South
+397,Customer 397,Small Business,East
+398,Customer 398,Consumer,East
+399,Customer 399,Corporate,West
+400,Customer 400,Corporate,North
+401,Customer 401,Consumer,East
+402,Customer 402,Small Business,East
+403,Customer 403,Corporate,North
+404,Customer 404,Small Business,South
+405,Customer 405,Consumer,South
+406,Customer 406,Small Business,West
+407,Customer 407,Consumer,South
+408,Customer 408,Consumer,North
+409,Customer 409,Small Business,East
+410,Customer 410,Consumer,South
+411,Customer 411,Consumer,West
+412,Customer 412,Small Business,South
+413,Customer 413,Small Business,North
+414,Customer 414,Corporate,West
+415,Customer 415,Corporate,South
+416,Customer 416,Consumer,West
+417,Customer 417,Consumer,North
+418,Customer 418,Consumer,East
+419,Customer 419,Corporate,North
+420,Customer 420,Corporate,North
+421,Customer 421,Corporate,North
+422,Customer 422,Corporate,North
+423,Customer 423,Consumer,East
+424,Customer 424,Consumer,East
+425,Customer 425,Consumer,West
+426,Customer 426,Corporate,South
+427,Customer 427,Consumer,East
+428,Customer 428,Small Business,East
+429,Customer 429,Consumer,South
+430,Customer 430,Consumer,East
+431,Customer 431,Consumer,North
+432,Customer 432,Corporate,North
+433,Customer 433,Corporate,South
+434,Customer 434,Consumer,West
+435,Customer 435,Consumer,West
+436,Customer 436,Corporate,South
+437,Customer 437,Consumer,South
+438,Customer 438,Small Business,North
+439,Customer 439,Corporate,West
+440,Customer 440,Consumer,East
+441,Customer 441,Consumer,North
+442,Customer 442,Small Business,South
+443,Customer 443,Consumer,West
+444,Customer 444,Consumer,East
+445,Customer 445,Small Business,East
+446,Customer 446,Small Business,North
+447,Customer 447,Small Business,West
+448,Customer 448,Corporate,West
+449,Customer 449,Consumer,South
+450,Customer 450,Consumer,West
+451,Customer 451,Corporate,West
+452,Customer 452,Corporate,North
+453,Customer 453,Consumer,West
+454,Customer 454,Small Business,East
+455,Customer 455,Consumer,North
+456,Customer 456,Consumer,North
+457,Customer 457,Consumer,South
+458,Customer 458,Consumer,West
+459,Customer 459,Consumer,South
+460,Customer 460,Consumer,East
+461,Customer 461,Consumer,North
+462,Customer 462,Corporate,North
+463,Customer 463,Corporate,North
+464,Customer 464,Corporate,East
+465,Customer 465,Small Business,East
+466,Customer 466,Consumer,South
+467,Customer 467,Consumer,South
+468,Customer 468,Small Business,South
+469,Customer 469,Consumer,West
+470,Customer 470,Small Business,North
+471,Customer 471,Consumer,North
+472,Customer 472,Small Business,South
+473,Customer 473,Consumer,North
+474,Customer 474,Small Business,South
+475,Customer 475,Corporate,West
+476,Customer 476,Small Business,West
+477,Customer 477,Consumer,East
+478,Customer 478,Corporate,West
+479,Customer 479,Small Business,South
+480,Customer 480,Corporate,West
+481,Customer 481,Corporate,East
+482,Customer 482,Corporate,North
+483,Customer 483,Consumer,South
+484,Customer 484,Corporate,North
+485,Customer 485,Corporate,East
+486,Customer 486,Small Business,East
+487,Customer 487,Consumer,East
+488,Customer 488,Consumer,North
+489,Customer 489,Small Business,North
+490,Customer 490,Small Business,North
+491,Customer 491,Consumer,North
+492,Customer 492,Corporate,East
+493,Customer 493,Consumer,East
+494,Customer 494,Consumer,South
+495,Customer 495,Consumer,South
+496,Customer 496,Consumer,North
+497,Customer 497,Corporate,West
+498,Customer 498,Consumer,West
+499,Customer 499,Small Business,East
+500,Customer 500,Small Business,East
