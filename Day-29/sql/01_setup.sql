@@ -1,0 +1,75 @@
+-- One-time setup. Run as a role that can create schemas/tables (e.g. SYSADMIN) in ETL_DEMO.
+-- Usage: python scripts/setup_snowflake.py
+
+CREATE SCHEMA IF NOT EXISTS RAW;
+CREATE SCHEMA IF NOT EXISTS CORE;
+CREATE SCHEMA IF NOT EXISTS MART;
+CREATE SCHEMA IF NOT EXISTS AUDIT;
+
+-- Staging: append-only, one batch per run, kept for replay/debugging
+CREATE TABLE IF NOT EXISTS RAW.ORDERS_STG (
+    ORDER_ID      VARCHAR,
+    CUSTOMER_ID   VARCHAR,
+    PRODUCT       VARCHAR,
+    CATEGORY      VARCHAR,
+    QUANTITY      NUMBER(10,0),
+    UNIT_PRICE    NUMBER(12,2),
+    ORDER_DATE    DATE,
+    STATUS        VARCHAR,
+    COUNTRY       VARCHAR,
+    GROSS_AMOUNT  NUMBER(14,2),
+    NET_REVENUE   NUMBER(14,2),
+    BATCH_ID      VARCHAR,
+    LOADED_AT     TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP()
+);
+
+-- Core: one row per order, upserted
+CREATE TABLE IF NOT EXISTS CORE.ORDERS (
+    ORDER_ID      VARCHAR       NOT NULL,
+    CUSTOMER_ID   VARCHAR       NOT NULL,
+    PRODUCT       VARCHAR,
+    CATEGORY      VARCHAR,
+    QUANTITY      NUMBER(10,0),
+    UNIT_PRICE    NUMBER(12,2),
+    ORDER_DATE    DATE          NOT NULL,
+    STATUS        VARCHAR,
+    COUNTRY       VARCHAR,
+    GROSS_AMOUNT  NUMBER(14,2),
+    NET_REVENUE   NUMBER(14,2),
+    LAST_BATCH_ID VARCHAR,
+    UPDATED_AT    TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    PRIMARY KEY (ORDER_ID)
+)
+CLUSTER BY (ORDER_DATE);
+
+-- Mart: dashboard-facing aggregate (one row per day x country x category)
+CREATE TABLE IF NOT EXISTS MART.DAILY_SALES (
+    ORDER_DATE      DATE,
+    COUNTRY         VARCHAR,
+    CATEGORY        VARCHAR,
+    ORDERS          NUMBER,
+    UNITS           NUMBER,
+    GROSS_AMOUNT    NUMBER(16,2),
+    NET_REVENUE     NUMBER(16,2),
+    CANCELLED_ORDERS NUMBER,
+    REFRESHED_AT    TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    PRIMARY KEY (ORDER_DATE, COUNTRY, CATEGORY)
+);
+
+-- Audit: one row per pipeline run
+CREATE TABLE IF NOT EXISTS AUDIT.PIPELINE_RUNS (
+    BATCH_ID       VARCHAR,
+    STARTED_AT     TIMESTAMP_NTZ,
+    FINISHED_AT    TIMESTAMP_NTZ,
+    RAW_ROWS       NUMBER,
+    CLEAN_ROWS     NUMBER,
+    REJECT_ROWS    NUMBER,
+    STATUS         VARCHAR
+);
+
+-- Cheap, auto-suspending warehouse for the demo (needs CREATE WAREHOUSE privilege; skip if ETL_WH exists)
+CREATE WAREHOUSE IF NOT EXISTS ETL_WH
+    WAREHOUSE_SIZE = 'XSMALL'
+    AUTO_SUSPEND = 60
+    AUTO_RESUME = TRUE
+    INITIALLY_SUSPENDED = TRUE
